@@ -1,0 +1,29 @@
+{
+    "keywordhandler.add.usage": {
+        "message": "Usage: !keyword add [keyword / regex:keyword] [response]"
+    }, 
+    "keywordhandler.cooldown.removed": {
+        "message": "Cooldown for keyword $1 has been removed."
+    }, 
+    "keywordhandler.cooldown.set": {
+        "message": "Cooldown for keyword $1 has been set to $2 seconds."
+    }, 
+    "keywordhandler.cooldown.usage": {
+        "message": "Usage: !keyword cooldown [keyword] [seconds] - Use -1 to remove a cooldown."
+    }, 
+    "keywordhandler.keyword.404": {
+        "message": "That keyword does not exist."
+    }, 
+    "keywordhandler.keyword.added": {
+        "message": "keyword \"$1\" added!"
+    }, 
+    "keywordhandler.keyword.removed": {
+        "message": "keyword \"$1\" has been removed!"
+    }, 
+    "keywordhandler.keyword.usage": {
+        "message": "Usage: !keyword [add / remove / cooldown] [keyword]"
+    }, 
+    "keywordhandler.remove.usage": {
+        "message": "Usage: !keyword remove [keyword]"
+    }
+}

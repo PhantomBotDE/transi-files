@@ -1,0 +1,509 @@
+{
+    "roll.lost.1": {
+        "message": "Better luck next time!"
+    }, 
+    "roll.lost.10": {
+        "message": "$1 has lost something great today!"
+    }, 
+    "roll.lost.11": {
+        "message": "Perhaps if you trained in the mountains in solitude, you could learn how to win."
+    }, 
+    "roll.lost.12": {
+        "message": "Believe in the heart of the cards!"
+    }, 
+    "roll.lost.13": {
+        "message": "Believe in me who believes in you!"
+    }, 
+    "roll.lost.14": {
+        "message": "404 Win Not Found."
+    }, 
+    "roll.lost.15": {
+        "message": "If the human body is 65% water, how can you be 100% salt?"
+    }, 
+    "roll.lost.16": {
+        "message": "To win you must gain sight beyond sight!"
+    }, 
+    "roll.lost.17": {
+        "message": "You're great at losing! Don't let anyone tell you otherwise."
+    }, 
+    "roll.lost.18": {
+        "message": "So tell me, what's it like living in a constant haze of losses?"
+    }, 
+    "roll.lost.19": {
+        "message": "Did you know that games of chance is the same way how Quantum Mechanics work?"
+    }, 
+    "roll.lost.2": {
+        "message": "Gambling can be hard, but don't stray."
+    }, 
+    "roll.lost.20": {
+        "message": "L-O-S-E-R..."
+    }, 
+    "roll.lost.21": {
+        "message": "Dreams shattered :("
+    }, 
+    "roll.lost.22": {
+        "message": "Looks like you've activated my trap card Kappa"
+    }, 
+    "roll.lost.23": {
+        "message": "You're not obligated to win. You're obligated to keep trying."
+    }, 
+    "roll.lost.24": {
+        "message": "This is not the end, this is not even the beginning of the end, this is just perhaps the end of the beginning."
+    }, 
+    "roll.lost.25": {
+        "message": "Sometimes not getting what you want is a brilliant stroke of luck."
+    }, 
+    "roll.lost.26": {
+        "message": "Winning takes talent, to repeat takes character."
+    }, 
+    "roll.lost.27": {
+        "message": "Snake? Snake?! Snaaaaaaaaaake!!."
+    }, 
+    "roll.lost.28": {
+        "message": "You're like forrest gump without the running thing"
+    }, 
+    "roll.lost.29": {
+        "message": "You should go set the world record for holding your breath."
+    }, 
+    "roll.lost.3": {
+        "message": "Dreamin', don't give it up $1"
+    }, 
+    "roll.lost.30": {
+        "message": "Shut down!"
+    }, 
+    "roll.lost.31": {
+        "message": "You don't deserve to play this game. Go back to playing with crayons."
+    }, 
+    "roll.lost.32": {
+        "message": "Too bad. Game over. Insert new quarter."
+    }, 
+    "roll.lost.33": {
+        "message": "The Goddess Fortuna frowns upon you."
+    }, 
+    "roll.lost.34": {
+        "message": "In my ideal nation, there would exist no one as weak as you!"
+    }, 
+    "roll.lost.35": {
+        "message": "What a joke!"
+    }, 
+    "roll.lost.36": {
+        "message": "Learn from your defeat, child."
+    }, 
+    "roll.lost.37": {
+        "message": "You do not have enough experience! Are you listening to me?!"
+    }, 
+    "roll.lost.38": {
+        "message": "Hope you're listening. Level up homie!"
+    }, 
+    "roll.lost.39": {
+        "message": "Your technique need work."
+    }, 
+    "roll.lost.4": {
+        "message": "You have ignited a nuclear war! And no, there is no animated display of a mushroom cloud. Why? Because we do not reward failure."
+    }, 
+    "roll.lost.40": {
+        "message": "Hey, did you hurt yourself?"
+    }, 
+    "roll.lost.41": {
+        "message": "That's your best?"
+    }, 
+    "roll.lost.42": {
+        "message": "Hah ha ha ha ha ha ha!"
+    }, 
+    "roll.lost.43": {
+        "message": "Don't make excuses for your loss! Go train and try again!"
+    }, 
+    "roll.lost.44": {
+        "message": "Hey, you're not that bad. You're not very good, either."
+    }, 
+    "roll.lost.45": {
+        "message": "I've had meetings that were more grueling than this."
+    }, 
+    "roll.lost.46": {
+        "message": "Even by the lowest standards, that was really bad."
+    }, 
+    "roll.lost.47": {
+        "message": "Ha-ha-ha! What's the matter? You don't like losing? Well, that's not my problem. Ha, ha, ha, ha, ha!"
+    }, 
+    "roll.lost.48": {
+        "message": "Ancient words of wisdom... \"you suck\""
+    }, 
+    "roll.lost.49": {
+        "message": "I won't say you're bad. I'll just think it, OK?"
+    }, 
+    "roll.lost.5": {
+        "message": "Can you like.. win? please?"
+    }, 
+    "roll.lost.50": {
+        "message": "I think I've learned something from this. You're nothing..."
+    }, 
+    "roll.lost.51": {
+        "message": "Hey! Don't worry about it! You know... being bad and all!"
+    }, 
+    "roll.lost.52": {
+        "message": "The tragedy of all losers is that they think they were on the verge of victory."
+    }, 
+    "roll.lost.53": {
+        "message": "Hm! You should go back to playing puzzle games!"
+    }, 
+    "roll.lost.54": {
+        "message": "The past is the past man. If you are a loser now, then you\u2019re a loser period."
+    }, 
+    "roll.lost.55": {
+        "message": "The reason you lost is quite simple: you're bad!"
+    }, 
+    "roll.lost.56": {
+        "message": "Remember that one time during the game when it looked like you might actually win? No? Me neither."
+    }, 
+    "roll.lost.57": {
+        "message": "Is that all you can do? You wouldn't have gone very far with that anyway."
+    }, 
+    "roll.lost.58": {
+        "message": "Don't blame bad luck or fate. You lost because you suck."
+    }, 
+    "roll.lost.59": {
+        "message": "You weren't that bad. You were pathetic! Go home!"
+    }, 
+    "roll.lost.6": {
+        "message": "Game Over."
+    }, 
+    "roll.lost.60": {
+        "message": "You made an effort at least, pathetic as it was!"
+    }, 
+    "roll.lost.61": {
+        "message": "My dad could win, and he's dead!"
+    }, 
+    "roll.lost.62": {
+        "message": "You with the keyboard! I won DESPITE you. You suck. And smell -- REALLY smell."
+    }, 
+    "roll.lost.63": {
+        "message": "A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses."
+    }, 
+    "roll.lost.64": {
+        "message": "If you can't win, lose like a champion!"
+    }, 
+    "roll.lost.65": {
+        "message": "Welcome to Loserville! Population: You!"
+    }, 
+    "roll.lost.66": {
+        "message": "Whoever said, \"It's not whether you win or lose that counts,\" probably lost."
+    }, 
+    "roll.lost.67": {
+        "message": "What went wrong? What didn't? - it was just one of those days. Not your day really"
+    }, 
+    "roll.lost.7": {
+        "message": "Don't looooose your waaaaaaay!"
+    }, 
+    "roll.lost.8": {
+        "message": "You just weren't good enough."
+    }, 
+    "roll.lost.9": {
+        "message": "Will $1 finally win? Find out next time on Dragon Ball Z!"
+    }, 
+    "roll.win.1": {
+        "message": "Congratulations!"
+    }, 
+    "roll.win.10": {
+        "message": "Dreams do come true!"
+    }, 
+    "roll.win.11": {
+        "message": "The way to success is always difficult, but you still manage to get yourself on top and be honored."
+    }, 
+    "roll.win.12": {
+        "message": "You rarely win, but sometimes you do."
+    }, 
+    "roll.win.13": {
+        "message": "Sometimes in life you don't always feel like a winner, but that doesn't mean you're not a winner."
+    }, 
+    "roll.win.14": {
+        "message": "It's easy to win. Anybody can win."
+    }, 
+    "roll.win.15": {
+        "message": "Winning is great, sure, but if you are really going to do something in life, the secret is learning how to lose."
+    }, 
+    "roll.win.16": {
+        "message": "A winner is just a loser who tried one more time."
+    }, 
+    "roll.win.17": {
+        "message": "Sugoi~!"
+    }, 
+    "roll.win.18": {
+        "message": "This thing must have been rigged!"
+    }, 
+    "roll.win.19": {
+        "message": "The Goddess Fortuna smiles upon you."
+    }, 
+    "roll.win.2": {
+        "message": "On a scale of 1 to 10, this was 2 easy"
+    }, 
+    "roll.win.20": {
+        "message": "?!......... (Seriously?!)"
+    }, 
+    "roll.win.3": {
+        "message": "Aw, yeah!"
+    }, 
+    "roll.win.4": {
+        "message": "You got lucky."
+    }, 
+    "roll.win.5": {
+        "message": "GOOOOOOOAAAAAL!!"
+    }, 
+    "roll.win.6": {
+        "message": "Keep it up!"
+    }, 
+    "roll.win.7": {
+        "message": "Baby, now you're number one, shining bright for everyone!"
+    }, 
+    "roll.win.8": {
+        "message": "I only let you win out of pity."
+    }, 
+    "roll.win.9": {
+        "message": "If there were more clumsy and perverted people like $1, the world would be a better place."
+    }, 
+    "slot.lost.1": {
+        "message": "Better luck next time!"
+    }, 
+    "slot.lost.10": {
+        "message": "$1 has lost something great today!"
+    }, 
+    "slot.lost.11": {
+        "message": "Perhaps if you trained in the mountains in solitude, you could learn how to win."
+    }, 
+    "slot.lost.12": {
+        "message": "Believe in the heart of the cards!"
+    }, 
+    "slot.lost.13": {
+        "message": "Believe in me who believes in you!"
+    }, 
+    "slot.lost.14": {
+        "message": "404 Win Not Found."
+    }, 
+    "slot.lost.15": {
+        "message": "If the human body is 65% water, how can you be 100% salt?"
+    }, 
+    "slot.lost.16": {
+        "message": "To win you must gain sight beyond sight!"
+    }, 
+    "slot.lost.17": {
+        "message": "You're great at losing! Don't let anyone tell you otherwise."
+    }, 
+    "slot.lost.18": {
+        "message": "So tell me, what's it like living in a constant haze of losses?"
+    }, 
+    "slot.lost.19": {
+        "message": "Did you know that games of chance is the same way how Quantum Mechanics work?"
+    }, 
+    "slot.lost.2": {
+        "message": "Gambling can be hard, but don't stray."
+    }, 
+    "slot.lost.20": {
+        "message": "L-O-S-E-R..."
+    }, 
+    "slot.lost.21": {
+        "message": "Dreams shattered :("
+    }, 
+    "slot.lost.22": {
+        "message": "Looks like you've activated my trap card Kappa"
+    }, 
+    "slot.lost.23": {
+        "message": "You're not obligated to win. You're obligated to keep trying."
+    }, 
+    "slot.lost.24": {
+        "message": "This is not the end, this is not even the beginning of the end, this is just perhaps the end of the beginning."
+    }, 
+    "slot.lost.25": {
+        "message": "Sometimes not getting what you want is a brilliant stroke of luck."
+    }, 
+    "slot.lost.26": {
+        "message": "Winning takes talent, to repeat takes character."
+    }, 
+    "slot.lost.27": {
+        "message": "Snake? Snake?! Snaaaaaaaaaake!!."
+    }, 
+    "slot.lost.28": {
+        "message": "You're like forrest gump without the running thing"
+    }, 
+    "slot.lost.29": {
+        "message": "You should go set the world record for holding your breath."
+    }, 
+    "slot.lost.3": {
+        "message": "Dreamin', don't give it up $1"
+    }, 
+    "slot.lost.30": {
+        "message": "Shut down!"
+    }, 
+    "slot.lost.31": {
+        "message": "You don't deserve to play this game. Go back to playing with crayons."
+    }, 
+    "slot.lost.32": {
+        "message": "Too bad. Game over. Insert new quarter."
+    }, 
+    "slot.lost.33": {
+        "message": "The Goddess Fortuna frowns upon you."
+    }, 
+    "slot.lost.34": {
+        "message": "In my ideal nation, there would exist no one as weak as you!"
+    }, 
+    "slot.lost.35": {
+        "message": "What a joke!"
+    }, 
+    "slot.lost.36": {
+        "message": "Learn from your defeat, child."
+    }, 
+    "slot.lost.37": {
+        "message": "You do not have enough experience! Are you listening to me?!"
+    }, 
+    "slot.lost.38": {
+        "message": "Hope you're listening. Level up homie!"
+    }, 
+    "slot.lost.39": {
+        "message": "Your technique need work."
+    }, 
+    "slot.lost.4": {
+        "message": "You have ignited a nuclear war! And no, there is no animated display of a mushroom cloud. Why? Because we do not reward failure."
+    }, 
+    "slot.lost.40": {
+        "message": "Hey, did you hurt yourself?"
+    }, 
+    "slot.lost.41": {
+        "message": "That's your best?"
+    }, 
+    "slot.lost.42": {
+        "message": "Hah ha ha ha ha ha ha!"
+    }, 
+    "slot.lost.43": {
+        "message": "Don't make excuses for your loss! Go train and try again!"
+    }, 
+    "slot.lost.44": {
+        "message": "Hey, you're not that bad. You're not very good, either."
+    }, 
+    "slot.lost.45": {
+        "message": "I've had meetings that were more grueling than this."
+    }, 
+    "slot.lost.46": {
+        "message": "Even by the lowest standards, that was really bad."
+    }, 
+    "slot.lost.47": {
+        "message": "Ha-ha-ha! What's the matter? You don't like losing? Well, that's not my problem. Ha, ha, ha, ha, ha!"
+    }, 
+    "slot.lost.48": {
+        "message": "Ancient words of wisdom... \"you suck\""
+    }, 
+    "slot.lost.49": {
+        "message": "I won't say you're bad. I'll just think it, OK?"
+    }, 
+    "slot.lost.5": {
+        "message": "Can you like.. win? please?"
+    }, 
+    "slot.lost.50": {
+        "message": "I think I've learned something from this. You're nothing..."
+    }, 
+    "slot.lost.51": {
+        "message": "Hey! Don't worry about it! You know... being bad and all!"
+    }, 
+    "slot.lost.52": {
+        "message": "The tragedy of all losers is that they think they were on the verge of victory."
+    }, 
+    "slot.lost.53": {
+        "message": "Hm! You should go back to playing puzzle games!"
+    }, 
+    "slot.lost.54": {
+        "message": "The past is the past man. If you are a loser now, then you\u2019re a loser period."
+    }, 
+    "slot.lost.55": {
+        "message": "The reason you lost is quite simple: you're bad!"
+    }, 
+    "slot.lost.56": {
+        "message": "Remember that one time during the game when it looked like you might actually win? No? Me neither."
+    }, 
+    "slot.lost.57": {
+        "message": "Is that all you can do? You wouldn't have gone very far with that anyway."
+    }, 
+    "slot.lost.58": {
+        "message": "Don't blame bad luck or fate. You lost because you suck."
+    }, 
+    "slot.lost.59": {
+        "message": "You weren't that bad. You were pathetic! Go home!"
+    }, 
+    "slot.lost.6": {
+        "message": "Game Over."
+    }, 
+    "slot.lost.60": {
+        "message": "You made an effort at least, pathetic as it was!"
+    }, 
+    "slot.lost.61": {
+        "message": "My dad could win, and he's dead!"
+    }, 
+    "slot.lost.62": {
+        "message": "You with the keyboard! I won DESPITE you. You suck. And smell -- REALLY smell."
+    }, 
+    "slot.lost.7": {
+        "message": "Don't looooose your waaaaaaay!"
+    }, 
+    "slot.lost.8": {
+        "message": "You just weren't good enough."
+    }, 
+    "slot.lost.9": {
+        "message": "Will $1 finally win? Find out next time on Dragon Ball Z!"
+    }, 
+    "slot.win.1": {
+        "message": "Congratulations!"
+    }, 
+    "slot.win.10": {
+        "message": "Dreams do come true!"
+    }, 
+    "slot.win.11": {
+        "message": "The way to success is always difficult, but you still manage to get yourself on top and be honored."
+    }, 
+    "slot.win.12": {
+        "message": "You rarely win, but sometimes you do."
+    }, 
+    "slot.win.13": {
+        "message": "Sometimes in life you don't always feel like a winner, but that doesn't mean you're not a winner."
+    }, 
+    "slot.win.14": {
+        "message": "It's easy to win. Anybody can win."
+    }, 
+    "slot.win.15": {
+        "message": "Winning is great, sure, but if you are really going to do something in life, the secret is learning how to lose."
+    }, 
+    "slot.win.16": {
+        "message": "A winner is just a loser who tried one more time."
+    }, 
+    "slot.win.17": {
+        "message": "Sugoi~!"
+    }, 
+    "slot.win.18": {
+        "message": "This thing must have been rigged!"
+    }, 
+    "slot.win.19": {
+        "message": "The Goddess Fortuna smiles upon you."
+    }, 
+    "slot.win.2": {
+        "message": "On a scale of 1 to 10, this was 2 easy"
+    }, 
+    "slot.win.20": {
+        "message": "?!......... (Seriously?!)"
+    }, 
+    "slot.win.3": {
+        "message": "Aw, yeah!"
+    }, 
+    "slot.win.4": {
+        "message": "You got lucky."
+    }, 
+    "slot.win.5": {
+        "message": "GOOOOOOOAAAAAL!!"
+    }, 
+    "slot.win.6": {
+        "message": "Keep it up!"
+    }, 
+    "slot.win.7": {
+        "message": "Baby, now you're number one, shining bright for everyone!"
+    }, 
+    "slot.win.8": {
+        "message": "I only let you win out of pity."
+    }, 
+    "slot.win.9": {
+        "message": "If there were more clumsy and perverted people like $1, the world would be a better place."
+    }
+}

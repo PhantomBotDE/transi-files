@@ -1,0 +1,11 @@
+{
+    "lastseen.404": {
+        "message": "I haven't seen $1 yet."
+    }, 
+    "lastseen.response": {
+        "message": "$1 has last been seen on $2 @ $3"
+    }, 
+    "lastseen.usage": {
+        "message": "Usage: !lastseen [username]."
+    }
+}

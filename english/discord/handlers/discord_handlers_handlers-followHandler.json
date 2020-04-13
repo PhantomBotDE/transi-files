@@ -1,0 +1,23 @@
+{
+    "discord.followhandler.follow.channel.set": {
+        "message": "Follow announcements will now be made in channel #$1"
+    }, 
+    "discord.followhandler.follow.channel.usage": {
+        "message": "Usage: !followhandler channel [channel name]"
+    }, 
+    "discord.followhandler.follow.embedtitle": {
+        "message": "New Follower!"
+    }, 
+    "discord.followhandler.follow.message.set": {
+        "message": "Follow announcements message set to: $1"
+    }, 
+    "discord.followhandler.follow.message.usage": {
+        "message": "Usage: !followhandler message [message] - Tag: (name)"
+    }, 
+    "discord.followhandler.follow.toggle": {
+        "message": "Follow announcements have been $1."
+    }, 
+    "discord.followhandler.usage": {
+        "message": "Usage: !followhandler [toggle / message / channel]"
+    }
+}

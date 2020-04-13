@@ -1,0 +1,32 @@
+{
+    "discord.cliphandler.channel.set": {
+        "message": "Clips channel has been set to: $1."
+    }, 
+    "discord.cliphandler.channel.usage": {
+        "message": "Usage: !clipschannel (channel).  Currently: $1"
+    }, 
+    "discord.cliphandler.clip.embedtitle": {
+        "message": "New Clip!"
+    }, 
+    "discord.cliphandler.lastclip": {
+        "message": "Last Clip: $1"
+    }, 
+    "discord.cliphandler.message.set": {
+        "message": "Clips message has been set to: $1."
+    }, 
+    "discord.cliphandler.message.usage": {
+        "message": "Usage: !clipsmessage (message) - Tags: (name), (url)"
+    }, 
+    "discord.cliphandler.noclip": {
+        "message": "No clip found"
+    }, 
+    "discord.cliphandler.toggle.off": {
+        "message": "Clips announcements have been disabled."
+    }, 
+    "discord.cliphandler.toggle.on": {
+        "message": "Clips announcements have been enabled."
+    }, 
+    "discord.cliphandler.topclip": {
+        "message": "Today's Most Viewed Clip: $1"
+    }
+}

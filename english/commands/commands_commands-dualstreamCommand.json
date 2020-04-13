@@ -1,0 +1,41 @@
+{
+    "dualstreamcommand.clear": {
+        "message": "Multi command cleared, and disabled."
+    }, 
+    "dualstreamcommand.link": {
+        "message": "http://multistre.am/"
+    }, 
+    "dualstreamcommand.link.set": {
+        "message": "Multi link set! - http://multistre.am/$1"
+    }, 
+    "dualstreamcommand.req.usage": {
+        "message": "Usage: !multi reqmessage (amount of messages)"
+    }, 
+    "dualstreamcommand.reqmessages.set": {
+        "message": "Req message set to $1 messages!"
+    }, 
+    "dualstreamcommand.set.usage": {
+        "message": "Usage: !multi set [channel(s)]"
+    }, 
+    "dualstreamcommand.timer.disabled": {
+        "message": "Multi timer disabled."
+    }, 
+    "dualstreamcommand.timer.enabled": {
+        "message": "Multi timer enabled."
+    }, 
+    "dualstreamcommand.timer.usage": {
+        "message": "Usage: !multi timer [on / off]"
+    }, 
+    "dualstreamcommand.timerinterval.err": {
+        "message": "Minimum for the timer is 5 minutes."
+    }, 
+    "dualstreamcommand.timerinterval.set": {
+        "message": "Timer interval set to $1 minutes!"
+    }, 
+    "dualstreamcommand.timerinterval.usage": {
+        "message": "Usage: !multi timerinterval (time in minutes)"
+    }, 
+    "dualstreamcommand.usage": {
+        "message": "Usage: !multi [set / clear / timer / timerinterval]"
+    }
+}

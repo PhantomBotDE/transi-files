@@ -1,0 +1,29 @@
+{
+    "cliphandler.channel.set": {
+        "message": "Clips channel has been set to: $1."
+    }, 
+    "cliphandler.channel.usage": {
+        "message": "Usage: !clipschannel (channel).  Currently: $1"
+    }, 
+    "cliphandler.lastclip": {
+        "message": "Last Clip: $1"
+    }, 
+    "cliphandler.message.set": {
+        "message": "Clips message has been set to: $1."
+    }, 
+    "cliphandler.message.usage": {
+        "message": "Usage: !clipsmessage (message) - Tags: (name), (url)"
+    }, 
+    "cliphandler.noclip": {
+        "message": "No clip found"
+    }, 
+    "cliphandler.toggle.off": {
+        "message": "Clips announcements have been disabled."
+    }, 
+    "cliphandler.toggle.on": {
+        "message": "Clips announcements have been enabled."
+    }, 
+    "cliphandler.topclip": {
+        "message": "Today's Most Viewed Clip: $1"
+    }
+}

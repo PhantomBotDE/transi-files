@@ -1,0 +1,62 @@
+{
+    "streamcommand.communities.set.usage": {
+        "message": "Usage: !setcommunities [communities]. Currently: $1"
+    }, 
+    "streamcommand.createdat": {
+        "message": "Channel: $1 | Created At: $2"
+    }, 
+    "streamcommand.createdat.404": {
+        "message": "Please provide a channel"
+    }, 
+    "streamcommand.createdat.error": {
+        "message": "The channel does not exist or a Twitch API error occurred."
+    }, 
+    "streamcommand.game.no.game": {
+        "message": "There's no game set."
+    }, 
+    "streamcommand.game.offline": {
+        "message": "Current Game: $1"
+    }, 
+    "streamcommand.game.online": {
+        "message": "Current Game: $1. Playtime: $2"
+    }, 
+    "streamcommand.game.set.usage": {
+        "message": "Usage: !setgame [game title]. Currently: $1"
+    }, 
+    "streamcommand.online.offline": {
+        "message": "Stream is offline."
+    }, 
+    "streamcommand.online.online": {
+        "message": "Stream is online."
+    }, 
+    "streamcommand.playtime.offline": {
+        "message": "$1 is not streaming right now."
+    }, 
+    "streamcommand.playtime.online": {
+        "message": "$1 has been playing $2 for $3"
+    }, 
+    "streamcommand.title.no.title": {
+        "message": "There's no status set."
+    }, 
+    "streamcommand.title.offline": {
+        "message": "Current Status: $1"
+    }, 
+    "streamcommand.title.online": {
+        "message": "Current Status: $1. Uptime: $2"
+    }, 
+    "streamcommand.title.set.usage": {
+        "message": "Usage: !settitle [stream title]. Currently: $1"
+    }, 
+    "streamcommand.viewers": {
+        "message": "Currently $1 viewers are watching."
+    }, 
+    "streamcommand.vod.404": {
+        "message": "No videos were found."
+    }, 
+    "streamcommand.vod.offline": {
+        "message": "Stream is offline. Last video created: [$1] [Length: $2]"
+    }, 
+    "streamcommand.vod.online": {
+        "message": "Stream Uptime: $1 [$2]"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "audiohook.customcommand.add.error.exists": {
+        "message": "That command already exists or is an alias."
+    }, 
+    "audiohook.customcommand.add.error.fx.null": {
+        "message": "That audio hook does not exist. Use: \"!audioHook list\" to see the audio list."
+    }, 
+    "audiohook.customcommand.add.list": {
+        "message": "Command !$1 will now give a list of all the audio hook commands."
+    }, 
+    "audiohook.customcommand.add.success": {
+        "message": "Command !$1 will now trigger the audio hook $2!"
+    }, 
+    "audiohook.customcommand.add.usage": {
+        "message": "Usage: !audiohook customcommand add [command] [sound name]"
+    }, 
+    "audiohook.customcommand.remove.error.404": {
+        "message": "That command does not exists."
+    }, 
+    "audiohook.customcommand.remove.success": {
+        "message": "Command !$1 has been removed."
+    }, 
+    "audiohook.customcommand.remove.usage": {
+        "message": "Usage: !audiohook customcommand remove [command]"
+    }, 
+    "audiohook.customcommand.usage": {
+        "message": "Usage: !audiohook customcommand [add / remove] [command] [sound name]"
+    }, 
+    "audiohook.list": {
+        "message": "Audio Hooks: $1"
+    }, 
+    "audiohook.list.total": {
+        "message": "Total Pages: $1"
+    }, 
+    "audiohook.play.404": {
+        "message": "Audiohook does not exist: $1"
+    }, 
+    "audiohook.play.success": {
+        "message": "Sent audio hook: $1"
+    }, 
+    "audiohook.play.usage": {
+        "message": "Usage: !audiohook play [audio_hook]"
+    }, 
+    "audiohook.toggle": {
+        "message": "Audio messages have been set to $1."
+    }, 
+    "audiohook.usage": {
+        "message": "Usage: !audiohook [play / list / customcommand / togglemessages]"
+    }
+}

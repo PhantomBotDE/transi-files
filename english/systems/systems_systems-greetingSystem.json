@@ -1,0 +1,32 @@
+{
+    "greetingsystem.cooldown.success": {
+        "message": "Greetings cooldown set to $1 hours."
+    }, 
+    "greetingsystem.cooldown.usage": {
+        "message": "Usage: !greeting cooldown [hours]"
+    }, 
+    "greetingsystem.generalusage.admin": {
+        "message": "Usage: !greeting [toggle | enable [default | message text] | disable | setdefault ]. Tags for message text: (name)"
+    }, 
+    "greetingsystem.generalusage.other": {
+        "message": "Usage: !greeting [ enable [default | message text] | disable ]. Tags for message text: (name)"
+    }, 
+    "greetingsystem.remove.personal.success": {
+        "message": "Successfully removed your personal greeting message."
+    }, 
+    "greetingsystem.set.autogreet.disabled": {
+        "message": "Auto Greeting Disabled"
+    }, 
+    "greetingsystem.set.autogreet.enabled": {
+        "message": "Auto Greeting Enabled. $1 will now greet viewers with a greeting configured."
+    }, 
+    "greetingsystem.set.autogreet.noname": {
+        "message": "Please use the (name) tag in the default greeting."
+    }, 
+    "greetingsystem.set.default.success": {
+        "message": "Changed the default greeting to \"$1\"."
+    }, 
+    "greetingsystem.set.personal.success": {
+        "message": "Changed your personal greeting to \"$1\"."
+    }
+}

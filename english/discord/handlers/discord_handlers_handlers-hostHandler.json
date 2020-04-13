@@ -1,0 +1,32 @@
+{
+    "discord.hosthandler.auto.host.embedtitle": {
+        "message": "New Auto-Host!"
+    }, 
+    "discord.hosthandler.autohost.message.set": {
+        "message": "Auto-Host message set to: $1."
+    }, 
+    "discord.hosthandler.autohost.message.usage": {
+        "message": "Usage: !hosthandler autohostmessage [message] - Tags: (name) (viewers)"
+    }, 
+    "discord.hosthandler.channel.set": {
+        "message": "Host announcements will now be made in channel #$1"
+    }, 
+    "discord.hosthandler.channel.usage": {
+        "message": "Usage: !hosthandler channel [channel name]"
+    }, 
+    "discord.hosthandler.host.embedtitle": {
+        "message": "New Host!"
+    }, 
+    "discord.hosthandler.host.message.set": {
+        "message": "Host message set to: $1"
+    }, 
+    "discord.hosthandler.host.message.usage": {
+        "message": "Usage: !hosthandler hostmessage [message] - Tags: (name) (viewers)"
+    }, 
+    "discord.hosthandler.host.toggle": {
+        "message": "Hosts announcements have been $1."
+    }, 
+    "discord.hosthandler.usage": {
+        "message": "Usage: !hosthandler [toggle / hostmessage / autohostmessage / channel]"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "discord.keywordhandler.404": {
+        "message": "That keyword does not exist."
+    }, 
+    "discord.keywordhandler.add.error": {
+        "message": "That keyword already exists."
+    }, 
+    "discord.keywordhandler.add.success": {
+        "message": "Keyword: \"$1\" has been added!"
+    }, 
+    "discord.keywordhandler.add.usage": {
+        "message": "Usage: !keyword add [keyword] [response]"
+    }, 
+    "discord.keywordhandler.edit.success": {
+        "message": "Keyword: \"$1\" has been edited!"
+    }, 
+    "discord.keywordhandler.edit.usage": {
+        "message": "Usage: !keyword edit [keyword] [response]"
+    }, 
+    "discord.keywordhandler.remove.success": {
+        "message": "Keyword: \"$1\" has been removed!"
+    }, 
+    "discord.keywordhandler.remove.usage": {
+        "message": "Usage: !keyword remove [keyword]"
+    }, 
+    "discord.keywordhandler.usage": {
+        "message": "Usage: !keyword [add / edit / remove]"
+    }
+}

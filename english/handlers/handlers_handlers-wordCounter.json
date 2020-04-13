@@ -1,0 +1,23 @@
+{
+    "wordcounter.add.usage": {
+        "message": "Usage: !wordcounter add [word]"
+    }, 
+    "wordcounter.added": {
+        "message": " has been added to the word counter list!"
+    }, 
+    "wordcounter.count": {
+        "message": "$1 has been said $2 times."
+    }, 
+    "wordcounter.err.404": {
+        "message": "That word is not in the counter list."
+    }, 
+    "wordcounter.remove.usage": {
+        "message": "Usage: !wordcounter remove [word]"
+    }, 
+    "wordcounter.removed": {
+        "message": " has been removed to the word counter list!"
+    }, 
+    "wordcounter.usage": {
+        "message": "Usage: !wordcounter [add / remove] !count [word]"
+    }
+}

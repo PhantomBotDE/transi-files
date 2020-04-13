@@ -1,0 +1,293 @@
+{
+    "ytplayer.announce.nextsong": {
+        "message": "[\\u266B] Now Playing [$1] Requester: $2"
+    }, 
+    "ytplayer.blacklist.404": {
+        "message": "Song name has been blacklisted."
+    }, 
+    "ytplayer.blacklist.add.success": {
+        "message": "$1 has been blacklisted from using the songrequests feature."
+    }, 
+    "ytplayer.blacklist.add.success.song": {
+        "message": "Song/Keyword: \"$1\" has been added to the blacklist."
+    }, 
+    "ytplayer.blacklist.add.usage": {
+        "message": "Usage: !ytp blacklistuser add [username]"
+    }, 
+    "ytplayer.blacklist.add.usage.song": {
+        "message": "Usage: !ytp blacklist add [name/keyword]"
+    }, 
+    "ytplayer.blacklist.remove.success": {
+        "message": "$1 has been un-blacklisted from using the songrequests feature."
+    }, 
+    "ytplayer.blacklist.remove.success.song": {
+        "message": "Song/Keyword: \"$1\" has been removed from the blacklist."
+    }, 
+    "ytplayer.blacklist.remove.usage": {
+        "message": "Usage: !ytp blacklistuser remove [username]"
+    }, 
+    "ytplayer.blacklist.remove.usage.song": {
+        "message": "Usage: !ytp blacklist remove [name]"
+    }, 
+    "ytplayer.blacklist.usage": {
+        "message": "Usage: !ytp blacklistuser [add / remove]"
+    }, 
+    "ytplayer.blacklist.usage.song": {
+        "message": "Usage: !ytp blacklist [add / remove]"
+    }, 
+    "ytplayer.blacklisted": {
+        "message": "You have been blacklisted from using the songrequest feature."
+    }, 
+    "ytplayer.client.404": {
+        "message": "The YouTube Player is currently not being used, and song requests are disabled!"
+    }, 
+    "ytplayer.command.currentsong": {
+        "message": "Current song is [$1] requested by $2 from $3"
+    }, 
+    "ytplayer.command.currentsong.404": {
+        "message": "There is not a curent song"
+    }, 
+    "ytplayer.command.delrequest.404": {
+        "message": "Song requests do not have a song with an ID of [$1]"
+    }, 
+    "ytplayer.command.delrequest.success": {
+        "message": "Removed song with ID [$1] and title of [$2] from song requests."
+    }, 
+    "ytplayer.command.delrequest.usage": {
+        "message": "Usage: !ytp delrequest [YouTube ID]"
+    }, 
+    "ytplayer.command.findsong.failed": {
+        "message": "Cannot find song with a title that contains $1"
+    }, 
+    "ytplayer.command.findsong.usage": {
+        "message": "usage: !$1 [search string]. Searches song requests if any exist, else current playlist, for first match."
+    }, 
+    "ytplayer.command.importpl.file.404": {
+        "message": "Could not find file $1"
+    }, 
+    "ytplayer.command.importpl.file.registry404": {
+        "message": "List $1 was not created in DB, try again."
+    }, 
+    "ytplayer.command.importpl.file.start": {
+        "message": "Import has started, please wait..."
+    }, 
+    "ytplayer.command.importpl.file.success": {
+        "message": "Import Complete! Successfully imported $1 songs and failed to import $2 songs from $3 to playlist $4"
+    }, 
+    "ytplayer.command.importpl.file.success.plerror": {
+        "message": "Import Complete! Successfully imported $1 songs and failed to import $2 songs from $3 to playlist $4. Skipped $5 playlist(s)."
+    }, 
+    "ytplayer.command.importpl.file.usage": {
+        "message": "Usage: !playlist importpl file [playlist name] [filename]"
+    }, 
+    "ytplayer.command.jumptosong.failed": {
+        "message": "Cannot find song at position $1 in playlist."
+    }, 
+    "ytplayer.command.jumptosong.usage": {
+        "message": "usage: !$1 [position number]"
+    }, 
+    "ytplayer.command.nextsong.404": {
+        "message": "Song request queue is empty."
+    }, 
+    "ytplayer.command.nextsong.amount": {
+        "message": "Next $1 Songs: $2"
+    }, 
+    "ytplayer.command.nextsong.range": {
+        "message": "Songs in Range: $1"
+    }, 
+    "ytplayer.command.nextsong.range.404": {
+        "message": "No songs found in that range."
+    }, 
+    "ytplayer.command.nextsong.single": {
+        "message": "Next Song: $1"
+    }, 
+    "ytplayer.command.nextsong.usage": {
+        "message": "Usage: !nextsong [index number | next [n] | list [x-y]. Display next song, or title at index number or next n songs or a range with list x-y"
+    }, 
+    "ytplayer.command.playlist.add.failed": {
+        "message": "Failed to add song to playlist: $1"
+    }, 
+    "ytplayer.command.playlist.add.success": {
+        "message": "Success adding [$1] to playlist [$2]"
+    }, 
+    "ytplayer.command.playlist.add.usage": {
+        "message": "Usage: !ytp playlist add [youtube link]"
+    }, 
+    "ytplayer.command.playlist.delete.404": {
+        "message": "Playlist [$1] does not exist!"
+    }, 
+    "ytplayer.command.playlist.delete.isdefault": {
+        "message": "Cannot delete default playlist!"
+    }, 
+    "ytplayer.command.playlist.delete.success": {
+        "message": "Deleted playlist [$1]"
+    }, 
+    "ytplayer.command.playlist.delete.usage": {
+        "message": "Usage: !playlist deletepl [playlist name]"
+    }, 
+    "ytplayer.command.playlist.listpl": {
+        "message": "Playlists: $1"
+    }, 
+    "ytplayer.command.playlist.load.success": {
+        "message": "Loaded playlist [$1]"
+    }, 
+    "ytplayer.command.playlist.load.success.new": {
+        "message": "Loaded empty playlist [$1]"
+    }, 
+    "ytplayer.command.playlist.load.usage": {
+        "message": "Usage: !playlist loadpl [playlist name]"
+    }, 
+    "ytplayer.command.playlist.usage": {
+        "message": "Usage: !playlist [add | delete | loadpl | deletepl | listpl | importpl]"
+    }, 
+    "ytplayer.command.previoussong": {
+        "message": "Previous song was [$1] requested by $2 from $3"
+    }, 
+    "ytplayer.command.previoussong.404": {
+        "message": "There is not a previous song to report"
+    }, 
+    "ytplayer.command.skip.delay": {
+        "message": "Skip is not allowed for a moment, please try again later."
+    }, 
+    "ytplayer.command.skip.disabled": {
+        "message": "The vote functionality is currently disabled."
+    }, 
+    "ytplayer.command.skip.failure": {
+        "message": "You have already requested a skip for the current song."
+    }, 
+    "ytplayer.command.skip.skipping": {
+        "message": "The votes are counted, and the users have spoken!!! Skipping the current song!."
+    }, 
+    "ytplayer.command.skip.success": {
+        "message": "Skip requested! Current song will be skipped in $1 more votes."
+    }, 
+    "ytplayer.command.songrequest.failed": {
+        "message": "Failed adding song to queue: $1"
+    }, 
+    "ytplayer.command.songrequest.success": {
+        "message": "Your song \"$1\" has been added to the queue (Position: $2 ID: $3)"
+    }, 
+    "ytplayer.command.songrequest.usage": {
+        "message": "Usage: !songrequest [YouTube ID | YouTube link | search string]"
+    }, 
+    "ytplayer.command.stealsong.duplicate": {
+        "message": "Song is already in the playlist!"
+    }, 
+    "ytplayer.command.stealsong.other.success": {
+        "message": "$1 copied the current song to the [$2] playlist."
+    }, 
+    "ytplayer.command.stealsong.refund": {
+        "message": "$1 received a refund of $2 $3 on their song request!"
+    }, 
+    "ytplayer.command.stealsong.this.success": {
+        "message": "$1 copied the current song to the playlist."
+    }, 
+    "ytplayer.command.volume.get": {
+        "message": "Current YouTube Player Volume: $1"
+    }, 
+    "ytplayer.command.volume.set": {
+        "message": "Set YouTube Player Volume: $1"
+    }, 
+    "ytplayer.command.votecount.negative": {
+        "message": "The number of votes needed must be positive!"
+    }, 
+    "ytplayer.command.votecount.set": {
+        "message": "Minimum votes now needed for viewers to skip songs: $1"
+    }, 
+    "ytplayer.command.votecount.usage": {
+        "message": "!ytp votecount [amount]  ---  Current setting: $1"
+    }, 
+    "ytplayer.command.wrongsong.404": {
+        "message": "No songs found"
+    }, 
+    "ytplayer.command.wrongsong.success": {
+        "message": "Removed last requested song: [$1]"
+    }, 
+    "ytplayer.command.wrongsong.usage": {
+        "message": "Usage: !wrongsong [user] [username]. Without [user] deletes your last request."
+    }, 
+    "ytplayer.command.wrongsong.user.success": {
+        "message": "Removed last requested song from $1: [$2]"
+    }, 
+    "ytplayer.command.ytp.clearcache.success": {
+        "message": "YouTube Player ID cache has been cleared."
+    }, 
+    "ytplayer.command.ytp.clearcache.warning": {
+        "message": "This will remove all cached YouTube Player IDs. If you are sure, run !ytp clearcache now"
+    }, 
+    "ytplayer.command.ytp.resetdefaultlist.active": {
+        "message": "This must be ran when the YouTube Player is not connected."
+    }, 
+    "ytplayer.command.ytp.resetdefaultlist.success": {
+        "message": "The default playlist has been reset."
+    }, 
+    "ytplayer.command.ytp.setdjname.success": {
+        "message": "Changed DJ name to $1"
+    }, 
+    "ytplayer.command.ytp.setdjname.usage": {
+        "message": "Usage: !ytp setdjname [name]"
+    }, 
+    "ytplayer.command.ytp.setmaxvidlength.success": {
+        "message": "Maximum song request length set to $1 seconds."
+    }, 
+    "ytplayer.command.ytp.setmaxvidlength.usage": {
+        "message": "Usage: !ytp setmaxvidlength [seconds]"
+    }, 
+    "ytplayer.command.ytp.setrequestmax.success": {
+        "message": "Maximum concurrent song requests set to $1"
+    }, 
+    "ytplayer.command.ytp.setrequestmax.usage": {
+        "message": "Usage: !ytp setrequestmax [max requests]"
+    }, 
+    "ytplayer.command.ytp.toggleannounce.toggled": {
+        "message": "YouTube Player Announcements have been $1"
+    }, 
+    "ytplayer.command.ytp.togglecconly.disable": {
+        "message": "YouTube Player will play all licensed songs."
+    }, 
+    "ytplayer.command.ytp.togglecconly.enable": {
+        "message": "YouTube Player will only play Creative Commons licensed songs."
+    }, 
+    "ytplayer.command.ytp.togglerandom.toggled": {
+        "message": "YouTube Player Playlist Randomization has been $1"
+    }, 
+    "ytplayer.command.ytp.togglestealrefund.disable": {
+        "message": "YouTube Player stolen songs will NOT be refunded to users."
+    }, 
+    "ytplayer.command.ytp.togglestealrefund.enable": {
+        "message": "YouTube Player stolen songs will be refunded to users."
+    }, 
+    "ytplayer.command.ytp.usage": {
+        "message": "Usage: !ytp [togglecconly | togglesongrequest | toggleannounce | delrequest | pause | volume | togglerandom | setrequestmax | setmaxvidlength | votecount | resetdefaultlist | clearcache]"
+    }, 
+    "ytplayer.console.client.connected": {
+        "message": "[\\u266B] YouTube Player is connected! [\\u266B]"
+    }, 
+    "ytplayer.console.client.disconnected": {
+        "message": "[\\u266B] YouTube Player is disconnected! [\\u266B]"
+    }, 
+    "ytplayer.playlist.404": {
+        "message": "Cannot find playlist [$1]"
+    }, 
+    "ytplayer.requestsong.error.disabled": {
+        "message": "Song requests are disabled"
+    }, 
+    "ytplayer.requestsong.error.exists": {
+        "message": "Song is already in queue"
+    }, 
+    "ytplayer.requestsong.error.maxlength": {
+        "message": "Song length is $1 and exceeds maximum length"
+    }, 
+    "ytplayer.requestsong.error.maxrequests": {
+        "message": "Exceeds maximum concurrent requests"
+    }, 
+    "ytplayer.requestsong.error.yterror": {
+        "message": "YouTube error ($1)"
+    }, 
+    "ytplayer.songrequests.disabled": {
+        "message": "[\\u266B] Song requests have been disabled! [\\u266B]"
+    }, 
+    "ytplayer.songrequests.enabled": {
+        "message": "[\\u266B] Song requests are enabled! [\\u266B]"
+    }
+}

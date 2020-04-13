@@ -1,0 +1,56 @@
+{
+    "tipeeestream.disabled.donators": {
+        "message": "The donators group has been disabled."
+    }, 
+    "tipeeestream.donation.new": {
+        "message": "Thank you very much (name) for the tip of (amount)(currency)!"
+    }, 
+    "tipeeestream.donation.newreward": {
+        "message": "Thank you very much (name) for the tip of $(amount) (currency)! Here are (points) (pointname)!"
+    }, 
+    "tipeeestream.donations.announce.disable": {
+        "message": "Tips will no longer be announced."
+    }, 
+    "tipeeestream.donations.announce.enable": {
+        "message": "Tips will now be announced."
+    }, 
+    "tipeeestream.donations.lastmessage.success": {
+        "message": "Updates the message for !lasttip command."
+    }, 
+    "tipeeestream.donations.message.no-name": {
+        "message": "A (name) tag was not provided, at a minimum provide the (name) tag. Tags: (name) (amount) (currency) (message)"
+    }, 
+    "tipeeestream.donations.message.success": {
+        "message": "Updated the message for tips when rewards are disabled."
+    }, 
+    "tipeeestream.donations.message.usage": {
+        "message": "Usage: !tipeeestream message [message...] Tags: (name) (amount) (currency) (currencysymbol) (message)"
+    }, 
+    "tipeeestream.donations.reward.success": {
+        "message": "The reward for tips has been set to $1 $2 per whole amount of currency donated."
+    }, 
+    "tipeeestream.donations.reward.usage": {
+        "message": "Usage: !tipeeestream rewardmultiplier n.n  Set to 0 to disable"
+    }, 
+    "tipeeestream.donations.rewardmessage.no-name": {
+        "message": "A (name) tag was not provided, at a minimum provide the (name) tag. Tags: (name) (amount) (currency) (reward) (message)"
+    }, 
+    "tipeeestream.donations.rewardmessage.success": {
+        "message": "Updated the message for tips with rewards enabled."
+    }, 
+    "tipeeestream.donations.rewardmessage.usage": {
+        "message": "Usage: !tipeeestream rewardmessage [message...] Tags: (name) (amount) (currency) (reward) (message)"
+    }, 
+    "tipeeestream.donations.usage": {
+        "message": "Usage: !tipeeestream (announce | rewardmultiplier n.n | message | lastmessage)"
+    }, 
+    "tipeeestream.donators.min": {
+        "message": "The minimum before being promoted to a Donator was set to $1"
+    }, 
+    "tipeeestream.donators.min.usage": {
+        "message": "Usage: !tipeeestream minmumbeforepromotion (amount)"
+    }, 
+    "tipeeestream.enabled.donators": {
+        "message": "The donators group has been enabled."
+    }
+}

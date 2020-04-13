@@ -1,0 +1,137 @@
+{
+    "moderation.blacklist.add.success": {
+        "message": "Phrase added the to the blacklist!"
+    }, 
+    "moderation.blacklist.add.usage": {
+        "message": "Usage: !moderation blacklist add [phrase]"
+    }, 
+    "moderation.blacklist.list": {
+        "message": "Blacklist: ```$1```"
+    }, 
+    "moderation.blacklist.list.404": {
+        "message": "The blacklist is empty."
+    }, 
+    "moderation.blacklist.remove.404": {
+        "message": "That phrase is not in the blacklist."
+    }, 
+    "moderation.blacklist.remove.success": {
+        "message": "Phrase removed from the blacklist!"
+    }, 
+    "moderation.blacklist.remove.usage": {
+        "message": "Usage: !moderation blacklist remove [phrase]"
+    }, 
+    "moderation.blacklist.usage": {
+        "message": "Usage: !moderation blacklist [add / remove / list]"
+    }, 
+    "moderation.caps.limit.set": {
+        "message": "Caps limit has been set to $1%"
+    }, 
+    "moderation.caps.limit.usage": {
+        "message": "Usage: !moderation caps limitpercent [percent]"
+    }, 
+    "moderation.caps.toggle": {
+        "message": "Cap moderation has been $1."
+    }, 
+    "moderation.caps.trigger.set": {
+        "message": "Caps trigger limit has been set to $1%"
+    }, 
+    "moderation.caps.trigger.usage": {
+        "message": "Usage: !moderation caps triggerlength [characters]"
+    }, 
+    "moderation.caps.usage": {
+        "message": "Usage: !moderation caps [toggle / triggerlength / limitpercent]"
+    }, 
+    "moderation.cbenni.toggle": {
+        "message": "Cbenni link display for moderation has been $1."
+    }, 
+    "moderation.cleanup.done": {
+        "message": "Deleted $1 messages!"
+    }, 
+    "moderation.cleanup.err": {
+        "message": "You can only delete 1 to 10000 messages."
+    }, 
+    "moderation.cleanup.failed": {
+        "message": "Failed to perform bulk message deletion: Currently deleting messages."
+    }, 
+    "moderation.cleanup.failed.err": {
+        "message": "Failed to perform bulk message deletion."
+    }, 
+    "moderation.cleanup.usage": {
+        "message": "Usage: !moderation cleanup [channel] [amount]"
+    }, 
+    "moderation.links.permit.time.set": {
+        "message": "Permit time has been set to $1 seconds!"
+    }, 
+    "moderation.links.permit.time.usage": {
+        "message": "Usage: !moderation links permittime [seconds]"
+    }, 
+    "moderation.links.toggle": {
+        "message": "Link moderation has been $1."
+    }, 
+    "moderation.links.usage": {
+        "message": "Usage: !moderation links [toggle / permittime]"
+    }, 
+    "moderation.logs.channel.set": {
+        "message": "Twitch moderation log announcements will now be made in channel #$1"
+    }, 
+    "moderation.logs.channel.usage": {
+        "message": "Usage: !moderation logs channel [channel name]"
+    }, 
+    "moderation.logs.toggle": {
+        "message": "Twitch moderation logs have been $1. **[Requires bot restart]**"
+    }, 
+    "moderation.logs.toggle.usage": {
+        "message": "Usage: !moderation logs [toggle / channel] - Will toggle Twitch moderation logs being posted in Discord."
+    }, 
+    "moderation.long.message.limit.set": {
+        "message": "Long message limit has been set to $1 characters!"
+    }, 
+    "moderation.long.message.limit.usage": {
+        "message": "Usage: !moderation longmessage limit [characters]"
+    }, 
+    "moderation.long.message.toggle": {
+        "message": "Message length moderation has been $1."
+    }, 
+    "moderation.long.message.usage": {
+        "message": "Usage: !moderation longmessage [toggle / limit]"
+    }, 
+    "moderation.spam.limit.set": {
+        "message": "Spam limit has been set to $1 messages!"
+    }, 
+    "moderation.spam.limit.usage": {
+        "message": "Usage: !moderation spam limit [messages]"
+    }, 
+    "moderation.spam.toggle": {
+        "message": "Spam moderation has been $1."
+    }, 
+    "moderation.spam.usage": {
+        "message": "Usage: !moderation spam [toggle / limit]"
+    }, 
+    "moderation.usage": {
+        "message": "Usage: !moderation [links / caps / spam / blacklist / whitelist / cleanup / logs / togglecbenni]"
+    }, 
+    "moderation.whitelist.add.success": {
+        "message": "Phrase or username added the to the whitelist!"
+    }, 
+    "moderation.whitelist.add.usage": {
+        "message": "Usage: !moderation whitelist add [phrase or username#discriminator]"
+    }, 
+    "moderation.whitelist.list": {
+        "message": "Whitelist: ```$1```"
+    }, 
+    "moderation.whitelist.list.404": {
+        "message": "The whitelist is empty."
+    }, 
+    "moderation.whitelist.remove.404": {
+        "message": "That phrase or username is not in the whitelist."
+    }, 
+    "moderation.whitelist.remove.success": {
+        "message": "Phrase or username removed from the whitelist!"
+    }, 
+    "moderation.whitelist.remove.usage": {
+        "message": "Usage: !moderation whitelist remove [phrase or username#discriminator]"
+    }, 
+    "moderation.whitelist.usage": {
+        "message": "Usage: !moderation whitelist [add / remove / list]"
+    }
+}

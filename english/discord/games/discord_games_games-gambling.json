@@ -1,0 +1,47 @@
+{
+    "discord.gambling.error.max": {
+        "message": "You're only allowed to gamble a maximum of $1."
+    }, 
+    "discord.gambling.error.min": {
+        "message": "You're only allowed to gamble a minimum of $1."
+    }, 
+    "discord.gambling.lost": {
+        "message": "$1 rolled $2 and lost $3. $5' // Use $4 for the points the user has remainin"
+    }, 
+    "discord.gambling.main.usage": {
+        "message": "Usage: !gambling [setmax / setmin / setwinningrange / setgainpercent]"
+    }, 
+    "discord.gambling.need.points": {
+        "message": "You don't have that many $1."
+    }, 
+    "discord.gambling.percent": {
+        "message": "Set gambling gain percent to $1%"
+    }, 
+    "discord.gambling.percent.usage": {
+        "message": "Usage: !gambling setgainpercent [amount]"
+    }, 
+    "discord.gambling.set.max": {
+        "message": "Set max gambling to $1!"
+    }, 
+    "discord.gambling.set.max.usage": {
+        "message": "Usage: !gambling setmax [amount]"
+    }, 
+    "discord.gambling.set.min": {
+        "message": "Set minimum gambling to $1!"
+    }, 
+    "discord.gambling.set.min.usage": {
+        "message": "Usage: !gambling setmin [amount]"
+    }, 
+    "discord.gambling.usage": {
+        "message": "Usage: !gamble [amount]"
+    }, 
+    "discord.gambling.win.range": {
+        "message": "Set gambling win range to $1-100 lose range to 1-$2"
+    }, 
+    "discord.gambling.win.range.usage": {
+        "message": "Usage: !gambling setwinningrange [range]"
+    }, 
+    "discord.gambling.won": {
+        "message": "$1 rolled $2 and won $3! $5' // Use $4 for the points the user has remainin"
+    }
+}

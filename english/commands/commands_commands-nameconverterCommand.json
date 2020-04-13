@@ -1,0 +1,14 @@
+{
+    "namechange.default": {
+        "message": "Usage: !namechange [old name] [new name]"
+    }, 
+    "namechange.notfound": {
+        "message": "Username $1 was not found in any tables."
+    }, 
+    "namechange.success": {
+        "message": "Username $1 has been updated to $2 in $3 tables!"
+    }, 
+    "namechange.updating": {
+        "message": "Updating name $1 to $2 in all the database tables. This may take time."
+    }
+}

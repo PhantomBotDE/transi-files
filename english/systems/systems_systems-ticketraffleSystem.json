@@ -1,0 +1,68 @@
+{
+    "ticketrafflesystem.auto.msg.set": {
+        "message": "Message set to $1."
+    }, 
+    "ticketrafflesystem.auto.msg.usage": {
+        "message": "Usage: !traffle autoannouncemessage [amount in minutes]"
+    }, 
+    "ticketrafflesystem.auto.msginterval.set": {
+        "message": "Message interval set to $1 minutes."
+    }, 
+    "ticketrafflesystem.auto.msginterval.usage": {
+        "message": "Usage: !traffle autoannounceinterval [amount in minutes]"
+    }, 
+    "ticketrafflesystem.entered": {
+        "message": "$1 entries added to the ticket raffle! ($2 tickets in total)"
+    }, 
+    "ticketrafflesystem.err.missing.syntax": {
+        "message": "Usage: !traffle open [max entries] [regulars ticket multiplier (default = 1)] [subscribers ticket multiplier (default = 1)] [cost] [-followers]"
+    }, 
+    "ticketrafflesystem.err.not.following": {
+        "message": "You need to be following to enter."
+    }, 
+    "ticketrafflesystem.err.points": {
+        "message": "You don't have enough $1 to enter."
+    }, 
+    "ticketrafflesystem.err.raffle.not.opened": {
+        "message": "There is no ticket raffle opened."
+    }, 
+    "ticketrafflesystem.err.raffle.opened": {
+        "message": "A ticket raffle is already opened."
+    }, 
+    "ticketrafflesystem.limit.hit": {
+        "message": "You're only allowed to buy $1 ticket(s)"
+    }, 
+    "ticketrafflesystem.msg.disabled": {
+        "message": "Ticket raffle message's have been disabled."
+    }, 
+    "ticketrafflesystem.msg.enabled": {
+        "message": "Ticket raffle message's have been enabled."
+    }, 
+    "ticketrafflesystem.msg.need.to.be.follwing": {
+        "message": "You need to be following to enter."
+    }, 
+    "ticketrafflesystem.only.buy.amount": {
+        "message": "You can only buy $1 ticket(s)"
+    }, 
+    "ticketrafflesystem.raffle.close.err": {
+        "message": "The ticket raffle ended. No one entered."
+    }, 
+    "ticketrafflesystem.raffle.closed": {
+        "message": "The ticket raffle is now closed. Use \"!traffle draw\" to draw a winner."
+    }, 
+    "ticketrafflesystem.raffle.opened": {
+        "message": "Ticket raffle is now open! Buy up to $1 tickets with !tickets - you can purchase multiple times. Tickets cost $2. $3"
+    }, 
+    "ticketrafflesystem.reset": {
+        "message": "The raffle has been reset."
+    }, 
+    "ticketrafflesystem.ticket.usage": {
+        "message": "Usage: !tickets (amount) - And you currently have $1 tickets."
+    }, 
+    "ticketrafflesystem.usage": {
+        "message": "Usage: !traffle open [max entries] [regulars ticket multiplier (default = 1)] [subscribers ticket multiplier (default = 1)] [cost] [-followers]"
+    }, 
+    "ticketrafflesystem.winner": {
+        "message": "The winner of this ticket raffle is: $1! $2"
+    }
+}

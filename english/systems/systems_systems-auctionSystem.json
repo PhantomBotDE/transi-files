@@ -1,0 +1,44 @@
+{
+    "auctionsystem.auto.timer.msg": {
+        "message": "Auction will auto close in $1 seconds!"
+    }, 
+    "auctionsystem.bid": {
+        "message": "$1 just bid $2! Do we have $3?"
+    }, 
+    "auctionsystem.bid.usage": {
+        "message": "Usage: !bid (amount)"
+    }, 
+    "auctionsystem.closed": {
+        "message": "Auction closed! Winner of this auction is $1 with $2!"
+    }, 
+    "auctionsystem.err.bid.minimum": {
+        "message": "You can not bid under $1!"
+    }, 
+    "auctionsystem.err.closed": {
+        "message": "There is no auction currently running."
+    }, 
+    "auctionsystem.err.increments": {
+        "message": "This auction is in increments of $1!"
+    }, 
+    "auctionsystem.err.no.bids": {
+        "message": "Auction closed! No one placed a bid."
+    }, 
+    "auctionsystem.err.opened": {
+        "message": "An auction is already running."
+    }, 
+    "auctionsystem.err.points": {
+        "message": "You don't have that many $1 to auction."
+    }, 
+    "auctionsystem.opened": {
+        "message": "Auction is now opened! You can bid in increments of at least $1. Minimum bid allowed is $2! Start bidding with !bid (amount)"
+    }, 
+    "auctionsystem.usage": {
+        "message": "Usage: !auction open (increments) (minimum bid) (auto close timer)"
+    }, 
+    "auctionsystem.warn": {
+        "message": "Current top bidder is $1 with $2!"
+    }, 
+    "auctionsystem.warn.force": {
+        "message": "The auction is about to close! Current top bidder is $1 with $2! Do we have $3?"
+    }
+}

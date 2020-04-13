@@ -1,0 +1,29 @@
+{
+    "roll.doublefive": {
+        "message": "Hard ten for $1! "
+    }, 
+    "roll.doublefour": {
+        "message": "Hard eight for $1! "
+    }, 
+    "roll.doubleone": {
+        "message": "Snake eyes for $1! "
+    }, 
+    "roll.doublesix": {
+        "message": "Boxcars to the max!!! $1! "
+    }, 
+    "roll.doublethree": {
+        "message": "Hard six for $1! "
+    }, 
+    "roll.doubletwo": {
+        "message": "Hard four for $1! "
+    }, 
+    "roll.rewards.success": {
+        "message": "Updated rewards for the dice roll."
+    }, 
+    "roll.rewards.usage": {
+        "message": "usage: !roll rewards [double 1's] [2's] [3's] [4's] [5's] [6's]. Currently: $1"
+    }, 
+    "roll.rolled": {
+        "message": "$1 rolls a [$2] and [$3]. "
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "streamelements.disabled.donators": {
+        "message": "The donators group has been disabled."
+    }, 
+    "streamelements.donation.new": {
+        "message": "Thank you very much (name) for the tip of $(amount)!"
+    }, 
+    "streamelements.donation.newreward": {
+        "message": "Thank you very much (name) for the tip of $(amount) (currency)! Here are (points) (pointname)!"
+    }, 
+    "streamelements.donations.announce.disable": {
+        "message": "Tips will no longer be announced."
+    }, 
+    "streamelements.donations.announce.enable": {
+        "message": "Tips will now be announced."
+    }, 
+    "streamelements.donations.lastmessage.success": {
+        "message": "Updates the message for !lasttip command."
+    }, 
+    "streamelements.donations.message.no-name": {
+        "message": "A (name) tag was not provided, at a minimum provide the (name) tag. Tags: (name) (amount) (currency) (message)"
+    }, 
+    "streamelements.donations.message.success": {
+        "message": "Updated the message for tips when rewards are disabled."
+    }, 
+    "streamelements.donations.message.usage": {
+        "message": "Usage: !streamelements message [message...] Tags: (name) (amount) (currency) (currencysymbol) (message) (formattedamount)"
+    }, 
+    "streamelements.donations.reward.success": {
+        "message": "The reward for tips has been set to $1 $2 per whole amount of currency donated."
+    }, 
+    "streamelements.donations.reward.usage": {
+        "message": "Usage: !streamelements rewardmultiplier n.n  Set to 0 to disable"
+    }, 
+    "streamelements.donations.rewardmessage.no-name": {
+        "message": "A (name) tag was not provided, at a minimum provide the (name) tag. Tags: (name) (amount) (currency) (reward) (message)"
+    }, 
+    "streamelements.donations.rewardmessage.success": {
+        "message": "Updated the message for tips with rewards enabled."
+    }, 
+    "streamelements.donations.rewardmessage.usage": {
+        "message": "Usage: !streamelements rewardmessage [message...] Tags: (name) (amount) (currency) (reward) (message)"
+    }, 
+    "streamelements.donations.usage": {
+        "message": "Usage: !streamelements (announce | rewardmultiplier n.n | message | lastmessage)"
+    }, 
+    "streamelements.donators.min": {
+        "message": "The minimum before being promoted to a Donator was set to $1"
+    }, 
+    "streamelements.donators.min.usage": {
+        "message": "Usage: !streamelements minmumbeforepromotion (amount)"
+    }, 
+    "streamelements.enabled.donators": {
+        "message": "The donators group has been enabled."
+    }
+}

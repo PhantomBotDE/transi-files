@@ -1,0 +1,20 @@
+{
+    "highlightcommand.clearhighlights.success": {
+        "message": "Highlights have been cleared."
+    }, 
+    "highlightcommand.gethighlights.no-highlights": {
+        "message": "There are currently no highlights."
+    }, 
+    "highlightcommand.highlight.offline": {
+        "message": "Highlights can only be set when the stream is online."
+    }, 
+    "highlightcommand.highlight.success": {
+        "message": "Highlight successfully saved with a timestamp of $1."
+    }, 
+    "highlightcommand.highlight.usage": {
+        "message": "Usage: !highlight [description] (Using date stamp for timezone: $1)"
+    }, 
+    "highlightcommand.highlights": {
+        "message": "Highlights: $1"
+    }
+}

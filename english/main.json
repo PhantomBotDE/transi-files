@@ -1,0 +1,1226 @@
+{
+    "channel.age.user.404": {
+        "message": "That user is not on Twitch."
+    }, 
+    "chatmoderator.ban": {
+        "message": "(ban)"
+    }, 
+    "chatmoderator.blacklist.add.usage": {
+        "message": "Usage: !blackList add (timeout time) (message | regex) - Use regex: to specify a regex."
+    }, 
+    "chatmoderator.blacklist.added": {
+        "message": "Word added to the blacklist."
+    }, 
+    "chatmoderator.blacklist.message.set": {
+        "message": "blacklist warning message set to: $1"
+    }, 
+    "chatmoderator.blacklist.message.usage": {
+        "message": "Usage: !moderation blacklistmessage [message]"
+    }, 
+    "chatmoderator.blacklist.remove.usage": {
+        "message": "Usage: !blackList remove (message | regex) - Use regex: to specify a regex."
+    }, 
+    "chatmoderator.blacklist.removed": {
+        "message": "Word removed from the blacklist."
+    }, 
+    "chatmoderator.blacklist.show.usage": {
+        "message": "Usage: !blackList show (id)"
+    }, 
+    "chatmoderator.blacklist.usage": {
+        "message": "Usage: !blackList [add / remove]"
+    }, 
+    "chatmoderator.blacklistban.message.set": {
+        "message": "blacklist ban message set to: $1"
+    }, 
+    "chatmoderator.blacklistban.message.usage": {
+        "message": "Usage: !moderation blacklistmessageban [message]"
+    }, 
+    "chatmoderator.blacklisttimeouttime.set": {
+        "message": "blacklist timeout time set to $1 seconds."
+    }, 
+    "chatmoderator.blacklisttimeouttime.usage": {
+        "message": "!moderation blacklisttimeouttime [time in seconds] (blacklist timeout time is currently $1 seconds)"
+    }, 
+    "chatmoderator.caps.filter.disabled": {
+        "message": "Caps filter has been disabled."
+    }, 
+    "chatmoderator.caps.filter.enabled": {
+        "message": "Caps filter has been enabled."
+    }, 
+    "chatmoderator.caps.limit.set": {
+        "message": "cap limit set to: $1% of caps."
+    }, 
+    "chatmoderator.caps.limit.usage": {
+        "message": "Usage: !moderation capslimit [amount in percent]"
+    }, 
+    "chatmoderator.caps.message.set": {
+        "message": "cap warning message set to: $1"
+    }, 
+    "chatmoderator.caps.message.usage": {
+        "message": "Usage: !moderation capsmessage [message]"
+    }, 
+    "chatmoderator.caps.trigger.length.set": {
+        "message": "cap trigger length set to: $1"
+    }, 
+    "chatmoderator.caps.trigger.length.usage": {
+        "message": "Usage: !moderation capstriggerlength [amount]"
+    }, 
+    "chatmoderator.caps.usage": {
+        "message": "Usage: !moderation caps [on / off] (cap filter is currently $1)"
+    }, 
+    "chatmoderator.colors.filter.disabled": {
+        "message": "Colour filter has been disabled."
+    }, 
+    "chatmoderator.colors.filter.enabled": {
+        "message": "Colour filter has been enabled."
+    }, 
+    "chatmoderator.colors.message.set": {
+        "message": "color warning message set to: $1"
+    }, 
+    "chatmoderator.colors.message.usage": {
+        "message": "Usage: !moderation colorsmessage [message]"
+    }, 
+    "chatmoderator.colors.usage": {
+        "message": "Usage: !moderation colors [on / off] (colors filter is currently $1)"
+    }, 
+    "chatmoderator.emotes.filter.disabled": {
+        "message": "Emotes filter has been disabled."
+    }, 
+    "chatmoderator.emotes.filter.enabled": {
+        "message": "Emotes filter has been enabled."
+    }, 
+    "chatmoderator.emotes.limit.set": {
+        "message": "emotes limit set to: $1 emotes"
+    }, 
+    "chatmoderator.emotes.limit.usage": {
+        "message": "Usage: !moderation emoteslimit [amount]"
+    }, 
+    "chatmoderator.emotes.message.set": {
+        "message": "emotes warning message set to: $1"
+    }, 
+    "chatmoderator.emotes.message.usage": {
+        "message": "Usage: !moderation emotesmessage [message]"
+    }, 
+    "chatmoderator.emotes.usage": {
+        "message": "Usage: !moderation emotes [on / off] (emote filter is currently $1)"
+    }, 
+    "chatmoderator.err": {
+        "message": "That's an invalid option."
+    }, 
+    "chatmoderator.fakepurge.filter.disabled": {
+        "message": "fake purge filter has been disabled."
+    }, 
+    "chatmoderator.fakepurge.filter.enabled": {
+        "message": "Fake purge filter has been enabled."
+    }, 
+    "chatmoderator.fakepurge.message.set": {
+        "message": "fake purge warning message set to: $1"
+    }, 
+    "chatmoderator.fakepurge.message.usage": {
+        "message": "Usage: !moderation fakepurgemessage [message]"
+    }, 
+    "chatmoderator.fakepurge.usage": {
+        "message": "Usage: !moderation fakepurge [on / off] (fake purge is currently $1)"
+    }, 
+    "chatmoderator.link.filter.disabled": {
+        "message": "Link filter has been disabled."
+    }, 
+    "chatmoderator.link.filter.enabled": {
+        "message": "Link filter has been enabled."
+    }, 
+    "chatmoderator.link.message.set": {
+        "message": "link warning message set to: $1"
+    }, 
+    "chatmoderator.link.message.usage": {
+        "message": "Usage: !moderation linksmessage [message]"
+    }, 
+    "chatmoderator.link.usage": {
+        "message": "Usage: !moderation links [on / off] (link filter is currently $1)"
+    }, 
+    "chatmoderator.message.fakepurge.usage": {
+        "message": "Usage: !moderation fakepurgemessage [message]"
+    }, 
+    "chatmoderator.message.filter.disabled": {
+        "message": "Long message filter disabled."
+    }, 
+    "chatmoderator.message.filter.enabled": {
+        "message": "Long message filter enabled."
+    }, 
+    "chatmoderator.message.limit.set": {
+        "message": "Max characters allowed in a message set to $1 characters."
+    }, 
+    "chatmoderator.message.limit.usage": {
+        "message": "Usage: !moderation messagecharacterlimit [amount]"
+    }, 
+    "chatmoderator.message.message.set": {
+        "message": "Message length filter message set to $1"
+    }, 
+    "chatmoderator.message.message.usage": {
+        "message": "Usage: !moderation longmsgmessage [message]"
+    }, 
+    "chatmoderator.message.usage": {
+        "message": "Usage: !moderation longmessages [on / off] (long message filter is currently $1)"
+    }, 
+    "chatmoderator.moderation.enabled": {
+        "message": "Enabled - this will require a bot reboot."
+    }, 
+    "chatmoderator.moderation.logs": {
+        "message": "Moderation logs have been $1"
+    }, 
+    "chatmoderator.msgcooldown.set": {
+        "message": "message cooldown set to $1 seconds."
+    }, 
+    "chatmoderator.msgcooldown.usage": {
+        "message": "Usage: !moderation messagecooldown [time in seconds]"
+    }, 
+    "chatmoderator.options": {
+        "message": "Usage: !moderation [capstriggerlength / capslimit / symbolstriggerlength / symbolslimit / symbolsgrouplimit / spamlimit / emoteslimit / spamtrackerlimit / spamtrackertime / permittime / warningtime / timeouttime / messagecooldown / messagecharacterlimit / warningresettime]"
+    }, 
+    "chatmoderator.permit.time.set": {
+        "message": "link permit time set to: $1 seconds."
+    }, 
+    "chatmoderator.permit.time.usage": {
+        "message": "Usage: !moderation permittime [time]"
+    }, 
+    "chatmoderator.permit.usage": {
+        "message": "Usage: !permit [username]"
+    }, 
+    "chatmoderator.permited": {
+        "message": " is now permitted to post one link during the next $1 seconds!"
+    }, 
+    "chatmoderator.regulars.caps.allowed": {
+        "message": "regulars will now be effected by the caps filter."
+    }, 
+    "chatmoderator.regulars.caps.not.allowed": {
+        "message": "regulars will no longer be effected by the caps filter."
+    }, 
+    "chatmoderator.regulars.colors.allowed": {
+        "message": "regulars will now be effected by the colors filter."
+    }, 
+    "chatmoderator.regulars.colors.not.allowed": {
+        "message": "regulars will no longer be effected by the colors filter."
+    }, 
+    "chatmoderator.regulars.emotes.allowed": {
+        "message": "regulars will now be effected by the emotes filter."
+    }, 
+    "chatmoderator.regulars.emotes.not.allowed": {
+        "message": "regulars will no longer be effected by the emotes filter."
+    }, 
+    "chatmoderator.regulars.fakepurge.allowed": {
+        "message": "regulars will now be effected by the fake purges filter."
+    }, 
+    "chatmoderator.regulars.fakepurge.not.allowed": {
+        "message": "regulars will no longer be effected by the fake purges filter."
+    }, 
+    "chatmoderator.regulars.links.allowed": {
+        "message": "regulars will now be effected by the link filter."
+    }, 
+    "chatmoderator.regulars.links.not.allowed": {
+        "message": "regulars will no longer be effected by the link filter."
+    }, 
+    "chatmoderator.regulars.long.messages.allowed": {
+        "message": "regulars will now be effected by the long message filter."
+    }, 
+    "chatmoderator.regulars.long.messages.not.allowed": {
+        "message": "regulars will no longer be effected by the long message filter."
+    }, 
+    "chatmoderator.regulars.spam.allowed": {
+        "message": "regulars will now be effected by the spam filter."
+    }, 
+    "chatmoderator.regulars.spam.not.allowed": {
+        "message": "regulars will no longer be effected by the spam filter."
+    }, 
+    "chatmoderator.regulars.spamtracker.allowed": {
+        "message": "regulars will now be effected by the spam tracker filter."
+    }, 
+    "chatmoderator.regulars.spamtracker.not.allowed": {
+        "message": "regulars will no longer be effected by the spam tracker filter."
+    }, 
+    "chatmoderator.regulars.symbols.allowed": {
+        "message": "regulars will now be effected by the symbols filter."
+    }, 
+    "chatmoderator.regulars.symbols.not.allowed": {
+        "message": "regulars will no longer be effected by the symbols filter."
+    }, 
+    "chatmoderator.regulars.toggle.caps": {
+        "message": "regulars are currently $1 to type all in caps."
+    }, 
+    "chatmoderator.regulars.toggle.colors": {
+        "message": "regulars are currently $1 to use fake purges."
+    }, 
+    "chatmoderator.regulars.toggle.emotes": {
+        "message": "regulars are currently $1 to overuse emotes."
+    }, 
+    "chatmoderator.regulars.toggle.fakepurge": {
+        "message": "regulars are currently $1 to use fake purges."
+    }, 
+    "chatmoderator.regulars.toggle.link": {
+        "message": "regulars are currently $1 to post links."
+    }, 
+    "chatmoderator.regulars.toggle.long.msg": {
+        "message": "regulars are currently $1 to post long messages."
+    }, 
+    "chatmoderator.regulars.toggle.spam": {
+        "message": "regulars are currently $1 to spam repeating characters."
+    }, 
+    "chatmoderator.regulars.toggle.symbols": {
+        "message": "regulars are currently $1 to spam symbols."
+    }, 
+    "chatmoderator.regulars.usage": {
+        "message": "Usage: !moderation regulars [links / caps / symbols / spam / emotes / colors / longmessages / spamtracker / fakepurge] [true / false]"
+    }, 
+    "chatmoderator.silenttimeout.caps.false": {
+        "message": "silent timeout has been turned off for caps."
+    }, 
+    "chatmoderator.silenttimeout.caps.true": {
+        "message": "silent timeout has been turned on for caps."
+    }, 
+    "chatmoderator.silenttimeout.colors.false": {
+        "message": "silent timeout has been turned off for colors."
+    }, 
+    "chatmoderator.silenttimeout.colors.true": {
+        "message": "silent timeout has been turned on for colors."
+    }, 
+    "chatmoderator.silenttimeout.emotes.false": {
+        "message": "silent timeout has been turned off for emotes."
+    }, 
+    "chatmoderator.silenttimeout.emotes.true": {
+        "message": "silent timeout has been turned on for emotes."
+    }, 
+    "chatmoderator.silenttimeout.fakepurge.false": {
+        "message": "silent timeout has been turned off for fake purges."
+    }, 
+    "chatmoderator.silenttimeout.fakepurge.true": {
+        "message": "silent timeout has been turned on for fake purges."
+    }, 
+    "chatmoderator.silenttimeout.false": {
+        "message": "silent timeout has been disabled for all filters."
+    }, 
+    "chatmoderator.silenttimeout.links.false": {
+        "message": "silent timeout has been turned off for links."
+    }, 
+    "chatmoderator.silenttimeout.links.true": {
+        "message": "silent timeout has been turned on for links."
+    }, 
+    "chatmoderator.silenttimeout.long.msg.false": {
+        "message": "silent timeout has been turned off for long messages."
+    }, 
+    "chatmoderator.silenttimeout.long.msg.true": {
+        "message": "silent timeout has been turned on for long messages."
+    }, 
+    "chatmoderator.silenttimeout.spam.false": {
+        "message": "silent timeout has been turned off for spam."
+    }, 
+    "chatmoderator.silenttimeout.spam.true": {
+        "message": "silent timeout has been turned on for spam."
+    }, 
+    "chatmoderator.silenttimeout.spamtracker.false": {
+        "message": "silent timeout has been turned off for spam tracker."
+    }, 
+    "chatmoderator.silenttimeout.spamtracker.true": {
+        "message": "silent timeout has been turned on for spam tracker."
+    }, 
+    "chatmoderator.silenttimeout.symbols.false": {
+        "message": "silent timeout has been turned off for symbols."
+    }, 
+    "chatmoderator.silenttimeout.symbols.true": {
+        "message": "silent timeout has been turned on for symbols."
+    }, 
+    "chatmoderator.silenttimeout.toggle.blacklist": {
+        "message": "silent timeout is currently $1 for blacklist."
+    }, 
+    "chatmoderator.silenttimeout.toggle.caps": {
+        "message": "silent timeout is currently $1 for caps."
+    }, 
+    "chatmoderator.silenttimeout.toggle.colors": {
+        "message": "silent timeout is currently $1 for colors."
+    }, 
+    "chatmoderator.silenttimeout.toggle.emotes": {
+        "message": "silent timeout is currently $1 for emotes."
+    }, 
+    "chatmoderator.silenttimeout.toggle.fakepurge": {
+        "message": "silent timeout is currently $1 for fake purges."
+    }, 
+    "chatmoderator.silenttimeout.toggle.links": {
+        "message": "silent timeout is currently $1 for links."
+    }, 
+    "chatmoderator.silenttimeout.toggle.long.message": {
+        "message": "silent timeout is currently $1 for long messages."
+    }, 
+    "chatmoderator.silenttimeout.toggle.spam": {
+        "message": "silent timeout is currently $1 for spam."
+    }, 
+    "chatmoderator.silenttimeout.toggle.spamtracker": {
+        "message": "silent timeout is currently $1 for spam tracker."
+    }, 
+    "chatmoderator.silenttimeout.toggle.symbols": {
+        "message": "silent timeout is currently $1 for symbols."
+    }, 
+    "chatmoderator.silenttimeout.true": {
+        "message": "silent timeout has been enabled for all filters."
+    }, 
+    "chatmoderator.silenttimeout.usage": {
+        "message": "Usage: !moderation silenttimeout [links / caps / symbols / spam / emotes / colors / longmessages / spamtracker / fakepurge / all] [true / false]"
+    }, 
+    "chatmoderator.silenttimeout.usage.all": {
+        "message": "usage: !moderation silenttimeout all [true / false]"
+    }, 
+    "chatmoderator.spam.filter.disabled": {
+        "message": "Spam filter has been disabled."
+    }, 
+    "chatmoderator.spam.filter.enabled": {
+        "message": "Spam filter has been enabled."
+    }, 
+    "chatmoderator.spam.limit.set": {
+        "message": "spam limit set to: $1"
+    }, 
+    "chatmoderator.spam.limit.usage": {
+        "message": "Usage: !moderation spamlimit [amount]"
+    }, 
+    "chatmoderator.spam.message.set": {
+        "message": "spam warning message set to: $1"
+    }, 
+    "chatmoderator.spam.message.usage": {
+        "message": "Usage: !moderation spammessage [message]"
+    }, 
+    "chatmoderator.spam.usage": {
+        "message": "Usage: !moderation spam [on / off] (spam filter is currently $1)"
+    }, 
+    "chatmoderator.spamtracker.filter.disabled": {
+        "message": "Spam tracker filter has been disabled."
+    }, 
+    "chatmoderator.spamtracker.filter.enabled": {
+        "message": "Spam tracker filter has been enabled."
+    }, 
+    "chatmoderator.spamtracker.limit.set": {
+        "message": "spam tracker limit set to: $1 message"
+    }, 
+    "chatmoderator.spamtracker.limit.usage": {
+        "message": "Usage: !moderation spamtrackerlimit [amount]"
+    }, 
+    "chatmoderator.spamtracker.message.set": {
+        "message": "spam tracker warning message set to: $1"
+    }, 
+    "chatmoderator.spamtracker.message.usage": {
+        "message": "Usage: !moderation spamtrackermessage [message]"
+    }, 
+    "chatmoderator.spamtracker.time.set": {
+        "message": "spam tracker time set to: $1 seconds"
+    }, 
+    "chatmoderator.spamtracker.time.usage": {
+        "message": "Usage: !moderation spamtrackertime [amount in seconds]"
+    }, 
+    "chatmoderator.spamtracker.usage": {
+        "message": "Usage: !moderation spamtracker [on / off] (spam tracker filter is currently $1)"
+    }, 
+    "chatmoderator.subscribers.caps.allowed": {
+        "message": "subscribers will now be effected by the caps filter."
+    }, 
+    "chatmoderator.subscribers.caps.not.allowed": {
+        "message": "subscribers will no longer be effected by the caps filter."
+    }, 
+    "chatmoderator.subscribers.colors.allowed": {
+        "message": "subscribers will now be effected by the colors filter."
+    }, 
+    "chatmoderator.subscribers.colors.not.allowed": {
+        "message": "subscribers will no longer be effected by the colors filter."
+    }, 
+    "chatmoderator.subscribers.emotes.allowed": {
+        "message": "subscribers will now be effected by the emotes filter."
+    }, 
+    "chatmoderator.subscribers.emotes.not.allowed": {
+        "message": "subscribers will no longer be effected by the emotes filter."
+    }, 
+    "chatmoderator.subscribers.fakepurge.allowed": {
+        "message": "subscribers will now be effected by the fake purges filter."
+    }, 
+    "chatmoderator.subscribers.fakepurge.not.allowed": {
+        "message": "subscribers will no longer be effected by the fake purges filter."
+    }, 
+    "chatmoderator.subscribers.links.allowed": {
+        "message": "subscribers will now be effected by the link filter."
+    }, 
+    "chatmoderator.subscribers.links.not.allowed": {
+        "message": "subscribers will no longer be effected by the link filter."
+    }, 
+    "chatmoderator.subscribers.long.messages.allowed": {
+        "message": "subscribers will now be effected by the long message filter."
+    }, 
+    "chatmoderator.subscribers.long.messages.not.allowed": {
+        "message": "subscribers will no longer be effected by the long message filter."
+    }, 
+    "chatmoderator.subscribers.spam.allowed": {
+        "message": "subscribers will now be effected by the spam filter."
+    }, 
+    "chatmoderator.subscribers.spam.not.allowed": {
+        "message": "subscribers will no longer be effected by the spam filter."
+    }, 
+    "chatmoderator.subscribers.spamtracker.allowed": {
+        "message": "subscribers will now be effected by the spam tracker filter."
+    }, 
+    "chatmoderator.subscribers.spamtracker.not.allowed": {
+        "message": "subscribers will no longer be effected by the spam tracker filter."
+    }, 
+    "chatmoderator.subscribers.symbols.allowed": {
+        "message": "subscribers will now be effected by the symbols filter."
+    }, 
+    "chatmoderator.subscribers.symbols.not.allowed": {
+        "message": "subscribers will no longer be effected by the symbols filter."
+    }, 
+    "chatmoderator.subscribers.toggle.caps": {
+        "message": "subscribers are currently $1 to type all in caps."
+    }, 
+    "chatmoderator.subscribers.toggle.colors": {
+        "message": "subscribers are currently $1 to use /me for colored text"
+    }, 
+    "chatmoderator.subscribers.toggle.emotes": {
+        "message": "subscribers are currently $1 to overuse emotes."
+    }, 
+    "chatmoderator.subscribers.toggle.fakepurge": {
+        "message": "subscribers are currently $1 to use fake purges."
+    }, 
+    "chatmoderator.subscribers.toggle.link": {
+        "message": "subscribers are currently $1 to post links."
+    }, 
+    "chatmoderator.subscribers.toggle.long.msg": {
+        "message": "subscribers are currently $1 to post long messages."
+    }, 
+    "chatmoderator.subscribers.toggle.spam": {
+        "message": "subscribers are currently $1 to spam repeating characters."
+    }, 
+    "chatmoderator.subscribers.toggle.symbols": {
+        "message": "subscribers are currently $1 to spam symbols."
+    }, 
+    "chatmoderator.subscribers.usage": {
+        "message": "Usage: !moderation subscribers [links / caps / symbols / spam / emotes / colors / longmessages / spamtracker / fakepurge] [true / false]"
+    }, 
+    "chatmoderator.symbols.filter.disabled": {
+        "message": "Symbol filter has been disabled."
+    }, 
+    "chatmoderator.symbols.filter.enabled": {
+        "message": "Symbol filter has been enabled."
+    }, 
+    "chatmoderator.symbols.group.limit.set": {
+        "message": "grouped symbol limit set to: $1 symbols"
+    }, 
+    "chatmoderator.symbols.group.limit.usage": {
+        "message": "Usage: !moderation symbolsgrouplimit [amount]"
+    }, 
+    "chatmoderator.symbols.limit.set": {
+        "message": "symbol limit set to: $1% of symbols"
+    }, 
+    "chatmoderator.symbols.limit.usage": {
+        "message": "Usage: !moderation symbolslimit [amount]"
+    }, 
+    "chatmoderator.symbols.message.set": {
+        "message": "symbol warning message set to: $1"
+    }, 
+    "chatmoderator.symbols.message.usage": {
+        "message": "Usage: !moderation symbolsmessage [message]"
+    }, 
+    "chatmoderator.symbols.trigger.length.set": {
+        "message": "symbol trigger length set to: $1"
+    }, 
+    "chatmoderator.symbols.trigger.length.usage": {
+        "message": "Usage: !moderation symbolsTriggerLength [amount]"
+    }, 
+    "chatmoderator.symbols.usage": {
+        "message": "Usage: !moderation symbols [on / off] (symbol filter is currently $1)"
+    }, 
+    "chatmoderator.timeout": {
+        "message": "(timeout)"
+    }, 
+    "chatmoderator.timeouttime.caps": {
+        "message": "timeout time for caps has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.caps.usage": {
+        "message": "!moderation timeoutime caps [time in seconds] (current timeout time for caps is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.colors": {
+        "message": "timeout time for colors has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.colors.usage": {
+        "message": "!moderation timeoutime colors [time in seconds] (current timeout time for colors is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.emotes": {
+        "message": "timeout time for emotes has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.emotes.usage": {
+        "message": "!moderation timeoutime emotes [time in seconds] (current timeout time for emotes is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.fakepuge": {
+        "message": "timeout time for fake purges has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.fakepuge.usage": {
+        "message": "!moderation timeoutime fakepurge [time in seconds] (current timeout time for fake purges is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.links": {
+        "message": "timeout time for links has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.links.usage": {
+        "message": "!moderation timeoutime links [time in seconds] (current timeout time for links is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.longmsg": {
+        "message": "timeout time for long messages has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.longmsg.usage": {
+        "message": "!moderation timeoutime longmessages [time in seconds] (current timeout time for long messages is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.spam": {
+        "message": "timeout time for spam has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.spam.usage": {
+        "message": "!moderation timeoutime spam [time in seconds] (current timeout time for spam is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.spamtracker": {
+        "message": "timeout time for spam tracker has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.spamtracker.usage": {
+        "message": "!moderation timeoutime spamtracker [time in seconds] (current timeout time for spam tracker is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.symbols": {
+        "message": "timeout time for symbols has been set to $1 seconds."
+    }, 
+    "chatmoderator.timeouttime.symbols.usage": {
+        "message": "!moderation timeoutime symbols [time in seconds] (current timeout time for symbols is set to $1 seconds)"
+    }, 
+    "chatmoderator.timeouttime.usage": {
+        "message": "!moderation timeouttime [links / caps / symbols / spam / emotes / colors / longmessages / spamtracker / fakepurge] [time in seconds]"
+    }, 
+    "chatmoderator.usage.messages": {
+        "message": "Usage: !moderation [linksmessage / capsmessage / symbolsmessage / spammessage / emotesmessage / colorsmessage / blacklistmessage / blacklistmessageban / longmsgmessage / spamtrackermessage / fakepurgemessage]"
+    }, 
+    "chatmoderator.usage.toggles": {
+        "message": "Usage: !moderation [links / caps / symbols / spam / emotes / colors / longmessages / spamtracker / fakepurge / regulars / subscribers / silenttimeout]"
+    }, 
+    "chatmoderator.warning": {
+        "message": "(warning)"
+    }, 
+    "chatmoderator.warningresettime.set": {
+        "message": "Warning reset time set to $1 minutes."
+    }, 
+    "chatmoderator.warningresettime.usage": {
+        "message": "Usage: !moderation warningresettime [time in minutes]"
+    }, 
+    "chatmoderator.warningtime.caps": {
+        "message": "warning time for caps has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.caps.usage": {
+        "message": "!moderation warningtime caps [time in seconds] (current warning time for caps is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.colors": {
+        "message": "warning time for colors has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.colors.usage": {
+        "message": "!moderation warningtime colors [time in seconds] (current warning time for colors is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.emotes": {
+        "message": "warning time for emotes has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.emotes.usage": {
+        "message": "!moderation warningtime emotes [time in seconds] (current warning time for emotes is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.fakepurge": {
+        "message": "warning time for fake purges has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.fakepurge.usage": {
+        "message": "!moderation warningtime fakepurge [time in seconds] (current warning time for fake purges is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.links": {
+        "message": "warning time for links has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.links.usage": {
+        "message": "!moderation warningtime links [time in seconds] (current warning time for links is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.longmsg": {
+        "message": "warning time for long messages has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.longmsg.usage": {
+        "message": "!moderation warningtime longmessages [time in seconds] (current warning time for long messages is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.spam": {
+        "message": "warning time for spam has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.spam.usage": {
+        "message": "!moderation warningtime spam [time in seconds] (current warning time for spam is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.spamtracker": {
+        "message": "warning time for spam tracker has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.spamtracker.usage": {
+        "message": "!moderation warningtime spamtracker [time in seconds] (current warning time for spam tracker is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.symbols": {
+        "message": "warning time for symbols has been set to $1 seconds."
+    }, 
+    "chatmoderator.warningtime.symbols.usage": {
+        "message": "!moderation warningtime symbols [time in seconds] (current warning time for symbols is set to $1 seconds)"
+    }, 
+    "chatmoderator.warningtime.usage": {
+        "message": "!moderation warningtime [links / caps / symbols / spam / emotes / colors / longmessages / spamtracker / fakepurge] [time in seconds]"
+    }, 
+    "chatmoderator.whitelist.add.usage": {
+        "message": "Usage: !whiteList add (url)"
+    }, 
+    "chatmoderator.whitelist.link.added": {
+        "message": "Link added to the whiteList."
+    }, 
+    "chatmoderator.whitelist.remove.usage": {
+        "message": "Usage: !whiteList remove (url)"
+    }, 
+    "chatmoderator.whitelist.removed": {
+        "message": "Link removed from the whitelist!"
+    }, 
+    "chatmoderator.whitelist.usage": {
+        "message": "Usage: !whiteList [add / remove]"
+    }, 
+    "cmd.404": {
+        "message": "command !$1 does not exist or is not registered."
+    }, 
+    "cmd.adminonly": {
+        "message": "Only an Administrator has access to that command!"
+    }, 
+    "cmd.casteronly": {
+        "message": "Only a Caster has access to that command!"
+    }, 
+    "cmd.modonly": {
+        "message": "Only a Moderator has access to that command!"
+    }, 
+    "cmd.needpoints": {
+        "message": "That command costs $1, which you don't have."
+    }, 
+    "cmd.perm.404": {
+        "message": "you do not have access to that command. Only $1 or higher can access it."
+    }, 
+    "cmd.useronly": {
+        "message": "Only $1 has access to that command!"
+    }, 
+    "commandlist.commands": {
+        "message": "Commands (page $1 of $2): $3"
+    }, 
+    "commandlist.more": {
+        "message": " >> Type \"!commands $1\" for more"
+    }, 
+    "commandlist.nocommands": {
+        "message": "There are currently no commands available to you"
+    }, 
+    "commandlist.nopage": {
+        "message": "page $1 does not exist!"
+    }, 
+    "commandlist.progress": {
+        "message": "Exporting commands... $1%"
+    }, 
+    "commandpause.ended": {
+        "message": "All commands are enabled again."
+    }, 
+    "commandpause.initiated": {
+        "message": "All commands are disabled for $1."
+    }, 
+    "commandpause.isactive": {
+        "message": "All commands are currently disabled."
+    }, 
+    "common.communities.change": {
+        "message": "Communities have been updated!"
+    }, 
+    "common.disabled": {
+        "message": "disabled"
+    }, 
+    "common.enabled": {
+        "message": "enabled"
+    }, 
+    "common.game.change": {
+        "message": "Changed the current game to: $1!"
+    }, 
+    "common.get.age": {
+        "message": "$1 $2 has been on Twitch since $3."
+    }, 
+    "common.get.age.days": {
+        "message": "$1 $2 has been on Twitch since $3. (Joined $4 days ago)"
+    }, 
+    "common.hours": {
+        "message": " hours, "
+    }, 
+    "common.hours2": {
+        "message": " hours, "
+    }, 
+    "common.hours3": {
+        "message": " hours"
+    }, 
+    "common.minutes": {
+        "message": " minutes and "
+    }, 
+    "common.minutes2": {
+        "message": " minutes."
+    }, 
+    "common.seconds": {
+        "message": " seconds"
+    }, 
+    "common.time.and": {
+        "message": ", and "
+    }, 
+    "common.time.day": {
+        "message": "day"
+    }, 
+    "common.time.days": {
+        "message": "days"
+    }, 
+    "common.time.expired": {
+        "message": "looks like that has expired"
+    }, 
+    "common.time.hour": {
+        "message": "hour"
+    }, 
+    "common.time.hours": {
+        "message": "hours"
+    }, 
+    "common.time.minute": {
+        "message": "minute"
+    }, 
+    "common.time.minutes": {
+        "message": "minutes"
+    }, 
+    "common.time.month": {
+        "message": "month"
+    }, 
+    "common.time.months": {
+        "message": "months"
+    }, 
+    "common.time.nostart": {
+        "message": "looks like that has not started"
+    }, 
+    "common.time.second": {
+        "message": "second"
+    }, 
+    "common.time.seconds": {
+        "message": "seconds"
+    }, 
+    "common.title.change": {
+        "message": "Changed the current title to: $1!"
+    }, 
+    "common.twitch.no.game": {
+        "message": "not sure, neither is Twitch"
+    }, 
+    "common.twitch.no.status": {
+        "message": "not sure, neither is Twitch"
+    }, 
+    "common.user-error": {
+        "message": "You must specify a user to target with this command"
+    }, 
+    "common.user.404": {
+        "message": "The user \"$1\" has not visited this channel yet."
+    }, 
+    "console.channel.ishosting": {
+        "message": "$1 is currently hosting $2."
+    }, 
+    "console.received.clearchat": {
+        "message": "Received a clear chat notification from jtv"
+    }, 
+    "console.received.host.end": {
+        "message": "Received an end host mode notification from jtv"
+    }, 
+    "console.received.host.start": {
+        "message": "Received a start host mode notification on user $1 from jtv"
+    }, 
+    "console.received.irsprivmsg": {
+        "message": "Received a PM from $1: $2"
+    }, 
+    "console.received.purgetimeoutban": {
+        "message": "Received a purge/timeout/ban notification on user $1 from jtv"
+    }, 
+    "console.received.r9k.end": {
+        "message": "Received an end r9k mode notification from jtv"
+    }, 
+    "console.received.r9k.start": {
+        "message": "Received a start r9k mode notification from jtv"
+    }, 
+    "console.received.slowmode.end": {
+        "message": "Received an end slow mode notification from jtv"
+    }, 
+    "console.received.slowmode.start": {
+        "message": "Received a start slow mode ($1) notification from jtv"
+    }, 
+    "console.received.subscriberonly.end": {
+        "message": "Received an end subscribers-only mode notification from jtv"
+    }, 
+    "console.received.subscriberonly.start": {
+        "message": "Received a start subscribers-only mode notification from jtv"
+    }, 
+    "cooldown.adventure.err": {
+        "message": "Please use \"!adventure set cooldown\" to set the cooldown for adventures."
+    }, 
+    "cooldown.coolcom.err": {
+        "message": "The minimum cooldown that can be set is 5 seconds."
+    }, 
+    "cooldown.coolcom.remove": {
+        "message": "Cooldown for command !$1 has been removed."
+    }, 
+    "cooldown.coolcom.set": {
+        "message": "Cooldown for command !$1 has been set to $2 seconds."
+    }, 
+    "cooldown.coolcom.usage": {
+        "message": "Usage: !coolcom [command] [seconds] [type (global / user)] - Using -1 for the seconds removes the cooldown."
+    }, 
+    "cooldown.cooldown.usage": {
+        "message": "Usage: !cooldown [togglemoderators / setdefault]"
+    }, 
+    "cooldown.default.set": {
+        "message": "The default cooldown for commands without one has been set to $1 seconds."
+    }, 
+    "cooldown.default.usage": {
+        "message": "Usage: !cooldown setdefault [seconds] - Set a cooldown for commands that don't have one."
+    }, 
+    "cooldown.set.togglemodcooldown": {
+        "message": "Command cooldowns have been $1 for moderators."
+    }, 
+    "get.long.time.string.long": {
+        "message": "$1 months, $2 hours and $3 minutes."
+    }, 
+    "get.long.time.string.short": {
+        "message": " $1 days, $2 hours and $3 minutes."
+    }, 
+    "ignoreadd.added": {
+        "message": "$1 has been added to the ignorebots.txt file."
+    }, 
+    "ignoreadd.nouser": {
+        "message": "$1 is already in the ignorebots.txt file."
+    }, 
+    "ignoreadd.usage": {
+        "message": "Usage: !ignoreadd [username], to add a channel to the ignore list."
+    }, 
+    "ignorelist": {
+        "message": "Current Ignored Bots: $1"
+    }, 
+    "ignorelist.listtoolong": {
+        "message": "There are over $1 to list, I suggest checking the ./addons/ignorebots.txt"
+    }, 
+    "ignoreremove.nouser": {
+        "message": "$1 in not currently in the ignorebots.txt file."
+    }, 
+    "ignoreremove.removed": {
+        "message": "$1 has been removed from the ignorebots.txt file."
+    }, 
+    "ignoreremove.usage": {
+        "message": "Usage: !ignoreremove [username], to remove a channel from the ignore list."
+    }, 
+    "init.blacklist.add.usage": {
+        "message": "Usage: !$1 blacklist add (username)"
+    }, 
+    "init.blacklist.added": {
+        "message": "added $1 to the bot blacklist!"
+    }, 
+    "init.blacklist.err": {
+        "message": "that user is not in the blacklist."
+    }, 
+    "init.blacklist.remove.usage": {
+        "message": "Usage: !$1 blacklist remove (username)"
+    }, 
+    "init.blacklist.removed": {
+        "message": "removed $1 from the bot blacklist!"
+    }, 
+    "init.blacklist.usage": {
+        "message": "Usage: !$1 blacklist [add / remove]"
+    }, 
+    "init.cmsgset": {
+        "message": "Connected message set!"
+    }, 
+    "init.connected.msg": {
+        "message": "Connect message set to: $1"
+    }, 
+    "init.connected.msg.removed": {
+        "message": "Connect message removed!"
+    }, 
+    "init.connected.msg.usage": {
+        "message": "!$1 connectmessage [message]"
+    }, 
+    "init.cooldown.msg": {
+        "message": "command !$1 is still on cooldown. ($2 seconds)"
+    }, 
+    "init.disconnect": {
+        "message": "Disconnecting from $1"
+    }, 
+    "init.mod.toggle.off.pay": {
+        "message": "moderators+ will no longer pay for commands."
+    }, 
+    "init.mod.toggle.on.pay": {
+        "message": "moderators+ will now pay for commands."
+    }, 
+    "init.mod.toggle.perm.msg.off": {
+        "message": "No permission messages have been disabled."
+    }, 
+    "init.mod.toggle.perm.msg.on": {
+        "message": "No permission messages have been enabled."
+    }, 
+    "init.mod.toggle.price.msg.off": {
+        "message": "The price message has been disabled."
+    }, 
+    "init.mod.toggle.price.msg.on": {
+        "message": "The price message has been enabled."
+    }, 
+    "init.module.404": {
+        "message": "That module does not exist or is not loaded!"
+    }, 
+    "init.module.auto-disabled": {
+        "message": "Modules related to the points system have been disabled."
+    }, 
+    "init.module.check.disabled": {
+        "message": "Module $1 is currently disabled!"
+    }, 
+    "init.module.check.enabled": {
+        "message": "Module $1 is currently enabled!"
+    }, 
+    "init.module.delete.404": {
+        "message": "Module not found in DB: $1"
+    }, 
+    "init.module.delete.success": {
+        "message": "Module deleted from DB: $1"
+    }, 
+    "init.module.delete.usage": {
+        "message": "Usage: !module delete [module_name] - Deletes entry from DB! Use for modules removed from disk!"
+    }, 
+    "init.module.disabled": {
+        "message": "Module \"$1\" disabled!"
+    }, 
+    "init.module.enabled": {
+        "message": "Module \"$1\" enabled!"
+    }, 
+    "init.module.error": {
+        "message": "Module \"$1\" enabled but did not initialize! Check error logs!"
+    }, 
+    "init.module.list": {
+        "message": "Modules: $1"
+    }, 
+    "init.module.list.total": {
+        "message": "Total Pages: $1"
+    }, 
+    "init.module.usage": {
+        "message": "Usage: !module [list / enabled / delete / status]"
+    }, 
+    "init.module.usage.disable": {
+        "message": "Usage: !module disable [module path]"
+    }, 
+    "init.module.usage.enable": {
+        "message": "Usage: !module enable [module path]"
+    }, 
+    "init.module.usage.status": {
+        "message": "Usage: !module status [module path]"
+    }, 
+    "init.reconnect": {
+        "message": "Reconnecting to $1"
+    }, 
+    "init.rejoin": {
+        "message": "Rejoining the channel."
+    }, 
+    "init.toggle.cooldown.msg.off": {
+        "message": "The cooldown message has been disabled."
+    }, 
+    "init.toggle.cooldown.msg.on": {
+        "message": "The cooldown message has been enabled."
+    }, 
+    "init.usage": {
+        "message": "!$1 [reconnect / disconnect]"
+    }, 
+    "lang.curlang": {
+        "message": "The current language is $1!"
+    }, 
+    "lang.lang.404": {
+        "message": "That language file does not exist!"
+    }, 
+    "lang.lang.changed": {
+        "message": "Changed language to $1!"
+    }, 
+    "lang.response.action.disabled": {
+        "message": "Chat output will be normal text. (without /me)"
+    }, 
+    "lang.response.action.enabled": {
+        "message": "Chat output wil be prepended with \"/me\"."
+    }, 
+    "lang.response.disabled": {
+        "message": "Responses are now disabled! To enable them, use !mute"
+    }, 
+    "lang.response.enabled": {
+        "message": "Responses are now enabled! To disable them, use: !mute"
+    }, 
+    "logging.disabled.error": {
+        "message": "Error logging has been disabled!"
+    }, 
+    "logging.disabled.event": {
+        "message": "Event logging has been disabled!"
+    }, 
+    "logging.disabled.files": {
+        "message": "File and chat logging has been disabled!"
+    }, 
+    "logging.enabled.error": {
+        "message": "Error logging has been enabled!"
+    }, 
+    "logging.enabled.event": {
+        "message": "Event logging has been enabled!"
+    }, 
+    "logging.enabled.files": {
+        "message": "File and chat logging has been enabled!"
+    }, 
+    "logging.rotatedays.success": {
+        "message": "Logs will rotate every $1 days."
+    }, 
+    "logging.rotatedays.success.off": {
+        "message": "Logs will not be rotated"
+    }, 
+    "logging.rotatedays.usage": {
+        "message": "usage: !log rotatedays [days]. 0 to keep all logs. Currently: $1"
+    }, 
+    "logging.usage": {
+        "message": "Usage: !log [files / errors / events]"
+    }, 
+    "main.donation.last.tip.message": {
+        "message": "Last tip from: $1 ($2 $3)"
+    }, 
+    "pausecommands.usage": {
+        "message": "usage: !pausecommands [seconds | clear]"
+    }, 
+    "permissions.current.listtoolong": {
+        "message": "There are over $1 to list, I suggest checking the viewerslist in the Twitch chat."
+    }, 
+    "permissions.current.mods": {
+        "message": "Mods in channel: $1"
+    }, 
+    "permissions.current.users": {
+        "message": "Users in channel: $1"
+    }, 
+    "permissions.group.other.current": {
+        "message": "$1 currently has $2 permissions."
+    }, 
+    "permissions.group.self.current": {
+        "message": "You currently have $1 permissions."
+    }, 
+    "permissions.group.set.error.abovegroup": {
+        "message": "You must have higher permissions than the person you are trying to promote!"
+    }, 
+    "permissions.group.set.error.samegroup": {
+        "message": "You cannot promote others to the same permission as you."
+    }, 
+    "permissions.group.set.success": {
+        "message": "Permission for $1 changed to $2!"
+    }, 
+    "permissions.group.usage": {
+        "message": "Usage: !permission, !permission [name] [permissionID]"
+    }, 
+    "permissions.grouppoints.set.offline": {
+        "message": "Set permission $1 to gain $2 $3 offline."
+    }, 
+    "permissions.grouppoints.set.online": {
+        "message": "Set permission $1 to gain $2 $3 online."
+    }, 
+    "permissions.grouppoints.set.sub.error": {
+        "message": "You cannot promote anyone to Subscriber, this status is from Twitch."
+    }, 
+    "permissions.grouppoints.showgroup": {
+        "message": "Permission $1 gains $2 $3 online and $4 $5 offline."
+    }, 
+    "permissions.grouppoints.showgroup.offline": {
+        "message": "$1 gains $2 $3 offline."
+    }, 
+    "permissions.grouppoints.showgroup.online": {
+        "message": "$1 gains $2 $3 online."
+    }, 
+    "permissions.grouppoints.usage": {
+        "message": "Usage: !permissionpoints [permission name] [online|offline] [points]. points of -1 uses !setgain, !setofflinegain values."
+    }, 
+    "permissions.reloadbots": {
+        "message": "Reloaded list of bots and users to not accumulate time or points."
+    }, 
+    "timesystem.add.error.negative": {
+        "message": "You can not give negative time."
+    }, 
+    "timesystem.add.success": {
+        "message": "Sent $1 to $2. New balance is $3."
+    }, 
+    "timesystem.add.usage": {
+        "message": "Usage: \"!time give [name] [amount]\""
+    }, 
+    "timesystem.autolevel.chat.disabled": {
+        "message": "Auto level chat announcements are now disabled."
+    }, 
+    "timesystem.autolevel.chat.enabled": {
+        "message": "Auto level chat announcements are now enabled!"
+    }, 
+    "timesystem.autolevel.disabled": {
+        "message": "Users will no longer be promoted to $1 when they have been in the chat for $2 hour(s)."
+    }, 
+    "timesystem.autolevel.enabled": {
+        "message": "Users will now be promoted to $1 when they have been in the chat for $2 hour(s)."
+    }, 
+    "timesystem.autolevel.promoted": {
+        "message": "$1 has been promoted to $2 by being in the chat for $3 hour(s). Congratulations!"
+    }, 
+    "timesystem.get.other": {
+        "message": "$1 currently spent $2 in the chat."
+    }, 
+    "timesystem.get.self": {
+        "message": "you currently have spent $2 in the chat."
+    }, 
+    "timesystem.modpermtoggle.success": {
+        "message": "Users in the group $1 or higher are now able to use time management commands."
+    }, 
+    "timesystem.offlinetime.disabled": {
+        "message": "Offline time will no longer be counted towards the time earned in chat."
+    }, 
+    "timesystem.offlinetime.enabled": {
+        "message": "Offline time will now be counted towards the time earned in chat."
+    }, 
+    "timesystem.set.promotehours.error.negative": {
+        "message": "You can not set the time in hours to promote a user to $1 to a negative number."
+    }, 
+    "timesystem.set.promotehours.success": {
+        "message": "Set the time in hours to promote a user to $1 to $2."
+    }, 
+    "timesystem.set.promotehours.usage": {
+        "message": "Usage: \"!time promotehours [amount]\""
+    }, 
+    "timesystem.set.timezone.invalid": {
+        "message": "\"$1\" is not a valid time zone. A list of time zones can be found on \"http://en.wikipedia.org/wiki/List_of_tz_database_time_zones\"."
+    }, 
+    "timesystem.set.timezone.success": {
+        "message": "The time zone has been set to \"$1\". Automatically adjusts for daylight saving time: $2"
+    }, 
+    "timesystem.set.timezone.usage": {
+        "message": "Usage: !timezone [timezone name] (Current timezone is $1)"
+    }, 
+    "timesystem.settime.error.negative": {
+        "message": "You can not set a balance to negative time."
+    }, 
+    "timesystem.settime.success": {
+        "message": "Set the time balance of $1 to $2."
+    }, 
+    "timesystem.settime.usage": {
+        "message": "Usage: \"!time set [name] [amount]\""
+    }, 
+    "timesystem.streamertime": {
+        "message": "It is currently $1 where $2 is located."
+    }, 
+    "timesystem.take.error.toomuch": {
+        "message": "You can not take more than what $1 has in time."
+    }, 
+    "timesystem.take.success": {
+        "message": "Took $1 from $2. New balance is $3."
+    }, 
+    "timesystem.take.usage": {
+        "message": "Usage: \"!time take [name] [amount]\""
+    }, 
+    "timesystem.uptime": {
+        "message": "$1 has been live for $2!"
+    }, 
+    "timesystem.uptime.offline": {
+        "message": "$1 is currently offline."
+    }, 
+    "user.time.string.hours": {
+        "message": " $1 hours and $2 minutes"
+    }, 
+    "user.time.string.minutes": {
+        "message": " $1 minutes"
+    }, 
+    "whisper.whispers.disabled": {
+        "message": "[Whisper Mode] has been disabled."
+    }, 
+    "whisper.whispers.enabled": {
+        "message": "[Whisper Mode] has been enabled."
+    }
+}

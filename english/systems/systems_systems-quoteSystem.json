@@ -1,0 +1,59 @@
+{
+    "quotesystem.add.offline": {
+        "message": "Only moderators may add quotes when the stream is offline."
+    }, 
+    "quotesystem.add.success": {
+        "message": "Added new quote from $1 with id #$2."
+    }, 
+    "quotesystem.add.usage1": {
+        "message": "Usage: !addquote [quote]"
+    }, 
+    "quotesystem.add.usage2": {
+        "message": "Usage: !addquote [user] [quote]"
+    }, 
+    "quotesystem.del.404": {
+        "message": "Could not delete quote $1... Are you sure it exists?"
+    }, 
+    "quotesystem.del.success": {
+        "message": "Deleted quote $1. There are $2 quotes now."
+    }, 
+    "quotesystem.del.usage": {
+        "message": "Usage: !delquote [quote id]"
+    }, 
+    "quotesystem.edit.404": {
+        "message": "Could not find quote $1... Are you sure it exists?"
+    }, 
+    "quotesystem.edit.game.success": {
+        "message": "Updated game on quote $1 to $2."
+    }, 
+    "quotesystem.edit.quote.success": {
+        "message": "Updated quote on quote $1 to $2."
+    }, 
+    "quotesystem.edit.usage": {
+        "message": "Usage: !editquote [quote id] [user|game|quote] text...]"
+    }, 
+    "quotesystem.edit.user.success": {
+        "message": "Updated user on quote $1 to $2."
+    }, 
+    "quotesystem.get.404": {
+        "message": "Could not find quote $1... Are you sure it exists?"
+    }, 
+    "quotesystem.get.success": {
+        "message": "[(id)] \"(quote)\", by (user) ((date))' // Tags = (id) (quote) (user) (game) (date) /"
+    }, 
+    "quotesystem.quotemessage.success": {
+        "message": "Changed the message used for quotes."
+    }, 
+    "quotesystem.quotemessage.usage": {
+        "message": "Usage: !quotemessage [message] (Tags: (id) (quote) (user) (game) (date))"
+    }, 
+    "quotesystem.searchquote.404": {
+        "message": "No matching quotes found."
+    }, 
+    "quotesystem.searchquote.found": {
+        "message": "Quote IDs with matches: $1"
+    }, 
+    "quotesystem.searchquote.usage": {
+        "message": "Usage: !searchquote [text] (Must provide at least 5 characters)"
+    }
+}

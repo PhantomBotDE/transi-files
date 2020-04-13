@@ -1,0 +1,23 @@
+{
+    "discord.tipeeestreamhandler.channel.set": {
+        "message": "TipeeeStream donation announcements will now be made in channel #$1"
+    }, 
+    "discord.tipeeestreamhandler.channel.usage": {
+        "message": "Usage: !tipeeestreamhandler channel [channel name]"
+    }, 
+    "discord.tipeeestreamhandler.embed.title": {
+        "message": "New Tip!"
+    }, 
+    "discord.tipeeestreamhandler.message.set": {
+        "message": "TipeeeStream donation message set to: $1"
+    }, 
+    "discord.tipeeestreamhandler.message.usage": {
+        "message": "Usage: !tipeeestreamhandler message [message] - Tags: (name) (amount) (currency) (formattedamount) (message)"
+    }, 
+    "discord.tipeeestreamhandler.toggle": {
+        "message": "TipeeeStream donation announcements have been $1."
+    }, 
+    "discord.tipeeestreamhandler.usage": {
+        "message": "Usage: !tipeeestreamhandler [toggle / message / channel]"
+    }
+}

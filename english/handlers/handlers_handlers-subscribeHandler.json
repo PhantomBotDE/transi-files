@@ -1,0 +1,143 @@
+{
+    "subscribehandler.anongiftsub.toggle.off": {
+        "message": "Anonymous Subscriber gift will no longer be welcomed upon subscribing.."
+    }, 
+    "subscribehandler.anongiftsub.toggle.on": {
+        "message": "Anonymous Subscriber gift will now be welcomed upon subscribing."
+    }, 
+    "subscribehandler.anonmassgiftsub.msg.set": {
+        "message": "Anonymous Mass Subscriber gift welcome message set!"
+    }, 
+    "subscribehandler.anonmassgiftsub.msg.usage": {
+        "message": "Usage: !massanongiftsubmessage (message) - Tags: (name), (amount) and (plan)"
+    }, 
+    "subscribehandler.anonmassgiftsub.toggle.off": {
+        "message": "Anonymous Mass Subscriber gift will no longer be welcomed upon subscribing."
+    }, 
+    "subscribehandler.anonmassgiftsub.toggle.on": {
+        "message": "Anonymous Mass Subscriber gift will now be welcomed upon subscribing."
+    }, 
+    "subscribehandler.auto.sub.mode.interval.set": {
+        "message": "Auto submode interval set! This will only work while the stream is online."
+    }, 
+    "subscribehandler.auto.submode.timer.404": {
+        "message": "The minimum auto submode interval allowed is 30 minutes."
+    }, 
+    "subscribehandler.auto.submode.timer.off": {
+        "message": "Automated subs only mode enabled!"
+    }, 
+    "subscribehandler.auto.submode.timer.usage": {
+        "message": "Usage: !autosubmodetimer (interval) - set the interval to 0 to disable."
+    }, 
+    "subscribehandler.giftanonsub.msg.set": {
+        "message": "Anonymous Subscriber gift welcome message set!"
+    }, 
+    "subscribehandler.giftanonsub.msg.usage": {
+        "message": "Usage: !giftanonsubmessage (message) - Tags: (name), (recipient), (months), (reward) and (plan)"
+    }, 
+    "subscribehandler.giftsub.msg.noreward.set": {
+        "message": "Subscriber gift welcome message set for no rewards!"
+    }, 
+    "subscribehandler.giftsub.msg.noreward.usage": {
+        "message": "Usage: !giftsubmessage (message) - Tags: (name) (months)"
+    }, 
+    "subscribehandler.giftsub.msg.set": {
+        "message": "Subscriber gift welcome message set!"
+    }, 
+    "subscribehandler.giftsub.msg.usage": {
+        "message": "Usage: !giftsubmessage (message) - Tags: (name), (recipient), (months), (reward) and (plan)"
+    }, 
+    "subscribehandler.giftsub.reward.set": {
+        "message": "Reward for resubscribing set!"
+    }, 
+    "subscribehandler.giftsub.reward.usage": {
+        "message": "Usage: !giftsubreward (amount)"
+    }, 
+    "subscribehandler.giftsub.toggle.off": {
+        "message": "Subscriber gift will no longer be welcomed upon subscribing."
+    }, 
+    "subscribehandler.giftsub.toggle.on": {
+        "message": "Subscriber gift will now be welcomed upon subscribing."
+    }, 
+    "subscribehandler.massgiftsub.msg.set": {
+        "message": "Mass Subscriber gift welcome message set!"
+    }, 
+    "subscribehandler.massgiftsub.msg.usage": {
+        "message": "Usage: !massgiftsubmessage (message) - Tags: (name), (amount), (reward) and (plan)"
+    }, 
+    "subscribehandler.massgiftsub.toggle.off": {
+        "message": "Mass Subscriber gift will no longer be welcomed upon subscribing."
+    }, 
+    "subscribehandler.massgiftsub.toggle.on": {
+        "message": "Mass Subscriber gift will now be welcomed upon subscribing."
+    }, 
+    "subscribehandler.new.primesub.toggle.off": {
+        "message": "New Twitch Prime subscribers will no longer be welcomed upon subscribing."
+    }, 
+    "subscribehandler.new.primesub.toggle.on": {
+        "message": "New Twitch Prime subscribers will now be welcomed upon subscribing."
+    }, 
+    "subscribehandler.new.sub.toggle.off": {
+        "message": "New Subscribers will no longer be welcomed upon subscribing."
+    }, 
+    "subscribehandler.new.sub.toggle.on": {
+        "message": "New Subscribers will now be welcomed upon subscribing."
+    }, 
+    "subscribehandler.primesub.msg.set": {
+        "message": "New Twitch Prime subscriber welcome message set!"
+    }, 
+    "subscribehandler.primesub.msg.usage": {
+        "message": "Usage: !primesubmessage (message) - Tags: (name) and (reward)"
+    }, 
+    "subscribehandler.resub.msg.noreward.set": {
+        "message": "Resubscriber welcome message set for no rewards!"
+    }, 
+    "subscribehandler.resub.msg.noreward.usage": {
+        "message": "Usage: !resubmessage (message) - Tags: (name) (months)"
+    }, 
+    "subscribehandler.resub.msg.set": {
+        "message": "Resubscriber welcome message set!"
+    }, 
+    "subscribehandler.resub.msg.usage": {
+        "message": "Usage: !resubmessage (message) - Tags: (name), (months), (reward) and (plan)"
+    }, 
+    "subscribehandler.resub.reward.set": {
+        "message": "Reward for resubscribing set!"
+    }, 
+    "subscribehandler.resub.reward.usage": {
+        "message": "Usage: !resubscribereward (amount)"
+    }, 
+    "subscribehandler.resub.toggle.off": {
+        "message": "Resubscribers will no longer be welcomed upon resubscribing."
+    }, 
+    "subscribehandler.resub.toggle.on": {
+        "message": "Resubscribers will now be welcomed upon resubscribing."
+    }, 
+    "subscribehandler.resubemote.set": {
+        "message": "New resubscriber emote set!"
+    }, 
+    "subscribehandler.resubemote.usage": {
+        "message": "Usage: !resubemote (emote name)"
+    }, 
+    "subscribehandler.sub.count": {
+        "message": "There are currently $1 subscribers!"
+    }, 
+    "subscribehandler.sub.msg.noreward.set": {
+        "message": "New subscriber welcome message set for no rewards!"
+    }, 
+    "subscribehandler.sub.msg.noreward.usage": {
+        "message": "Usage: !submessage (message) - Tag: (name)"
+    }, 
+    "subscribehandler.sub.msg.set": {
+        "message": "New subscriber welcome message set!"
+    }, 
+    "subscribehandler.sub.msg.usage": {
+        "message": "Usage: !submessage (message) - Tags: (name) and (reward)"
+    }, 
+    "subscribehandler.sub.reward.set": {
+        "message": "Reward for subscribing set!"
+    }, 
+    "subscribehandler.sub.reward.usage": {
+        "message": "Usage: !subscribereward (amount)"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "hosthandler.auto.host.toggle": {
+        "message": "Auto-Host announcements are now $1"
+    }, 
+    "hosthandler.autohost.message": {
+        "message": "(name) just auto-hosted with (viewers) viewers!"
+    }, 
+    "hosthandler.deprecated": {
+        "message": "Due to Twitch issues with the API, this command is deprecated."
+    }, 
+    "hosthandler.host.message": {
+        "message": "(name) just hosted with (viewers) viewers!"
+    }, 
+    "hosthandler.host.toggle": {
+        "message": "Host announcements are now $1"
+    }, 
+    "hosthandler.host.usage": {
+        "message": "Usage: !host (channel)"
+    }, 
+    "hosthandler.newhost": {
+        "message": "Thanks for the host $1!"
+    }, 
+    "hosthandler.newhost.reward": {
+        "message": "Thanks for the host $1! You're rewarded $2 for being awesome!!"
+    }, 
+    "hosthandler.set.autohostmessage.success": {
+        "message": "New autohoster message set!"
+    }, 
+    "hosthandler.set.autohostmessage.usage": {
+        "message": "Usage: !autohostmessage (message) - Tags: (name)"
+    }, 
+    "hosthandler.set.autohostreward.success": {
+        "message": "New autohoster reward set to: $1."
+    }, 
+    "hosthandler.set.autohostreward.usage": {
+        "message": "Usage: !autohostreward [$1]"
+    }, 
+    "hosthandler.set.hostmessage.success": {
+        "message": "New hoster message set!"
+    }, 
+    "hosthandler.set.hostmessage.usage": {
+        "message": "Usage: !hostmessage (message) - Tags: (name) (reward)"
+    }, 
+    "hosthandler.set.hostminviewers.success": {
+        "message": "A minimum of $1 viewers are required to provide a hosting alert."
+    }, 
+    "hosthandler.set.hostminviewers.usage": {
+        "message": "Usage: !hostminviewers [amount] (Currently: $1)"
+    }, 
+    "hosthandler.set.hostreward.success": {
+        "message": "New hoster reward set to: $1."
+    }, 
+    "hosthandler.set.hostreward.usage": {
+        "message": "Usage: !hostreward [$1]"
+    }, 
+    "hosthandler.set.hostrewardminviewers.success": {
+        "message": "A minimum of $1 viewers are required to provide a hosting reward."
+    }, 
+    "hosthandler.set.hostrewardminviewers.usage": {
+        "message": "Usage: !hostrewardminviewers [count]"
+    }, 
+    "hosthistory.change": {
+        "message": "Host History is now $1"
+    }, 
+    "hosthistory.usage": {
+        "message": "Usage: !hosthistory [on / off] (Currently $1)"
+    }
+}

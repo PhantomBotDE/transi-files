@@ -1,0 +1,119 @@
+{
+    "8ball.answer.1": {
+        "message": "Reply hazy try again."
+    }, 
+    "8ball.answer.10": {
+        "message": "Concentrate and ask again."
+    }, 
+    "8ball.answer.11": {
+        "message": "Probably."
+    }, 
+    "8ball.answer.12": {
+        "message": "Never going to happen!"
+    }, 
+    "8ball.answer.13": {
+        "message": "The odds of that happening are pretty slim."
+    }, 
+    "8ball.answer.14": {
+        "message": "My reply is no."
+    }, 
+    "8ball.answer.15": {
+        "message": "My sources say no."
+    }, 
+    "8ball.answer.16": {
+        "message": "Very doubtful."
+    }, 
+    "8ball.answer.17": {
+        "message": "No."
+    }, 
+    "8ball.answer.18": {
+        "message": "I have no response for that question..."
+    }, 
+    "8ball.answer.19": {
+        "message": "Why would I tell you?"
+    }, 
+    "8ball.answer.2": {
+        "message": "Ask again later."
+    }, 
+    "8ball.answer.20": {
+        "message": "Forget about it."
+    }, 
+    "8ball.answer.21": {
+        "message": "Don't bet on it."
+    }, 
+    "8ball.answer.22": {
+        "message": "Who knows?"
+    }, 
+    "8ball.answer.23": {
+        "message": "Signs point to yes."
+    }, 
+    "8ball.answer.24": {
+        "message": "It is certain."
+    }, 
+    "8ball.answer.25": {
+        "message": "Without a doubt."
+    }, 
+    "8ball.answer.26": {
+        "message": "Yes definitely."
+    }, 
+    "8ball.answer.27": {
+        "message": "You may rely on it."
+    }, 
+    "8ball.answer.28": {
+        "message": "As I see it, yes."
+    }, 
+    "8ball.answer.29": {
+        "message": "Most likely."
+    }, 
+    "8ball.answer.3": {
+        "message": "Better not tell you now."
+    }, 
+    "8ball.answer.30": {
+        "message": "Outlook good."
+    }, 
+    "8ball.answer.31": {
+        "message": "Yes."
+    }, 
+    "8ball.answer.32": {
+        "message": "Signs point to yes."
+    }, 
+    "8ball.answer.33": {
+        "message": "This is not the Bot you're looking for \u0f3c\uff89\u06de\u2302\u06de\u0f3d\uff89"
+    }, 
+    "8ball.answer.34": {
+        "message": "There's a pretty good chance."
+    }, 
+    "8ball.answer.35": {
+        "message": "No, don't even think about."
+    }, 
+    "8ball.answer.4": {
+        "message": "Cannot predict now."
+    }, 
+    "8ball.answer.5": {
+        "message": "Go for it!"
+    }, 
+    "8ball.answer.6": {
+        "message": "Yes, in due time."
+    }, 
+    "8ball.answer.7": {
+        "message": "You will have to wait."
+    }, 
+    "8ball.answer.8": {
+        "message": "Ask again later."
+    }, 
+    "8ball.answer.9": {
+        "message": "Yeah, for sure."
+    }, 
+    "8ball.console.loaded": {
+        "message": "Found $1 8ball messages."
+    }, 
+    "8ball.discord.response": {
+        "message": ":8ball: says... $1"
+    }, 
+    "8ball.response": {
+        "message": "Magic-8ball says... $1"
+    }, 
+    "8ball.usage": {
+        "message": "Ask the magic-8ball a question with \"!8ball [question]\""
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "discord.cooldown.coolcom.remove": {
+        "message": "Cooldown for command !$1 has been removed."
+    }, 
+    "discord.cooldown.coolcom.set": {
+        "message": "Cooldown for command !$1 has been set to $2 seconds."
+    }, 
+    "discord.cooldown.coolcom.usage": {
+        "message": "Usage: !coolcom [command] [seconds] [type (global / user)] - Using -1 for the seconds removes the cooldown."
+    }, 
+    "discord.cooldown.cooldown.usage": {
+        "message": "Usage: !cooldown [setdefault]"
+    }, 
+    "discord.cooldown.default.set": {
+        "message": "The default cooldown for commands without one has been set to $1 seconds."
+    }, 
+    "discord.cooldown.default.usage": {
+        "message": "Usage: !cooldown setdefault [seconds] - Set a cooldown for commands that don't have one."
+    }
+}

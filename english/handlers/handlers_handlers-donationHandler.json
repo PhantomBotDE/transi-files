@@ -1,0 +1,71 @@
+{
+    "donationhandler.disabled.donators": {
+        "message": "The donators group has been disabled."
+    }, 
+    "donationhandler.donation.new": {
+        "message": "Thank you very much (name) for the tip of $(amount) (currency)!"
+    }, 
+    "donationhandler.donation.newreward": {
+        "message": "Thank you very much (name) for the tip of $(amount) (currency)! Here are (points) (pointname)!"
+    }, 
+    "donationhandler.donations.announce.disable": {
+        "message": "Tips will no longer be announced."
+    }, 
+    "donationhandler.donations.announce.enable": {
+        "message": "Tips will now be announced."
+    }, 
+    "donationhandler.donations.message.no-name": {
+        "message": "A (name) tag was not provided, at a minimum provide the (name) tag. Tags: (name) (amount) (currency) (message)"
+    }, 
+    "donationhandler.donations.message.success": {
+        "message": "Updated the message for tips when rewards are disabled."
+    }, 
+    "donationhandler.donations.message.usage": {
+        "message": "Usage: !streamlabs message [message] Tags: (name) (amount) (currency) (message)"
+    }, 
+    "donationhandler.donations.reward.success": {
+        "message": "The reward for tips has been set to $1 $2 per whole amount of currency donated."
+    }, 
+    "donationhandler.donations.reward.usage": {
+        "message": "Usage: !streamlabs rewardmultiplier [n.n]  Set to 0 to disable"
+    }, 
+    "donationhandler.donations.rewardmessage.no-name": {
+        "message": "A (name) tag was not provided, at a minimum provide the (name) tag. Tags: (name) (amount) (currency) (points) (pointname) (message)"
+    }, 
+    "donationhandler.donations.rewardmessage.success": {
+        "message": "Updated the message for tips with rewards enabled."
+    }, 
+    "donationhandler.donations.rewardmessage.usage": {
+        "message": "Usage: !streamlabs rewardmessage [message] Tags: (name) (amount) (currency) (points) (pointname) (message)"
+    }, 
+    "donationhandler.donations.usage": {
+        "message": "Usage: !streamlabs (announce | rewardmultiplier n.n | message | lastmessage | currencycode)"
+    }, 
+    "donationhandler.donators.min": {
+        "message": "The minimum before being promoted to a Donator was set to $1"
+    }, 
+    "donationhandler.donators.min.usage": {
+        "message": "Usage: !streamlabs minmumbeforepromotion [amount]"
+    }, 
+    "donationhandler.enabled.donators": {
+        "message": "The donators group has been enabled."
+    }, 
+    "donationhandler.lastdonation.404": {
+        "message": "Cannot find last tip!"
+    }, 
+    "donationhandler.lastdonation.no-donations": {
+        "message": "There are presently no tips."
+    }, 
+    "donationhandler.lastdonation.success": {
+        "message": "The last tip was from (name) in the amount of $(amount) (currency)."
+    }, 
+    "donationhandler.streamlabs.currencycode.success": {
+        "message": "The currency code for Streamlabs donations is now set to: $1"
+    }, 
+    "donationhandler.streamlabs.currencycode.success-erase": {
+        "message": "The currency code for Streamlabs donations has been removed, all donations will now appear in their original currency"
+    }, 
+    "donationhandler.streamlabs.currencycode.usage": {
+        "message": "Usage: !streamlabs currencycode [code] - You can find a valid list here: https://twitchalerts.readme.io/v1.0/docs/currency-codes"
+    }
+}

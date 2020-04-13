@@ -1,0 +1,146 @@
+{
+    "discord.promotesystem.cmd.promote.add.nobio": {
+        "message": "You need to provide a short biography or use the keyword 'none' (!promote add none)."
+    }, 
+    "discord.promotesystem.cmd.promote.add.success": {
+        "message": "You ($1) will now be promoted"
+    }, 
+    "discord.promotesystem.cmd.promote.del.success": {
+        "message": "You ($1) will no longer be promoted"
+    }, 
+    "discord.promotesystem.cmd.promote.nochannels": {
+        "message": "Ask an admin to set a promote channel with !promote channel and/or !promote streamchannel"
+    }, 
+    "discord.promotesystem.cmd.promote.noselfmanage": {
+        "message": "No one is allowed to manage themselves, please speak to a moderator to be added or deleted."
+    }, 
+    "discord.promotesystem.cmd.promote.revoked": {
+        "message": "You are no longer allowed to add yourself."
+    }, 
+    "discord.promotesystem.cmd.promote.usage": {
+        "message": "!promote add [short bio] | delete - Add or delete yourself from being promoted."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.add.nobio": {
+        "message": "You need to provide a short biography or use the keyword 'none' (!promoteadm add user none)."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.add.nouser": {
+        "message": "Who do you wish to promote?"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.add.success": {
+        "message": "$1 will now be promoted"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.allow.nouser": {
+        "message": "'Allow which user to be able to add themselves again?"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.allow.success": {
+        "message": "$1  will be allowed to add themselves again."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.channel.cleared": {
+        "message": "Promote channel has been cleared."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.channel.nochannel": {
+        "message": "Use which channel for promotions? To remove current channel use !promoteadm channel clear"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.channel.success": {
+        "message": "Promote channel has been set to: #$1"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.del.nouser": {
+        "message": "Who you wish to remove from being promoted?"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.del.success": {
+        "message": "$1 will no longer be promoted"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.list.empty": {
+        "message": "No users are presently being promoted."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.list.success": {
+        "message": "Users being promoted: $1"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.noacct": {
+        "message": "That account does not appear to exist in Twitch: $1"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.nochannels": {
+        "message": "Set channels with !promoteadm channel and/or !promoteadm streamchannel"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.revoke.nouser": {
+        "message": "Revoke the privilege of which user to be able to add themselves?"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.revoke.success": {
+        "message": "$1 will no longer be promoted and will no longer be able to manage themselves."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.setinterval.nominutes": {
+        "message": "Provide an interval in minutes."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.setinterval.success": {
+        "message": "The interval for promoting streamers has been set to $1 minutes."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.setinterval.toolow": {
+        "message": "The interval should be 15 minutes or more as to not spam the channel."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.streamchannel.cleared": {
+        "message": "Stream announcement channel has been cleared."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.streamchannel.nochannel": {
+        "message": "Use which channel for stream announcements? To remove current channel use !promoteadm streamchannel clear"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.streamchannel.success": {
+        "message": "Stream announcement channel has been set to: #$1"
+    }, 
+    "discord.promotesystem.cmd.promoteadm.togglebanner.off": {
+        "message": "Banners will no longer show when a stream is announced."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.togglebanner.on": {
+        "message": "Banners will now show when a stream is announced."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.toggleselfmanage.off": {
+        "message": "Users will no longer be able to manage themselves via !promote add and delete."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.toggleselfmanage.on": {
+        "message": "Users will now be able to manage themselves via !promote add and delete."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.togglestats.off": {
+        "message": "Stats will no longer show when a stream is announced."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.togglestats.on": {
+        "message": "Stats will now show when a stream is announced."
+    }, 
+    "discord.promotesystem.cmd.promoteadm.usage": {
+        "message": "!promoteadm add | delete | so | channel | streamchannel | revoke | allow | toggleselfmanage | togglestats | togglebanner | list | setinterval"
+    }, 
+    "discord.promotesystem.cmd.so.noexist": {
+        "message": "That user is not currently being promoted. Check !promoteadm list"
+    }, 
+    "discord.promotesystem.cmd.so.nouser": {
+        "message": "You must provide a user to lookup and shoutout."
+    }, 
+    "discord.promotesystem.livemsg.followers": {
+        "message": "Followers"
+    }, 
+    "discord.promotesystem.livemsg.missinggame": {
+        "message": "No Game Provided"
+    }, 
+    "discord.promotesystem.livemsg.missingtitle": {
+        "message": "No Title Provided"
+    }, 
+    "discord.promotesystem.livemsg.nowplaying": {
+        "message": "Now Playing"
+    }, 
+    "discord.promotesystem.livemsg.streamtitle": {
+        "message": "Stream Title"
+    }, 
+    "discord.promotesystem.livemsg.title": {
+        "message": "$1 is LIVE @ https://twitch.tv/$2"
+    }, 
+    "discord.promotesystem.livemsg.views": {
+        "message": "Views"
+    }, 
+    "discord.promotesystem.promotemsg.biography": {
+        "message": "Bio"
+    }, 
+    "discord.promotesystem.promotemsg.description": {
+        "message": "Be sure to follow and checkout $1"
+    }, 
+    "discord.promotesystem.promotemsg.nobio": {
+        "message": "No biography provided."
+    }
+}

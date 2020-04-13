@@ -1,0 +1,56 @@
+{
+    "pollsystem.close.nopoll": {
+        "message": "There is currently no poll running."
+    }, 
+    "pollsystem.open.moreoptions": {
+        "message": "More than one option is required for a poll."
+    }, 
+    "pollsystem.open.usage": {
+        "message": "Usage: !poll open \"question\" \"option1, option2, ...\" [seconds] [min votes].  If seconds is 0, defaults to 60."
+    }, 
+    "pollsystem.poll.running": {
+        "message": "There is a poll running for \"$1\". Use \"!vote [option]\" to vote. The options are \"$2\"."
+    }, 
+    "pollsystem.poll.started": {
+        "message": "$1 started a poll for $2 seconds (minimum votes: $3): $4! Use \"!vote [option]\" to vote. Options: $5"
+    }, 
+    "pollsystem.poll.started.nottime": {
+        "message": "$1 started a poll (minimum votes: $2): $3! Use \"!vote [option]\" to vote. Options: $4"
+    }, 
+    "pollsystem.poll.usage": {
+        "message": "Usage: !poll [open | results | close]"
+    }, 
+    "pollsystem.results.404": {
+        "message": "There is no latest poll to retrieve results from!"
+    }, 
+    "pollsystem.results.lastpoll": {
+        "message": "[Last Poll]  - [Question: \"$1\"] - [Total Votes: $2] - [Result: \"$3\"] - [Options: \"$4\"] [Votes: $5]"
+    }, 
+    "pollsystem.results.running": {
+        "message": "A poll is currently running!"
+    }, 
+    "pollsystem.runpoll.novotes": {
+        "message": "The poll on \"$1\" has ended! Not enough votes were cast!"
+    }, 
+    "pollsystem.runpoll.started": {
+        "message": "Poll started! Use \"!poll close\" to end the poll manually"
+    }, 
+    "pollsystem.runpoll.tie": {
+        "message": "The poll on \"$1\" has ended in a tie! Check !poll results."
+    }, 
+    "pollsystem.runpoll.winner": {
+        "message": "The poll on \"$1\" has ended! The winner is \"$2\"!"
+    }, 
+    "pollsystem.vote.already": {
+        "message": "You have already voted!"
+    }, 
+    "pollsystem.vote.invalid": {
+        "message": "\"$1\" is not a valid option!"
+    }, 
+    "pollsystem.vote.nopoll": {
+        "message": "There is currently no poll running."
+    }, 
+    "pollsystem.vote.success": {
+        "message": "You have voted \"$1\" on \"$2\"."
+    }
+}

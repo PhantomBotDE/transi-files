@@ -1,0 +1,26 @@
+{
+    "top5.amount.max": {
+        "message": "The max amount of users is 15."
+    }, 
+    "top5.amount.points.set": {
+        "message": "$1 users will now show in the !top command."
+    }, 
+    "top5.amount.points.usage": {
+        "message": "Usage: !topamount (amount) - Set how many viewers will appear in the !top points list."
+    }, 
+    "top5.amount.time.set": {
+        "message": "$1 viwers will now show in the !toptime command."
+    }, 
+    "top5.amount.time.usage": {
+        "message": "Usage: !toptimeamount (amount) - Set how many viewers will appear in the !toptime list."
+    }, 
+    "top5.default": {
+        "message": "Top $1 $2: $3"
+    }, 
+    "top5.points-disabled": {
+        "message": "Points are disabled."
+    }, 
+    "top5.reloadtopbots": {
+        "message": "Deprecated. Please run !reloadbots"
+    }
+}

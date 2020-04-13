@@ -1,0 +1,14 @@
+{
+    "gamescanhandler.gamescan.hasplayed": {
+        "message": "$1 has played $2 on: $3."
+    }, 
+    "gamescanhandler.gamescan.hasplayeddates": {
+        "message": "$1 has played $2 on: $3, (AntiSpam +$4 dates found.)"
+    }, 
+    "gamescanhandler.gamescan.notplayed": {
+        "message": "$1 has not played $2 yet!"
+    }, 
+    "gamescanhandler.gamescan.usage": {
+        "message": "Usage: !gamescan [game name]"
+    }
+}

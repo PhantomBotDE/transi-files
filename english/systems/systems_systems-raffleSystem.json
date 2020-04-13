@@ -1,0 +1,113 @@
+{
+    "rafflesystem.close.error.closed": {
+        "message": "There is no raffle in progress."
+    }, 
+    "rafflesystem.close.success": {
+        "message": "The raffle is now closed! No more entries will be counted. Use \"!raffle draw\" to pick a winner!"
+    }, 
+    "rafflesystem.common.following": {
+        "message": "You need to be following the channel"
+    }, 
+    "rafflesystem.common.message": {
+        "message": "no longer"
+    }, 
+    "rafflesystem.common.timer": {
+        "message": "The raffle will close in $1 minutes."
+    }, 
+    "rafflesystem.enter.404": {
+        "message": "You already entered this raffle."
+    }, 
+    "rafflesystem.enter.following": {
+        "message": "You need to be following to enter this raffle."
+    }, 
+    "rafflesystem.enter.points": {
+        "message": "You don't have enough $1 to enter this raffle."
+    }, 
+    "rafflesystem.enter.subscriber": {
+        "message": "You need to be subscribed to enter this raffle."
+    }, 
+    "rafflesystem.enter.time": {
+        "message": "You have not been in the channel long enough to enter this raffle."
+    }, 
+    "rafflesystem.fee": {
+        "message": " - Entry fee: $1"
+    }, 
+    "rafflesystem.isfollowing": {
+        "message": "[Follower]"
+    }, 
+    "rafflesystem.isnotfollowing": {
+        "message": "[Not a follower]"
+    }, 
+    "rafflesystem.message.set": {
+        "message": "Raffle message has been set to: \"$1\"."
+    }, 
+    "rafflesystem.message.usage": {
+        "message": "Usage: !raffle message [message]"
+    }, 
+    "rafflesystem.open": {
+        "message": "A raffle is now opened! Type $1 to enter$2! $3"
+    }, 
+    "rafflesystem.open.error.opened": {
+        "message": "A raffle is currently in progress."
+    }, 
+    "rafflesystem.open.keyword-exists": {
+        "message": "Keyword cannot be an existing command: $1"
+    }, 
+    "rafflesystem.open.points": {
+        "message": "A raffle is now opened! Type $1 to enter. Entering cost $2! $3"
+    }, 
+    "rafflesystem.open.time": {
+        "message": "A raffle is now opened! Type $1 to enter. You need to have been in chat for $2 minutes $3 to enter. $4"
+    }, 
+    "rafflesystem.open.usage": {
+        "message": "Usage: !raffle open [-usetime minutes | -usepoints entry_fee] [keyword] [close timer minutes] [-followers | -subscribers]. [keyword] required."
+    }, 
+    "rafflesystem.raffle.repick.toggle1": {
+        "message": "Raffle winners will no longer be repicked."
+    }, 
+    "rafflesystem.raffle.repick.toggle2": {
+        "message": "Raffle winners will now be able to get repicked."
+    }, 
+    "rafflesystem.regbonus.set": {
+        "message": "Regular bonus luck set to $1!"
+    }, 
+    "rafflesystem.regbonus.usage": {
+        "message": "Usage: !raffle regularbonus [1-10]"
+    }, 
+    "rafflesystem.repick.error": {
+        "message": "There are no more users in the raffle list."
+    }, 
+    "rafflesystem.reset": {
+        "message": "The raffle has been reset."
+    }, 
+    "rafflesystem.results": {
+        "message": "A raffle is still opened! Keyword: $1 - Total entries: $2"
+    }, 
+    "rafflesystem.subbonus.set": {
+        "message": "Subscriber bonus luck set to $1!"
+    }, 
+    "rafflesystem.subbonus.usage": {
+        "message": "Usage: !raffle subscriberbonus [1-10]"
+    }, 
+    "rafflesystem.timer.set": {
+        "message": "Raffle message timer has been set to $1 minutes."
+    }, 
+    "rafflesystem.timer.usage": {
+        "message": "Usage: !raffle messagetimer [minutes]"
+    }, 
+    "rafflesystem.usage": {
+        "message": "Usage: !raffle [open / close / draw / results / subscriberbonus/ regularbonus / whisperwinner]"
+    }, 
+    "rafflesystem.whisper.winner": {
+        "message": "You won the raffle in channel $1!"
+    }, 
+    "rafflesystem.whisper.winner.toggle": {
+        "message": "Raffle winners will $1 be whispered."
+    }, 
+    "rafflesystem.winner": {
+        "message": "The winner of this raffle is $1! $2"
+    }, 
+    "rafflesystem.winner.404": {
+        "message": "Could not pick a winner. No one entered this raffle."
+    }
+}

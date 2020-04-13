@@ -1,0 +1,164 @@
+{
+    "customcommands.404.no.commands": {
+        "message": "There are no custom commands, add one with !addcom"
+    }, 
+    "customcommands.add.commandtag.invalid": {
+        "message": "(command) tag command does not exist: $1"
+    }, 
+    "customcommands.add.commandtag.notfirst": {
+        "message": "(command) tag must be at the start of a custom command when used."
+    }, 
+    "customcommands.add.disabled": {
+        "message": "That command is currently disabled. Re-enable the command or delete it to add a new command with that name."
+    }, 
+    "customcommands.add.error": {
+        "message": "That command already exists"
+    }, 
+    "customcommands.add.success": {
+        "message": "Command !$1 has been created!"
+    }, 
+    "customcommands.add.usage": {
+        "message": "Usage: !addcom (command) (message)"
+    }, 
+    "customcommands.alias.delete.error.alias.404": {
+        "message": "Alias does not exist: !$1"
+    }, 
+    "customcommands.alias.delete.success": {
+        "message": "The alias !$1 was successfully deleted!"
+    }, 
+    "customcommands.alias.delete.usage": {
+        "message": "Usage: !delalias (alias name)"
+    }, 
+    "customcommands.alias.error": {
+        "message": "An alias already exists for !$1. Delete it first."
+    }, 
+    "customcommands.alias.error.exists": {
+        "message": "The command you want to alias to already exists."
+    }, 
+    "customcommands.alias.error.target404": {
+        "message": "The target command does not exist!"
+    }, 
+    "customcommands.alias.success": {
+        "message": "The command !$1 was successfully aliased to !$2"
+    }, 
+    "customcommands.alias.usage": {
+        "message": "Usage: !aliascom (alias name) (existing command) [optional parameters]"
+    }, 
+    "customcommands.botcommands": {
+        "message": "Commands: $1"
+    }, 
+    "customcommands.botcommands.error": {
+        "message": "Provide a number to find a page."
+    }, 
+    "customcommands.botcommands.total": {
+        "message": "Total Pages: $1 [See also: https://phantombot.tv/commands]"
+    }, 
+    "customcommands.cmds": {
+        "message": "Current custom commands: $1"
+    }, 
+    "customcommands.customapi.404": {
+        "message": "The !$1 command requires parameters."
+    }, 
+    "customcommands.customapijson.err": {
+        "message": "!$1: An error occurred processing the API."
+    }, 
+    "customcommands.delete.success": {
+        "message": "Command !$1 has been removed!"
+    }, 
+    "customcommands.delete.usage": {
+        "message": "Usage: !delcom (command)"
+    }, 
+    "customcommands.disable.404": {
+        "message": "That command does not exist."
+    }, 
+    "customcommands.disable.err": {
+        "message": "That command is already disabled."
+    }, 
+    "customcommands.disable.success": {
+        "message": "Command !$1 has been disabled."
+    }, 
+    "customcommands.disable.usage": {
+        "message": "Usage: !disablecom (command)"
+    }, 
+    "customcommands.edit.404": {
+        "message": "You cannot overwrite a default command."
+    }, 
+    "customcommands.edit.success": {
+        "message": "Command !$1 has been edited!"
+    }, 
+    "customcommands.edit.usage": {
+        "message": "Usage: !editcom (command) (message)"
+    }, 
+    "customcommands.enable.404": {
+        "message": "That command does not exist."
+    }, 
+    "customcommands.enable.err": {
+        "message": "That command is not disabled."
+    }, 
+    "customcommands.enable.success": {
+        "message": "Command !$1 has been re-enabled."
+    }, 
+    "customcommands.enable.usage": {
+        "message": "Usage: !enablecom (command)"
+    }, 
+    "customcommands.reset.change.fail": {
+        "message": "Invalid counter value: $1"
+    }, 
+    "customcommands.reset.change.success": {
+        "message": "The counter for !$1 has been set to $2."
+    }, 
+    "customcommands.reset.success": {
+        "message": "The counter for !$1 has been reset."
+    }, 
+    "customcommands.reset.usage": {
+        "message": "Usage: !resetcom (command) (count). If no (count) then reset to 0."
+    }, 
+    "customcommands.set.pay.error.404": {
+        "message": "Please select a command that exists and is available to non-mods."
+    }, 
+    "customcommands.set.pay.error.invalid": {
+        "message": "Please enter a valid payment of 0 or greater."
+    }, 
+    "customcommands.set.pay.success": {
+        "message": "The payment for !$1 has been set to $2 $3."
+    }, 
+    "customcommands.set.pay.usage": {
+        "message": "Usage: !paycom (command) (price)"
+    }, 
+    "customcommands.set.perm.404": {
+        "message": "Command could not be found: $1"
+    }, 
+    "customcommands.set.perm.error.target404": {
+        "message": "The command !$1 does not exist!"
+    }, 
+    "customcommands.set.perm.success": {
+        "message": "Permissions for command: $1 set for group: $2 and higher."
+    }, 
+    "customcommands.set.perm.unset.success": {
+        "message": "All recursive permissions for the command: $1 and any of its aliases have been removed."
+    }, 
+    "customcommands.set.perm.usage": {
+        "message": "Usage: !permcom (command name) (group id/name). Restricts usage of a command to viewers with a certain permission level."
+    }, 
+    "customcommands.set.price.error.404": {
+        "message": "Please select a command that exists and is available to non-mods."
+    }, 
+    "customcommands.set.price.error.invalid": {
+        "message": "Please enter a valid price of 0 or greater."
+    }, 
+    "customcommands.set.price.success": {
+        "message": "The price for !$1 has been set to $2 $3."
+    }, 
+    "customcommands.set.price.usage": {
+        "message": "Usage: !pricecom (command) [subcommand] [subaction] (price). Optional: subcommand and subaction"
+    }, 
+    "customcommands.token.success": {
+        "message": "Token set for command !$1! Make sure you put a (token) subtag in the customapi url for this command in the spot you want it to appear"
+    }, 
+    "customcommands.token.usage": {
+        "message": "Usage: !tokencom (command) (token) -- WARNING: This should be done from the bot console or web panel, if you run this from chat, anyone watching chat can copy your info!"
+    }, 
+    "customcommands.touser.offline": {
+        "message": "Sorry, but $1 appears to be offline!"
+    }
+}

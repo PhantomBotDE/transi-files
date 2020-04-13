@@ -1,0 +1,20 @@
+{
+    "slotmachine.emote.success": {
+        "message": "Updated emotes for the slot machine."
+    }, 
+    "slotmachine.emote.usage": {
+        "message": "Usage: !slot emotes [emote1] [emote2] [emote3] [emote4] [emote5]. Currently: $1"
+    }, 
+    "slotmachine.result.start": {
+        "message": "$1: [ $2 $3 $4 ] "
+    }, 
+    "slotmachine.result.win": {
+        "message": " +$1 "
+    }, 
+    "slotmachine.rewards.success": {
+        "message": "Updated rewards for the slot machine."
+    }, 
+    "slotmachine.rewards.usage": {
+        "message": "Usage: !slot rewards [val1] [val2] [val3] [val4] [val5]. Currently: $1"
+    }
+}

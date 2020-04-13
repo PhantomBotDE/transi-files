@@ -1,0 +1,305 @@
+{
+    "killcommand.console.loaded": {
+        "message": "Found kill command messages: $1 self, $2 other."
+    }, 
+    "killcommand.jail.timeout.set": {
+        "message": "Jail timeout time set to: $1 seconds."
+    }, 
+    "killcommand.jail.timeout.usage": {
+        "message": "Usage: !jailtimeouttime (amount in seconds)"
+    }, 
+    "killcommand.other.1": {
+        "message": "$1 murdered $2 with a unicorn's horn!"
+    }, 
+    "killcommand.other.10": {
+        "message": "$1 put $2 out of their misery."
+    }, 
+    "killcommand.other.11": {
+        "message": "$1 destroyed $2!"
+    }, 
+    "killcommand.other.12": {
+        "message": "$1 atac\u00f3 a $2 con un consolador grande!"
+    }, 
+    "killcommand.other.13": {
+        "message": "$2 was poked a bit too hard by $1 with a spork!"
+    }, 
+    "killcommand.other.14": {
+        "message": "ZA WARUDO! $1 stopped time and throw hundreds of knives at $2. END!"
+    }, 
+    "killcommand.other.15": {
+        "message": "$1 attacked $2 with a rusty spork...and managed to kill $2 with very little effort."
+    }, 
+    "killcommand.other.16": {
+        "message": "$1 stole a car known as 'KITT' and ran over $2."
+    }, 
+    "killcommand.other.17": {
+        "message": "$1 tickled $2 to death!"
+    }, 
+    "killcommand.other.18": {
+        "message": "$2's skull was crushed by $1!"
+    }, 
+    "killcommand.other.19": {
+        "message": "$2 is in several pieces after a tragic accident involving $1 and cutlery."
+    }, 
+    "killcommand.other.2": {
+        "message": "$2 was killed by $1!"
+    }, 
+    "killcommand.other.20": {
+        "message": "$1 licked $2 until $2 was squishy, yeah.. squishy."
+    }, 
+    "killcommand.other.21": {
+        "message": "$1 catapulted a huge load of rusty sporks on to $2. $2 died."
+    }, 
+    "killcommand.other.22": {
+        "message": "$1 ran out of rusty sporks and unicorn horns to kill $2 with, so instead they used a rusty hanger."
+    }, 
+    "killcommand.other.23": {
+        "message": "$1 came in like a mystical being of awesomeness and destroyed $2!"
+    }, 
+    "killcommand.other.24": {
+        "message": "$2 drowned whilst trying to escape from $1"
+    }, 
+    "killcommand.other.25": {
+        "message": "$2 walked into a cactus while running from $1"
+    }, 
+    "killcommand.other.26": {
+        "message": "$2 was attacked by $1 behind a Taco Bell."
+    }, 
+    "killcommand.other.27": {
+        "message": "$1 went back in time to prevent himself from killing $2, apparently the time machine landed on $2 when $1 jumped back in time."
+    }, 
+    "killcommand.other.28": {
+        "message": "$1 rekt $2 30-4 by doing a 360 no-scope."
+    }, 
+    "killcommand.other.29": {
+        "message": "(jail) $1 tried to kill $2 with a unicorn's horn, but police showed up before $1 had time."
+    }, 
+    "killcommand.other.3": {
+        "message": "$2 was mauled by $1 dressed up as a chicken."
+    }, 
+    "killcommand.other.30": {
+        "message": "(jail) $1 tried to murder $2, but swat was hiding in the bushes and jumped on $1 before it could be done."
+    }, 
+    "killcommand.other.31": {
+        "message": "(jail) $1 was going to hit $2 with a hammer. However $2 was trained in the Secret Nippon Arts!"
+    }, 
+    "killcommand.other.32": {
+        "message": "(jail) $4 was paid by $1 to assassinate $2. $1's plan failed because $4 was actually a undercover officer!"
+    }, 
+    "killcommand.other.33": {
+        "message": "$1 struck the final blow and ended $2."
+    }, 
+    "killcommand.other.34": {
+        "message": "$1 was justly ended by $2."
+    }, 
+    "killcommand.other.35": {
+        "message": "$1 was blown up by $2."
+    }, 
+    "killcommand.other.36": {
+        "message": "$1 was shot off a ladder by $2."
+    }, 
+    "killcommand.other.37": {
+        "message": "$1 tried to swim in lava while trying to escape $2."
+    }, 
+    "killcommand.other.38": {
+        "message": "$1 got finished off by $2."
+    }, 
+    "killcommand.other.39": {
+        "message": "$1 delivered the fatal blow on $2."
+    }, 
+    "killcommand.other.4": {
+        "message": "$2 was ripped apart by $1, daaaaaaamn!"
+    }, 
+    "killcommand.other.40": {
+        "message": "$1 has punched $2 to death."
+    }, 
+    "killcommand.other.41": {
+        "message": "$1 ruffled $2's fluff, and died!"
+    }, 
+    "killcommand.other.42": {
+        "message": "$1 hugged $2 a little too tight."
+    }, 
+    "killcommand.other.43": {
+        "message": "$1 sent $2 to an awesome farm in the country."
+    }, 
+    "killcommand.other.44": {
+        "message": "(jail) $1 attacked $2 with a plastic spoon, but then suddenly a swarm of police surrounded $1 and detained them."
+    }, 
+    "killcommand.other.45": {
+        "message": "(jail) $2 is protected by an unknown force which repels $1."
+    }, 
+    "killcommand.other.5": {
+        "message": "$2 was brutally murdered by $1 with a car!"
+    }, 
+    "killcommand.other.6": {
+        "message": "$1 covered $2 in meat sauce and threw them in a cage with a starved tiger."
+    }, 
+    "killcommand.other.7": {
+        "message": "$1 genetically modified a Venus flytrap to grow abnormally large, and trapped $2 in a room with it."
+    }, 
+    "killcommand.other.8": {
+        "message": "$1 shanked $2's butt, over and over again."
+    }, 
+    "killcommand.other.9": {
+        "message": "$1 just wrote $2's name in their Death Note."
+    }, 
+    "killcommand.self.1": {
+        "message": "$1 managed to kill themself."
+    }, 
+    "killcommand.self.10": {
+        "message": "$1 tested the bounds of time and space, and lost."
+    }, 
+    "killcommand.self.11": {
+        "message": "$1 imploded."
+    }, 
+    "killcommand.self.12": {
+        "message": "$1 drowned."
+    }, 
+    "killcommand.self.13": {
+        "message": "$1 ceased to be."
+    }, 
+    "killcommand.self.14": {
+        "message": "$1 went kablewy!"
+    }, 
+    "killcommand.self.15": {
+        "message": "$1 figured out how to divide by 0!"
+    }, 
+    "killcommand.self.16": {
+        "message": "$1 took a long walk off a short pier."
+    }, 
+    "killcommand.self.17": {
+        "message": "$1 fell off a ladder."
+    }, 
+    "killcommand.self.18": {
+        "message": "$1 fell off a tree."
+    }, 
+    "killcommand.self.19": {
+        "message": "$1 fell off of the roof."
+    }, 
+    "killcommand.self.2": {
+        "message": "$1 died from an unknown cause."
+    }, 
+    "killcommand.self.20": {
+        "message": "$1 burst into flames."
+    }, 
+    "killcommand.self.21": {
+        "message": "$1 was struck by lightning."
+    }, 
+    "killcommand.self.22": {
+        "message": "$1 starved to death."
+    }, 
+    "killcommand.self.23": {
+        "message": "$1 was stabbed to death."
+    }, 
+    "killcommand.self.24": {
+        "message": "$1 fell victim to gravity."
+    }, 
+    "killcommand.self.25": {
+        "message": "$1's plead for death was answered."
+    }, 
+    "killcommand.self.26": {
+        "message": "$1's vital organs were ruptured."
+    }, 
+    "killcommand.self.27": {
+        "message": "$1's innards were made outwards."
+    }, 
+    "killcommand.self.28": {
+        "message": "$1 was licked to death. Don't ask."
+    }, 
+    "killcommand.self.29": {
+        "message": "$1 was deleted."
+    }, 
+    "killcommand.self.3": {
+        "message": "$1 was crushed by a boulder, or some peice of debris."
+    }, 
+    "killcommand.self.30": {
+        "message": "$1 had to split. Literally.."
+    }, 
+    "killcommand.self.31": {
+        "message": "$1 has bled to death."
+    }, 
+    "killcommand.self.32": {
+        "message": "$1 Food is a gift from God. Spices are a gift from the devil. I guess it was a little too spicy for you."
+    }, 
+    "killcommand.self.33": {
+        "message": "$1 has died due to a vehicular explosion!"
+    }, 
+    "killcommand.self.34": {
+        "message": "$1 has killed themself!"
+    }, 
+    "killcommand.self.35": {
+        "message": "$1 has been blown up by a landmine!"
+    }, 
+    "killcommand.self.36": {
+        "message": "$1 died due to holding their breath for too long!"
+    }, 
+    "killcommand.self.37": {
+        "message": "$1 burned to death."
+    }, 
+    "killcommand.self.38": {
+        "message": "$1 was blown up by a missile!"
+    }, 
+    "killcommand.self.39": {
+        "message": "$1 froze to death."
+    }, 
+    "killcommand.self.4": {
+        "message": "$1 exploded."
+    }, 
+    "killcommand.self.40": {
+        "message": "$1 was dissolved in acid."
+    }, 
+    "killcommand.self.41": {
+        "message": "$1 tried to swim in acid."
+    }, 
+    "killcommand.self.42": {
+        "message": "$1 tried to swim in lava."
+    }, 
+    "killcommand.self.43": {
+        "message": "$1 experienced kinetic energy."
+    }, 
+    "killcommand.self.44": {
+        "message": "$1 blew up."
+    }, 
+    "killcommand.self.45": {
+        "message": "$1 fell into a patch of fire."
+    }, 
+    "killcommand.self.46": {
+        "message": "$1 fell out of a plane."
+    }, 
+    "killcommand.self.47": {
+        "message": "$1 went up in flames."
+    }, 
+    "killcommand.self.48": {
+        "message": "$1 withered away."
+    }, 
+    "killcommand.self.49": {
+        "message": "$1 went skydiving, and forgot the parachute."
+    }, 
+    "killcommand.self.5": {
+        "message": "$1 forgot how to breathe."
+    }, 
+    "killcommand.self.50": {
+        "message": "$1 spontaneously combusted."
+    }, 
+    "killcommand.self.51": {
+        "message": "$1 was struck with a bolt of inspiration, I mean lightning."
+    }, 
+    "killcommand.self.52": {
+        "message": "$1 ended it all. Goodbye cruel world!"
+    }, 
+    "killcommand.self.53": {
+        "message": "$1 passed the event horizon."
+    }, 
+    "killcommand.self.6": {
+        "message": "$1 learned that cellular respiration uses oxygen, not sand."
+    }, 
+    "killcommand.self.7": {
+        "message": "$1 died."
+    }, 
+    "killcommand.self.8": {
+        "message": "$1 tried to befriend a wild grizzly bear."
+    }, 
+    "killcommand.self.9": {
+        "message": "$1 suffocated."
+    }
+}

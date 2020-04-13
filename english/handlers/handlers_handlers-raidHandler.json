@@ -1,0 +1,50 @@
+{
+    "raidhandler.inc.message.set": {
+        "message": "Successfully updated the incoming raid message!"
+    }, 
+    "raidhandler.inc.message.usage": {
+        "message": "Usage: !raid setincomingmessage [message] - Variables: (username), (viewers), (url), (times) and (game)"
+    }, 
+    "raidhandler.lookup.usage": {
+        "message": "Usage: !raid lookup [username]"
+    }, 
+    "raidhandler.lookup.user": {
+        "message": "$1 has raided this channel a total of $2 time(s). Their last raid was on $3 with $4 viewers."
+    }, 
+    "raidhandler.lookup.user.404": {
+        "message": "$1 has never raided this channel."
+    }, 
+    "raidhandler.new.inc.message.set": {
+        "message": "Successfully updated the new incoming raid message!"
+    }, 
+    "raidhandler.new.inc.message.usage": {
+        "message": "Usage: !raid setnewincomingmessage [message] - Variables: (username), (viewers), (url), and (game)"
+    }, 
+    "raidhandler.out.message.set": {
+        "message": "Successfully updated the outgoing raid message!"
+    }, 
+    "raidhandler.out.message.usage": {
+        "message": "Usage: !raid setoutgoingmessage [message] - Variables (username) and (url)"
+    }, 
+    "raidhandler.reward.set": {
+        "message": "Successfully set the raid reward to $1."
+    }, 
+    "raidhandler.reward.usage": {
+        "message": "Usage: !raid setreward [amount]"
+    }, 
+    "raidhandler.spam.amount.set": {
+        "message": "Successfully updated the outgoing raid spam amount!"
+    }, 
+    "raidhandler.spam.amount.usage": {
+        "message": "Usage: !raid setoutgoingmessagespam [amount] - Maximum is 10 times."
+    }, 
+    "raidhandler.toggle.disabled": {
+        "message": "Raid alerts have successfully been disabled."
+    }, 
+    "raidhandler.toggle.enabled": {
+        "message": "Raid alerts have successfully been enabled."
+    }, 
+    "raidhandler.usage": {
+        "message": "Usage: !raid [username] | !raid [toggle / lookup / setreward / setincomingmessage / setnewincomingmessage / setoutgoingmessage / setoutgoingmessagespam]"
+    }
+}

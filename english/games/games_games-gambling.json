@@ -1,0 +1,44 @@
+{
+    "gambling.error.max": {
+        "message": "You're only allowed to gamble a maximum amount of $1."
+    }, 
+    "gambling.error.min": {
+        "message": "You're only allowed to gamble a minimum amount of $1."
+    }, 
+    "gambling.lost": {
+        "message": "$1 rolled $2 and lost $3. $5' // Use $4 for the points the user has renamin"
+    }, 
+    "gambling.need.points": {
+        "message": "You don't have that many $1."
+    }, 
+    "gambling.percent": {
+        "message": "Set gambling gain percent to $1%"
+    }, 
+    "gambling.percent.usage": {
+        "message": "Usage: !gamblesetgainpercent [amount]"
+    }, 
+    "gambling.set.max": {
+        "message": "Set the maximum gambling amount to $1!"
+    }, 
+    "gambling.set.max.usage": {
+        "message": "Usage: !gamblesetmax [amount]"
+    }, 
+    "gambling.set.min": {
+        "message": "Set minimum gambling to $1!"
+    }, 
+    "gambling.set.min.usage": {
+        "message": "Usage: !gamblesetmin [amount]"
+    }, 
+    "gambling.usage": {
+        "message": "Usage: !gamble [amount]"
+    }, 
+    "gambling.win.range": {
+        "message": "Set gambling win range to $1-100 lose range to 1-$2"
+    }, 
+    "gambling.win.range.usage": {
+        "message": "Usage: !gamblesetwinningrange [range]"
+    }, 
+    "gambling.won": {
+        "message": "$1 rolled $2 and won $3! $5' // Use $4 for the points the user has renamin"
+    }
+}

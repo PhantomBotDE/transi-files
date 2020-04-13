@@ -1,0 +1,23 @@
+{
+    "discord.streamelementshandler.channel.set": {
+        "message": "StreamElements donation annoucements will now be made in channel #$1"
+    }, 
+    "discord.streamelementshandler.channel.usage": {
+        "message": "Usage: !streamelementshandler channel [channel name]"
+    }, 
+    "discord.streamelementshandler.embed.title": {
+        "message": "New Tip!"
+    }, 
+    "discord.streamelementshandler.message.set": {
+        "message": "StreamElements donation message set to: $1"
+    }, 
+    "discord.streamelementshandler.message.usage": {
+        "message": "Usage: !streamelementshandler message [message] - Tags: (name) (amount) (currency) (message)"
+    }, 
+    "discord.streamelementshandler.toggle": {
+        "message": "StreamElements donation announcements have been $1."
+    }, 
+    "discord.streamelementshandler.usage": {
+        "message": "Usage: !streamelementshandler [toggle / message / channel]"
+    }
+}

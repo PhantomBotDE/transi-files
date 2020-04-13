@@ -1,0 +1,59 @@
+{
+    "discord.customcommandlogs.add.command": {
+        "message": "Custom command created"
+    }, 
+    "discord.customcommandlogs.add.response": {
+        "message": "Response"
+    }, 
+    "discord.customcommandlogs.alias.command": {
+        "message": "Custom alias created"
+    }, 
+    "discord.customcommandlogs.alias.delete.command": {
+        "message": "Custom alias deleted"
+    }, 
+    "discord.customcommandlogs.alias.target": {
+        "message": "To"
+    }, 
+    "discord.customcommandlogs.delete.command": {
+        "message": "Custom command deleted"
+    }, 
+    "discord.customcommandlogs.disable.command": {
+        "message": "Command disabled"
+    }, 
+    "discord.customcommandlogs.edit.command": {
+        "message": "Custom command edited"
+    }, 
+    "discord.customcommandlogs.edit.response": {
+        "message": "New response"
+    }, 
+    "discord.customcommandlogs.enable.command": {
+        "message": "Command enabled"
+    }, 
+    "discord.customcommandlogs.reset.command": {
+        "message": "Command counter reset"
+    }, 
+    "discord.customcommandlogs.reset.count": {
+        "message": "New value"
+    }, 
+    "discord.customcommandlogs.sender": {
+        "message": "By"
+    }, 
+    "discord.customcommandlogs.set.pay.amount": {
+        "message": "New reward"
+    }, 
+    "discord.customcommandlogs.set.pay.command": {
+        "message": "Command reward updated"
+    }, 
+    "discord.customcommandlogs.set.perm.command": {
+        "message": "Command permissions updated"
+    }, 
+    "discord.customcommandlogs.set.perm.group": {
+        "message": "New group"
+    }, 
+    "discord.customcommandlogs.set.price.amount": {
+        "message": "New price"
+    }, 
+    "discord.customcommandlogs.set.price.command": {
+        "message": "Command price updated"
+    }
+}

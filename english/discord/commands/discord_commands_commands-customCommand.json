@@ -1,0 +1,101 @@
+{
+    "discord.customcommands.404": {
+        "message": "That command does not exist."
+    }, 
+    "discord.customcommands.addcom.err": {
+        "message": "That command already exists."
+    }, 
+    "discord.customcommands.addcom.success": {
+        "message": "Command !$1 has been added!"
+    }, 
+    "discord.customcommands.addcom.usage": {
+        "message": "Usage: !addcom [command] [response]"
+    }, 
+    "discord.customcommands.alias.404": {
+        "message": "That alias does not exist."
+    }, 
+    "discord.customcommands.aliascom.success": {
+        "message": "Command !$2 has been aliased to !$1"
+    }, 
+    "discord.customcommands.aliascom.usage": {
+        "message": "Usage: !aliascom [alias] [command]"
+    }, 
+    "discord.customcommands.bot.commands": {
+        "message": "Bot Commands: $1"
+    }, 
+    "discord.customcommands.channelcom.404": {
+        "message": "No channels are set on that command."
+    }, 
+    "discord.customcommands.channelcom.global": {
+        "message": "Command !$1 will now work in every channel."
+    }, 
+    "discord.customcommands.channelcom.success": {
+        "message": "Command !$1 will now only work in channel(s): $2."
+    }, 
+    "discord.customcommands.channelcom.usage": {
+        "message": "Usage: !channelcom [command] [channel / --global / --list] - Separate the channels with commas (no spaces) for multiple."
+    }, 
+    "discord.customcommands.commands": {
+        "message": "Commands: $1"
+    }, 
+    "discord.customcommands.coolcom.404": {
+        "message": "That command does not exist."
+    }, 
+    "discord.customcommands.coolcom.removed": {
+        "message": "Cooldown for command !$1 has been removed."
+    }, 
+    "discord.customcommands.coolcom.success": {
+        "message": "Cooldown for command !$1 has been set to $2 seconds."
+    }, 
+    "discord.customcommands.coolcom.usage": {
+        "message": "Usage: !coolcom [command] [time in seconds]"
+    }, 
+    "discord.customcommands.customapi.404": {
+        "message": "The !$1 command requires parameters."
+    }, 
+    "discord.customcommands.customapijson.err": {
+        "message": "!$1: An error occurred processing the API."
+    }, 
+    "discord.customcommands.delalias.success": {
+        "message": "Alias !$1 has been removed."
+    }, 
+    "discord.customcommands.delalias.usage": {
+        "message": "Usage: !delalias [alias]"
+    }, 
+    "discord.customcommands.delcom.404": {
+        "message": "That command does not exist."
+    }, 
+    "discord.customcommands.delcom.success": {
+        "message": "Command !$1 has been removed!"
+    }, 
+    "discord.customcommands.delcom.usage": {
+        "message": "Usage: !delcom [command] [response]"
+    }, 
+    "discord.customcommands.editcom.404": {
+        "message": "That command does not exist."
+    }, 
+    "discord.customcommands.editcom.success": {
+        "message": "Command !$1 has been edited!"
+    }, 
+    "discord.customcommands.editcom.usage": {
+        "message": "Usage: !editcom [command] [response]"
+    }, 
+    "discord.customcommands.permcom.404": {
+        "message": "That command does not exist."
+    }, 
+    "discord.customcommands.permcom.success": {
+        "message": "Permission for command !$1 has been set to permission $2"
+    }, 
+    "discord.customcommands.permcom.syntax.error": {
+        "message": "Usage: !permcom [command] [permission] - Either 0 which is everyone or 1 is administrators."
+    }, 
+    "discord.customcommands.permcom.usage": {
+        "message": "Usage: !permcom [command] [permission]"
+    }, 
+    "discord.customcommands.pricecom.success": {
+        "message": "Cost for command !$1 has been set to $2."
+    }, 
+    "discord.customcommands.pricecom.usage": {
+        "message": "Usage: !pricecom [command] [amount]"
+    }
+}

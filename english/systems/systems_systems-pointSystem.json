@@ -1,0 +1,164 @@
+{
+    "pointsystem.active.bonus.set": {
+        "message": "Active bonus set to $1"
+    }, 
+    "pointsystem.active.bonus.usage": {
+        "message": "Usage: !points setactivebonus [amount]"
+    }, 
+    "pointsystem.add.all.success": {
+        "message": "$1 have been sent to everybody in the channel!"
+    }, 
+    "pointsystem.add.all.usage": {
+        "message": "Usage: !points all [amount]"
+    }, 
+    "pointsystem.add.error.negative": {
+        "message": "You can not give negative $1."
+    }, 
+    "pointsystem.add.success": {
+        "message": "Sent $1 to $2. New balance is $3."
+    }, 
+    "pointsystem.add.usage": {
+        "message": "Usage: !points add [name] [amount]"
+    }, 
+    "pointsystem.bonus.say": {
+        "message": "For the next $1 I will be giving out $2 extra $3 at each payouts!"
+    }, 
+    "pointsystem.bonus.usage": {
+        "message": "Usage: !points bonus [amount] [for time]"
+    }, 
+    "pointsystem.err.negative": {
+        "message": "You can not gift less then 0 $1"
+    }, 
+    "pointsystem.err.penalty": {
+        "message": "Usage: !penalty [user] [time in minutes]"
+    }, 
+    "pointsystem.gift.404": {
+        "message": "Sorry! That user does not seem to be registered with the chat yet!"
+    }, 
+    "pointsystem.gift.shortpoints": {
+        "message": "Sorry! You do not have enough points to send that gift!"
+    }, 
+    "pointsystem.gift.success": {
+        "message": "$1 has sent a gift of $2 to $3."
+    }, 
+    "pointsystem.gift.usage": {
+        "message": "Usage: !gift [user] [amount]"
+    }, 
+    "pointsystem.makeitrain.error.invalid": {
+        "message": "Sorry, but it's not possible to rain $1 at the moment."
+    }, 
+    "pointsystem.makeitrain.error.needpoints": {
+        "message": "You can not afford to make it rain $1."
+    }, 
+    "pointsystem.makeitrain.error.negative": {
+        "message": "You can not make it rain negative $1."
+    }, 
+    "pointsystem.makeitrain.success": {
+        "message": "A rainstorm's incoming! Thanks to $1, everyone gets a bonus of up to $2 $3!"
+    }, 
+    "pointsystem.makeitrain.usage": {
+        "message": "Usage: !makeitrain [amount]"
+    }, 
+    "pointsystem.message.set": {
+        "message": "Points message set to: $1"
+    }, 
+    "pointsystem.message.usage": {
+        "message": "Usage: !points setmessage [message] - Tags: (userprefix), (user), (points), (pointsname), (pointsstring), (time), and (rank)"
+    }, 
+    "pointsystem.penalty.set": {
+        "message": "User: $1 will not gain points for the next $2."
+    }, 
+    "pointsystem.reset.all": {
+        "message": "All points were deleted."
+    }, 
+    "pointsystem.set.bonus.error.negative": {
+        "message": "You can not set the bonus per group level to negative $1."
+    }, 
+    "pointsystem.set.bonus.success": {
+        "message": "Set the $1 bonus to $2 per group level."
+    }, 
+    "pointsystem.set.bonus.usage": {
+        "message": "Usage: !points bonus [amount]"
+    }, 
+    "pointsystem.set.gain.error.negative": {
+        "message": "You can not set the amount of $1 gained to a negative number."
+    }, 
+    "pointsystem.set.gain.offline.success": {
+        "message": "Set the $1 earnings to $2 every $3 minute(s) while the stream is offline."
+    }, 
+    "pointsystem.set.gain.offline.usage": {
+        "message": "Usage: !points setofflinegain [amount], if you have !permissionpoints set, it will override this!"
+    }, 
+    "pointsystem.set.gain.success": {
+        "message": "Set the $1 earnings to $2 every $3 minute(s) while the stream is online."
+    }, 
+    "pointsystem.set.gain.usage": {
+        "message": "Usage: !points setgain [amount], if you have !permissionpoints set, it will override this!"
+    }, 
+    "pointsystem.set.interval.error.negative": {
+        "message": "You can not set the $1 payout interval to negative minutes."
+    }, 
+    "pointsystem.set.interval.offline.success": {
+        "message": "Set the $1 payout interval to $2 minute(s) when the stream is offline."
+    }, 
+    "pointsystem.set.interval.offline.usage": {
+        "message": "Usage: !points setofflineinterval [amount]"
+    }, 
+    "pointsystem.set.interval.success": {
+        "message": "Set the $1 payout interval to $2 minute(s) when the stream is online."
+    }, 
+    "pointsystem.set.interval.usage": {
+        "message": "Usage: !points setinterval [amount]"
+    }, 
+    "pointsystem.set.name.both.success": {
+        "message": "The name of the points have now been changed from \"$1\" to \"$2\". Set the name for a single $2 using !points setname single [name]."
+    }, 
+    "pointsystem.set.name.delete": {
+        "message": "Removed custom point names."
+    }, 
+    "pointsystem.set.name.duplicate": {
+        "message": "That is the current name of the custom point command."
+    }, 
+    "pointsystem.set.name.multiple.success": {
+        "message": "Name of multiple points successfully changed from \"$1\" to \"$2\". To set the name for a single $2 use !points setname single [name]."
+    }, 
+    "pointsystem.set.name.single.success": {
+        "message": "Name of a single point successfully changed from \"$1\" to \"$2\". To set the name for multiple $2 use !points setname multiple [name]."
+    }, 
+    "pointsystem.set.name.usage": {
+        "message": "Usage: !points setname [single | multiple | delete] [name].  Sets the single or multiple name for chat points or deletes the values."
+    }, 
+    "pointsystem.setbalance.error.negative": {
+        "message": "You can not set a balance to negative $1."
+    }, 
+    "pointsystem.setbalance.success": {
+        "message": "Set the $1 balance of $2 to $3."
+    }, 
+    "pointsystem.setbalance.usage": {
+        "message": "Usage: !points set [name] [amount]"
+    }, 
+    "pointsystem.take.all.success": {
+        "message": "$1 have been removed from everybody in the channel!"
+    }, 
+    "pointsystem.take.all.usage": {
+        "message": "Usage: !points takeall [amount]"
+    }, 
+    "pointsystem.take.error.negative": {
+        "message": "You can not take negative $1."
+    }, 
+    "pointsystem.take.error.toomuch": {
+        "message": "You can not take more than what $1 has in $2."
+    }, 
+    "pointsystem.take.success": {
+        "message": "Took $1 from $2. New balance is $3."
+    }, 
+    "pointsystem.take.usage": {
+        "message": "Usage: !points take [name] [amount]"
+    }, 
+    "pointsystem.usage.invalid": {
+        "message": "Invalid option passed to $1 command"
+    }, 
+    "pointsystem.user.success": {
+        "message": " $1 currently has $2."
+    }
+}

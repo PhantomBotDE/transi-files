@@ -1,0 +1,32 @@
+{
+    "bitshandler.message.set": {
+        "message": "Bits message has been set to: $1."
+    }, 
+    "bitshandler.message.usage": {
+        "message": "Usage: !bitsmessage (message) - Tags: (name), (amount), (message)"
+    }, 
+    "bitshandler.minimum.set": {
+        "message": "Bits minimum has been set to $1 bits."
+    }, 
+    "bitshandler.minimum.usage": {
+        "message": "Usage: !bitsminimum (amount)"
+    }, 
+    "bitshandler.reward.set": {
+        "message": "Bits reward has been set to: $1."
+    }, 
+    "bitshandler.reward.usage": {
+        "message": "Usage: !bitsreward (amount)"
+    }, 
+    "bitshandler.rewardmulttoggle.off": {
+        "message": "Bits reward is now a constant value."
+    }, 
+    "bitshandler.rewardmulttoggle.on": {
+        "message": "Bits reward is now a multiplicative factor of the number of bits."
+    }, 
+    "bitshandler.toggle.off": {
+        "message": "Bits announcements have been disabled."
+    }, 
+    "bitshandler.toggle.on": {
+        "message": "Bits announcements have been enabled."
+    }
+}

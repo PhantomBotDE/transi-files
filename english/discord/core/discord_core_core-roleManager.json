@@ -1,0 +1,32 @@
+{
+    "discord.rolemanager.blacklist.add.success": {
+        "message": "Group $1 has been added to the blacklist!"
+    }, 
+    "discord.rolemanager.blacklist.add.usage": {
+        "message": "Usage: !rolemanager blacklist add [permission or rank] - Blacklist a ranks or permissions from being set."
+    }, 
+    "discord.rolemanager.blacklist.remove.success": {
+        "message": "Group $1 has been removed from the blacklist."
+    }, 
+    "discord.rolemanager.blacklist.remove.usage": {
+        "message": "Usage: !rolemanager blacklist remove [permission or rank]"
+    }, 
+    "discord.rolemanager.blacklist.usage": {
+        "message": "Usage: !rolemanager blacklist [add / remove] [permission or rank] - Blacklist a ranks or permissions from being set."
+    }, 
+    "discord.rolemanager.permission.sync.off": {
+        "message": "Bot permissions will no longer be synced."
+    }, 
+    "discord.rolemanager.permission.sync.on": {
+        "message": "Bot permissions will now be synced with users who have their account linked with the bot."
+    }, 
+    "discord.rolemanager.ranks.sync.off": {
+        "message": "Ranks will no longer be synced."
+    }, 
+    "discord.rolemanager.ranks.sync.on": {
+        "message": "Ranks will now be synced with users who have their account linked with the bot."
+    }, 
+    "discord.rolemanager.usage": {
+        "message": "Usage: !rolemanager [togglesyncpermissions / togglesyncranks / blacklist]"
+    }
+}

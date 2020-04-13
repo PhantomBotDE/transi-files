@@ -1,0 +1,92 @@
+{
+    "bettingsystem.bet.betplaced": {
+        "message": "You already placed a bet of $1 on $2."
+    }, 
+    "bettingsystem.bet.error.max": {
+        "message": "The maximum bet you can place is $1."
+    }, 
+    "bettingsystem.bet.error.min": {
+        "message": "The minimum bet you can place is $1."
+    }, 
+    "bettingsystem.bet.error.neg": {
+        "message": "You cannot bet negative $1!"
+    }, 
+    "bettingsystem.bet.error.points": {
+        "message": "You don't have enough $1 to bet that much."
+    }, 
+    "bettingsystem.bet.null": {
+        "message": "That is not a valid bet option."
+    }, 
+    "bettingsystem.bet.usage": {
+        "message": "Usage: !bet [amount] [option]"
+    }, 
+    "bettingsystem.close.error.usage": {
+        "message": "The bet is now closed! Waiting on winning result. Use !bet close [winning option]"
+    }, 
+    "bettingsystem.close.semi.success": {
+        "message": "The bet is now closed! Waiting on a winning option."
+    }, 
+    "bettingsystem.close.success": {
+        "message": "Bet is now closed! Winning option is $1! Calculating results and giving points to the winners!"
+    }, 
+    "bettingsystem.close.success.winners": {
+        "message": "A total of $1 players won this bet! There was a total of $2 was won for the people who placed a bet on $3!"
+    }, 
+    "bettingsystem.close.usage": {
+        "message": "Usage: !bet close [winning option]"
+    }, 
+    "bettingsystem.gain.set": {
+        "message": "Gain percent has been set to $1%"
+    }, 
+    "bettingsystem.gain.usage": {
+        "message": "Usage: !bet gain [percent]"
+    }, 
+    "bettingsystem.global.usage": {
+        "message": "Usage: !bet [open / close / save / saveformat / lookup / results / togglemessages / gain]"
+    }, 
+    "bettingsystem.lookup.null": {
+        "message": "No bets were made on that day."
+    }, 
+    "bettingsystem.lookup.show": {
+        "message": "Bet from [$1] $2"
+    }, 
+    "bettingsystem.lookup.usage": {
+        "message": "Usage: !bet lookup [$1] - use _# after the date if you made multiple bets that day."
+    }, 
+    "bettingsystem.not": {
+        "message": "not"
+    }, 
+    "bettingsystem.now": {
+        "message": "now"
+    }, 
+    "bettingsystem.open.error": {
+        "message": "You must chose a winning option on the previous bet before you can open a new one. Use !bet close [option]"
+    }, 
+    "bettingsystem.open.error.opened": {
+        "message": "A bet is already opened."
+    }, 
+    "bettingsystem.open.success": {
+        "message": "A bet is now opened! \"$1\". Bet options: \"$2\". Bet with: !bet [amount] [option]"
+    }, 
+    "bettingsystem.open.usage": {
+        "message": "Usage: !bet open [\"title\"] [\"option1, option2, etc.\"] [minimum bet] [maximum bet] [close timer mins] - The quotes are needed for the title and options."
+    }, 
+    "bettingsystem.results": {
+        "message": "Current bet: Title: \"$1\", Options: \"$2\", Total Points: $3, Total Entries: $4"
+    }, 
+    "bettingsystem.save.format": {
+        "message": "Title: \"$1\", Options: \"$2\", Total Points: $3, Total Entries: $4, Points Won: $5."
+    }, 
+    "bettingsystem.saveformat.set": {
+        "message": "Save format has been changed to $1."
+    }, 
+    "bettingsystem.saveformat.usage": {
+        "message": "Usage: !bet saveformat [date format] - Default is yy.M.dd"
+    }, 
+    "bettingsystem.toggle.save": {
+        "message": "Betting results will $1 be saved after closing a bet."
+    }, 
+    "bettingsystem.warning.messages": {
+        "message": "Warning messages will $1 be diplayed in chat."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "discord.streamlabshandler.channel.set": {
+        "message": "StreamLabs donation annoucements will now be made in channel #$1"
+    }, 
+    "discord.streamlabshandler.channel.usage": {
+        "message": "Usage: !streamlabshandler channel [channel name]"
+    }, 
+    "discord.streamlabshandler.embed.title": {
+        "message": "New Tip!"
+    }, 
+    "discord.streamlabshandler.message.set": {
+        "message": "StreamLabs donation message set to: $1"
+    }, 
+    "discord.streamlabshandler.message.usage": {
+        "message": "Usage: !streamlabshandler message [message] - Tags: (name) (amount) (currency) (message)"
+    }, 
+    "discord.streamlabshandler.toggle": {
+        "message": "StreamLabs donation announcements have been $1."
+    }, 
+    "discord.streamlabshandler.usage": {
+        "message": "Usage: !streamlabshandler [toggle / message / channel]"
+    }
+}

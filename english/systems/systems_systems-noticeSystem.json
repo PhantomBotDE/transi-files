@@ -1,0 +1,62 @@
+{
+    "noticehandler.notice-add-success": {
+        "message": "Notice added!"
+    }, 
+    "noticehandler.notice-add-usage": {
+        "message": "Usage: !notice add (message)"
+    }, 
+    "noticehandler.notice-config": {
+        "message": "Notice Settings - [Notice Toggle: $1 / Interval: $2 / Message Trigger: $3 / Amount: $4 / Say notice in offline chat: $5]"
+    }, 
+    "noticehandler.notice-disabled": {
+        "message": "Notices have been disabled."
+    }, 
+    "noticehandler.notice-disabled.offline": {
+        "message": "Notices will no longer be said while the stream is offline."
+    }, 
+    "noticehandler.notice-edit-success": {
+        "message": "Notice edited!"
+    }, 
+    "noticehandler.notice-edit-usage": {
+        "message": "Usage: !notice edit (notice id) (message) - Notice id's go from 0 to $1"
+    }, 
+    "noticehandler.notice-enabled": {
+        "message": "Notices have been enabled!"
+    }, 
+    "noticehandler.notice-enabled.offline": {
+        "message": "Notices now be said while the stream is offline."
+    }, 
+    "noticehandler.notice-error-notice-404": {
+        "message": "That notice does not exist."
+    }, 
+    "noticehandler.notice-get-usage": {
+        "message": "Usage: !notice get (notice id) - Notice id's go from 0 to $1"
+    }, 
+    "noticehandler.notice-interval-404": {
+        "message": "Notice interval needs to be more then 2 minutes."
+    }, 
+    "noticehandler.notice-interval-usage": {
+        "message": "Usage: !notice interval (interval)"
+    }, 
+    "noticehandler.notice-inteval-success": {
+        "message": "Notice interval set!"
+    }, 
+    "noticehandler.notice-remove-success": {
+        "message": "Notice removed!"
+    }, 
+    "noticehandler.notice-remove-usage": {
+        "message": "Usage: !notice remove (notice id) - Notice id's go from 0 to $1"
+    }, 
+    "noticehandler.notice-req-404": {
+        "message": "Notice req messages needs to at least 1."
+    }, 
+    "noticehandler.notice-req-success": {
+        "message": "Notice req message set!"
+    }, 
+    "noticehandler.notice-req-usage": {
+        "message": "Usage: !notice req (req messages)"
+    }, 
+    "noticehandler.notice-usage": {
+        "message": "Usage: !notice [add / get / remove / edit / config / interval / req / toggle / toggleoffline]"
+    }
+}

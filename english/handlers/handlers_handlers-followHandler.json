@@ -1,0 +1,104 @@
+{
+    "followhandler.check.follows": {
+        "message": "$1 is following the channel."
+    }, 
+    "followhandler.check.notfollows": {
+        "message": "$1 is not following the channel."
+    }, 
+    "followhandler.check.usage": {
+        "message": "Usage: !checkfollow [username]"
+    }, 
+    "followhandler.fixfollow.added": {
+        "message": "Added $1 to the followed list!"
+    }, 
+    "followhandler.fixfollow.error": {
+        "message": "$1 is already in the followed list."
+    }, 
+    "followhandler.fixfollow.error.404": {
+        "message": "$1 is not following your channel."
+    }, 
+    "followhandler.fixfollow.usage": {
+        "message": "Usage: !fixfollow (username)"
+    }, 
+    "followhandler.follow.age.datefmt": {
+        "message": "MM-dd-yyyy"
+    }, 
+    "followhandler.follow.age.datefmt.404": {
+        "message": "Not Following"
+    }, 
+    "followhandler.follow.age.err.404": {
+        "message": "$1 $2 is not following channel $3"
+    }, 
+    "followhandler.follow.age.time": {
+        "message": "$1 $2 has been following channel $3 since $4."
+    }, 
+    "followhandler.follow.age.time.days": {
+        "message": "$1 $2 has been following channel $3 since $4 ($5 days ago)."
+    }, 
+    "followhandler.follow.message": {
+        "message": "(name) just followed the channel! Here's +(reward)!"
+    }, 
+    "followhandler.followers": {
+        "message": "$1 users are following this channel!"
+    }, 
+    "followhandler.followtoggle.off": {
+        "message": "Announcements are disabled for new followers."
+    }, 
+    "followhandler.followtoggle.on": {
+        "message": "Announcements are enabled for new followers."
+    }, 
+    "followhandler.followtrain.mega": {
+        "message": "Mega follow train!! ($1)"
+    }, 
+    "followhandler.followtrain.penta": {
+        "message": "Penta follow!!"
+    }, 
+    "followhandler.followtrain.quad": {
+        "message": "Quadra follow!!"
+    }, 
+    "followhandler.followtrain.triple": {
+        "message": "Triple follow!!"
+    }, 
+    "followhandler.followtrain.ultra": {
+        "message": "Ultra follow train!! ($1)"
+    }, 
+    "followhandler.followtrain.unbelievable": {
+        "message": "Unbelievable follow train!! ($1)"
+    }, 
+    "followhandler.followtraintoggle.off": {
+        "message": "Follow train announcements are now disabled."
+    }, 
+    "followhandler.followtraintoggle.on": {
+        "message": "Follow train announcements are now enabled."
+    }, 
+    "followhandler.set.followdelay.success": {
+        "message": "Follow delay set to $1 seconds."
+    }, 
+    "followhandler.set.followdelay.usage": {
+        "message": "Usage: !followdelay [amount in seconds] - Minimum is 5 seconds."
+    }, 
+    "followhandler.set.followmessage.success": {
+        "message": "Follow message set to \"$1\"."
+    }, 
+    "followhandler.set.followmessage.usage": {
+        "message": "Usage: !followmessage [message] - Tags: (reward) (name)"
+    }, 
+    "followhandler.set.followreward.success": {
+        "message": "Follow reward set to $1."
+    }, 
+    "followhandler.set.followreward.usage": {
+        "message": "Usage: !followreward [$1]. (Currently $2)"
+    }, 
+    "followhandler.shoutout.no.game": {
+        "message": "Hey! Go give $1 a follow at $2!"
+    }, 
+    "followhandler.shoutout.offline": {
+        "message": "Go give $1 a follow at $2 - they were last seen playing: $3!"
+    }, 
+    "followhandler.shoutout.online": {
+        "message": "Go give $1 a follow at $2 - they are currently playing: $3!"
+    }, 
+    "followhandler.shoutout.usage": {
+        "message": "Usage: !$1 (streamer)"
+    }
+}

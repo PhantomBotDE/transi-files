@@ -1,0 +1,35 @@
+{
+    "discord.misc.game.removed": {
+        "message": "Bot game has been removed."
+    }, 
+    "discord.misc.game.set": {
+        "message": "Bot game updated to: $1"
+    }, 
+    "discord.misc.game.set.usage": {
+        "message": "Usage: !setgame [game name]"
+    }, 
+    "discord.misc.game.stream.set": {
+        "message": "Bot stream changed to: $1 and game to: $2"
+    }, 
+    "discord.misc.game.stream.set.usage": {
+        "message": "Usage: !setstream [twitch url] [game name]"
+    }, 
+    "discord.misc.module.404": {
+        "message": "That module does not exist: $1"
+    }, 
+    "discord.misc.module.disabled": {
+        "message": "Module: $1 has been disabled."
+    }, 
+    "discord.misc.module.enabled": {
+        "message": "Module: $1 has been enabled."
+    }, 
+    "discord.misc.module.list": {
+        "message": "Discord Module list: \r\n $1"
+    }, 
+    "discord.misc.module.usage": {
+        "message": "Usage: !module [enable / disable / list]"
+    }, 
+    "discord.misc.reconnect": {
+        "message": "A Discord reconnect is being attempted."
+    }
+}

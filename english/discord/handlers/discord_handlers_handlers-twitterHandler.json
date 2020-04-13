@@ -1,0 +1,17 @@
+{
+    "discord.twitterhandler.channel.set": {
+        "message": "Twitter annoucements will now be made in channel #$1"
+    }, 
+    "discord.twitterhandler.channel.usage": {
+        "message": "Usage: !twitterhandler channel [channel name]"
+    }, 
+    "discord.twitterhandler.toggle": {
+        "message": "Twitter annoucements have been $1."
+    }, 
+    "discord.twitterhandler.tweet": {
+        "message": "[Twitter Feed From]"
+    }, 
+    "discord.twitterhandler.usage": {
+        "message": "Usage: !twitterhandler [toggle / channel]"
+    }
+}
