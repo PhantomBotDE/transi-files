@@ -83,6 +83,9 @@
     "customcommands.edit.404": {
         "message": "You cannot overwrite a default command."
     }, 
+    "customcommands.edit.editcom.alias": {
+        "message": "You cannot edit an alias, please use the following: !editcom !$1 $2"
+    },
     "customcommands.edit.success": {
         "message": "Command !$1 has been edited!"
     }, 
