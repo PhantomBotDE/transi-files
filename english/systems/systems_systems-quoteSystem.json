@@ -55,5 +55,11 @@
     }, 
     "quotesystem.searchquote.usage": {
         "message": "Usage: !searchquote [text] (Must provide at least 5 characters)"
+    }, 
+    "quotesystem.twitchnames-disabled": {
+        "message": "Usernames for quotes won't be validated"
+    }, 
+    "quotesystem.twitchnames-enabled": {
+        "message": "Usernames for quotes will validated against users who have been in chat."
     }
 }

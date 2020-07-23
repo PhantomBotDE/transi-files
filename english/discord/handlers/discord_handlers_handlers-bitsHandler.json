@@ -1,6 +1,6 @@
 {
     "discord.bitshandler.bits.channel.set": {
-        "message": "Bit announcements will now be made in channel #$1"
+        "message": "Bit announcements will now be made in channel $1"
     }, 
     "discord.bitshandler.bits.channel.usage": {
         "message": "Usage: !bitshandler channel [channel name]"

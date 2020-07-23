@@ -47,8 +47,11 @@
     "moderation.cleanup.done": {
         "message": "Deleted $1 messages!"
     }, 
-    "moderation.cleanup.err": {
-        "message": "You can only delete 1 to 10000 messages."
+    "moderation.cleanup.err.amount": {
+        "message": "You can only delete 2 to 10000 messages."
+    }, 
+    "moderation.cleanup.err.unknownchannel": {
+        "message": "Unknown channel: $1. Try discord's auto-completion."
     }, 
     "moderation.cleanup.failed": {
         "message": "Failed to perform bulk message deletion: Currently deleting messages."
@@ -72,7 +75,7 @@
         "message": "Usage: !moderation links [toggle / permittime]"
     }, 
     "moderation.logs.channel.set": {
-        "message": "Twitch moderation log announcements will now be made in channel #$1"
+        "message": "Twitch moderation log announcements will now be made in channel $1"
     }, 
     "moderation.logs.channel.usage": {
         "message": "Usage: !moderation logs channel [channel name]"

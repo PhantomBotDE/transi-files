@@ -1,6 +1,6 @@
 {
     "discord.streamelementshandler.channel.set": {
-        "message": "StreamElements donation annoucements will now be made in channel #$1"
+        "message": "StreamElements donation annoucements will now be made in channel $1"
     }, 
     "discord.streamelementshandler.channel.usage": {
         "message": "Usage: !streamelementshandler channel [channel name]"

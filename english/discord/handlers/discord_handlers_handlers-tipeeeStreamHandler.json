@@ -1,6 +1,6 @@
 {
     "discord.tipeeestreamhandler.channel.set": {
-        "message": "TipeeeStream donation announcements will now be made in channel #$1"
+        "message": "TipeeeStream donation announcements will now be made in channel $1"
     }, 
     "discord.tipeeestreamhandler.channel.usage": {
         "message": "Usage: !tipeeestreamhandler channel [channel name]"

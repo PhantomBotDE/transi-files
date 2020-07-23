@@ -51,7 +51,7 @@
         "message": "Provide a number to find a page."
     }, 
     "customcommands.botcommands.total": {
-        "message": "Total Pages: $1 [See also: https://phantombot.tv/commands]"
+        "message": "Total Pages: $1 [See also: https://phantombot.tv/guides/#guide=content/commands/commands]"
     }, 
     "customcommands.cmds": {
         "message": "Current custom commands: $1"
@@ -85,7 +85,7 @@
     }, 
     "customcommands.edit.editcom.alias": {
         "message": "You cannot edit an alias, please use the following: !editcom !$1 $2"
-    },
+    }, 
     "customcommands.edit.success": {
         "message": "Command !$1 has been edited!"
     }, 

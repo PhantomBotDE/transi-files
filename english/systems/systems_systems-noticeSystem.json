@@ -33,7 +33,7 @@
         "message": "Usage: !notice get (notice id) - Notice id's go from 0 to $1"
     }, 
     "noticehandler.notice-interval-404": {
-        "message": "Notice interval needs to be more then 2 minutes."
+        "message": "Notice interval needs to be more then 5 minutes."
     }, 
     "noticehandler.notice-interval-usage": {
         "message": "Usage: !notice interval (interval)"

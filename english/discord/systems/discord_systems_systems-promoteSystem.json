@@ -42,7 +42,7 @@
         "message": "Use which channel for promotions? To remove current channel use !promoteadm channel clear"
     }, 
     "discord.promotesystem.cmd.promoteadm.channel.success": {
-        "message": "Promote channel has been set to: #$1"
+        "message": "Promote channel has been set to: $1"
     }, 
     "discord.promotesystem.cmd.promoteadm.del.nouser": {
         "message": "Who you wish to remove from being promoted?"
@@ -84,7 +84,7 @@
         "message": "Use which channel for stream announcements? To remove current channel use !promoteadm streamchannel clear"
     }, 
     "discord.promotesystem.cmd.promoteadm.streamchannel.success": {
-        "message": "Stream announcement channel has been set to: #$1"
+        "message": "Stream announcement channel has been set to: $1"
     }, 
     "discord.promotesystem.cmd.promoteadm.togglebanner.off": {
         "message": "Banners will no longer show when a stream is announced."

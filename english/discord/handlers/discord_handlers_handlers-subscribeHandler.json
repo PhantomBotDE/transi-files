@@ -1,6 +1,6 @@
 {
     "discord.subscribehandler.channel.set": {
-        "message": "Subscriber annoucements will now be made in channel #$1"
+        "message": "Subscriber annoucements will now be made in channel $1"
     }, 
     "discord.subscribehandler.channel.usage": {
         "message": "Usage: !subscribehandler channel [channel name]"

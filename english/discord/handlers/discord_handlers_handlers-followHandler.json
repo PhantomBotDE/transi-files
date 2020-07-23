@@ -1,6 +1,6 @@
 {
     "discord.followhandler.follow.channel.set": {
-        "message": "Follow announcements will now be made in channel #$1"
+        "message": "Follow announcements will now be made in channel $1"
     }, 
     "discord.followhandler.follow.channel.usage": {
         "message": "Usage: !followhandler channel [channel name]"

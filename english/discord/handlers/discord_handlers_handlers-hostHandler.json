@@ -9,7 +9,7 @@
         "message": "Usage: !hosthandler autohostmessage [message] - Tags: (name) (viewers)"
     }, 
     "discord.hosthandler.channel.set": {
-        "message": "Host announcements will now be made in channel #$1"
+        "message": "Host announcements will now be made in channel $1"
     }, 
     "discord.hosthandler.channel.usage": {
         "message": "Usage: !hosthandler channel [channel name]"

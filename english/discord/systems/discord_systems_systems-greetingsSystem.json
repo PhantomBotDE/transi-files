@@ -1,6 +1,6 @@
 {
     "discord.greetingssystem.channel.set": {
-        "message": "Greeting announcements will now be made in channel #$1"
+        "message": "Greeting announcements will now be made in channel $1"
     }, 
     "discord.greetingssystem.channel.usage": {
         "message": "Usage: !greetingssystem channel [channel name]"

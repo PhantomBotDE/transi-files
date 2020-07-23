@@ -1,6 +1,6 @@
 {
     "discord.twitterhandler.channel.set": {
-        "message": "Twitter annoucements will now be made in channel #$1"
+        "message": "Twitter annoucements will now be made in channel $1"
     }, 
     "discord.twitterhandler.channel.usage": {
         "message": "Usage: !twitterhandler channel [channel name]"

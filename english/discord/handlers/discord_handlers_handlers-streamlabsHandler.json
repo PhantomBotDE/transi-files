@@ -1,6 +1,6 @@
 {
     "discord.streamlabshandler.channel.set": {
-        "message": "StreamLabs donation annoucements will now be made in channel #$1"
+        "message": "StreamLabs donation annoucements will now be made in channel $1"
     }, 
     "discord.streamlabshandler.channel.usage": {
         "message": "Usage: !streamlabshandler channel [channel name]"
