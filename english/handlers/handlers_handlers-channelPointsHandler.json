@@ -1,0 +1,167 @@
+{
+    "channelpointshandler.config.failed": {
+        "message": "no channel point redemption was detected. Please try again. If you are having problems please visit the PhantomBot Discord discord.com/invite/YKvMd78"
+    }, 
+    "channelpointshandler.current": {
+        "message": "channel point automation currently enabled for$1. Use \"!channelpoints useage\" for command usage or \"!channelpoints info\" for information about what PhantomBot can do with channelpoints"
+    }, 
+    "channelpointshandler.emoteonly.config.complete": {
+        "message": "Channel points emoteonly config complete. Emoteonly is now registered to reward $1."
+    }, 
+    "channelpointshandler.emoteonly.config.start": {
+        "message": "channel points emoteonly config active. Please redeem desired reward."
+    }, 
+    "channelpointshandler.emoteonly.current": {
+        "message": "emoteonly redemptions are registered to $1 and chat will be placed in emote only mode for $2 seconds. To change please use \"!channelpoints emoteonly [config / duration]\""
+    }, 
+    "channelpointshandler.emoteonly.disabled": {
+        "message": "channel points redemption emoteonly disabled."
+    }, 
+    "channelpointshandler.emoteonly.duration.message": {
+        "message": "channel points redemption emoteonly will place chat in emote only mode for $1 seconds."
+    }, 
+    "channelpointshandler.emoteonly.duration.notset": {
+        "message": "channel points reward, emoteonly duration has not been set. Use \"!channelpoints emoteonly duration [duration in seconds]\" to set."
+    }, 
+    "channelpointshandler.emoteonly.duration.usage": {
+        "message": "channel points reward, emoteonly duration set to $1. Use \"!channelpoints emoteonly duration [duration in seconds]\" to change."
+    }, 
+    "channelpointshandler.emoteonly.enabled": {
+        "message": "channel points redemption emoteonly enabled for reward $1."
+    }, 
+    "channelpointshandler.emoteonly.info": {
+        "message": "emoteonly is not enabled. When an emoteonly redemption is claimed, chat will be placed in emote only mode for a set duration. To configure please use \"!channelpoints emoteonly config\" or for more info please use \"!channelpoints emoteonly usage.\""
+    }, 
+    "channelpointshandler.emoteonly.toggle.duration": {
+        "message": "unable to enable emoteonly as no duration has been set. Please use \"!channelpoints emoteonly duration [duration in seconds]\" to set."
+    }, 
+    "channelpointshandler.emoteonly.toggle.id": {
+        "message": "unable to enable emoteonly as no valid reward ID was found. Please use \"!channelpoints emoteonly config\" to set reward."
+    }, 
+    "channelpointshandler.emoteonly.usage": {
+        "message": "usage: !channelpoints emoteonly [usage / config / duration / toggle]"
+    }, 
+    "channelpointshandler.giveall.amount.message": {
+        "message": "channel points redemption giveall will add $1 points to all users in chat."
+    }, 
+    "channelpointshandler.giveall.amount.notset": {
+        "message": "channel points reward, giveall amount has not been set. Use \"!channelpoints giveall amount [amount of points bot will award]\" to set."
+    }, 
+    "channelpointshandler.giveall.amount.usage": {
+        "message": "channel points reward, giveall amount set to $1. Use \"!channelpoints giveall amount [amount of points bot will award]\" to change."
+    }, 
+    "channelpointshandler.giveall.config.complete": {
+        "message": "Channel points giveall config complete. Giveall is now registered to reward $1."
+    }, 
+    "channelpointshandler.giveall.config.start": {
+        "message": "channel points giveall config active. Please redeem desired reward."
+    }, 
+    "channelpointshandler.giveall.current": {
+        "message": "giveall redemptions are registered to $1 and user will receive $2 points for each redemption. To change please use \"!channelpoints giveall [config / amount]\""
+    }, 
+    "channelpointshandler.giveall.disabled": {
+        "message": "channel points redemption giveall disabled."
+    }, 
+    "channelpointshandler.giveall.enabled": {
+        "message": "channel points redemption giveall enabled for reward $1."
+    }, 
+    "channelpointshandler.giveall.info": {
+        "message": "giveall is not enabled. When a giveall redemption is claimed, all users in chat will be given a set amount of points. To configure please use \"!channelpoints giveall config\" or for more info please use \"!channelpoints giveall usage.\""
+    }, 
+    "channelpointshandler.giveall.toggle.amount": {
+        "message": "unable to enable giveall as no amount has been set. Please use \"!channelpoints giveall amount [amount of points bot will award]\" to set."
+    }, 
+    "channelpointshandler.giveall.toggle.id": {
+        "message": "unable to enable giveall as no valid reward ID was found. Please use \"!channelpoints giveall config\" to set reward."
+    }, 
+    "channelpointshandler.giveall.usage": {
+        "message": "usage: !channelpoints giveall [usage / config / amount / toggle]"
+    }, 
+    "channelpointshandler.info": {
+        "message": "PhantomBot can be configured to automate channel point redemptions for several functions. Transfer: user will receive bot currency. Giveall: everyone in chat to receive bot currency. Emoteonly: place chat in emote only mode for an amount of time. Timeout: timeout a specified user for an amount of time."
+    }, 
+    "channelpointshandler.nan": {
+        "message": "input must be a number, please try again."
+    }, 
+    "channelpointshandler.notenabled": {
+        "message": "no channel points functions are currently enabled. Please use \"!channelpoints info\" for information about what PhantomBot can do with channelpoints or \"!channelpoints usage\" for usage"
+    }, 
+    "channelpointshandler.timeout.config.complete": {
+        "message": "Channel points timeout config complete. Timeout is now registered to reward $1."
+    }, 
+    "channelpointshandler.timeout.config.start": {
+        "message": "channel points timeout config active. Please redeem desired reward."
+    }, 
+    "channelpointshandler.timeout.current": {
+        "message": "timeout redemptions are registered to $1 and specified user will be timed out for $2 seconds. To change please use \"!channelpoints timeout [config / duration]\""
+    }, 
+    "channelpointshandler.timeout.disabled": {
+        "message": "channel points redemption timeout disabled."
+    }, 
+    "channelpointshandler.timeout.duration.message": {
+        "message": "channel points redemption timeout will time specified user out for $1 seconds."
+    }, 
+    "channelpointshandler.timeout.duration.notset": {
+        "message": "channel points reward, timeout duration has not been set. Use \"!channelpoints timeout duration [duration in seconds]\" to set."
+    }, 
+    "channelpointshandler.timeout.duration.usage": {
+        "message": "channel points reward, timeout duration set to $1. Use \"!channelpoints timeout duration [duration in seconds]\" to change."
+    }, 
+    "channelpointshandler.timeout.enabled": {
+        "message": "channel points redemption timeout enabled for reward $1."
+    }, 
+    "channelpointshandler.timeout.info": {
+        "message": "timeout is not enabled. When an timeout redemption is claimed, stated user will be timed out for a set duration. To configure please use \"!channelpoints timeout config\" or for more info please use \"!channelpoints timeout usage.\""
+    }, 
+    "channelpointshandler.timeout.nouserinput": {
+        "message": "Channel point reward redeemed has no user input so cannot be set used for timeout. Please setup a reward with user input and try again."
+    }, 
+    "channelpointshandler.timeout.toggle.duration": {
+        "message": "unable to enable timeout as no duration has been set. Please use \"!channelpoints timeout duration [duration in seconds]\" to set."
+    }, 
+    "channelpointshandler.timeout.toggle.id": {
+        "message": "unable to enable timeout as no valid reward ID was found. Please use \"!channelpoints timeout config\" to set reward."
+    }, 
+    "channelpointshandler.timeout.usage": {
+        "message": "usage: !channelpoints timeout [usage / config / duration / toggle]"
+    }, 
+    "channelpointshandler.transfer.amount.message": {
+        "message": "channel points redemption transfer will add $1 points to user who redeemed the reward."
+    }, 
+    "channelpointshandler.transfer.amount.notset": {
+        "message": "channel points reward, transfer amount has not been set. Use \"!channelpoints transfer amount [amount of points bot will award]\" to set."
+    }, 
+    "channelpointshandler.transfer.amount.usage": {
+        "message": "channel points reward, transfer amount set to $1. Use \"!channelpoints transfer amount [amount of points bot will award]\" to change."
+    }, 
+    "channelpointshandler.transfer.config.complete": {
+        "message": "Channel points transfer config complete. Transfer is now registered to reward $1."
+    }, 
+    "channelpointshandler.transfer.config.start": {
+        "message": "channel points transfer config active. Please redeem desired reward."
+    }, 
+    "channelpointshandler.transfer.current": {
+        "message": "transfer redemptions are registered to $1 and user will receive $2 points for each redemption. To change please use \"!channelpoints transfer [config / amount]\""
+    }, 
+    "channelpointshandler.transfer.disabled": {
+        "message": "channel points redemption transfer disabled."
+    }, 
+    "channelpointshandler.transfer.enabled": {
+        "message": "channel points redemption transfer enabled for reward $1."
+    }, 
+    "channelpointshandler.transfer.info": {
+        "message": "transfer is not enabled. When a transfer redemption is claimed, user will be given a set amount of points. To configure please use \"!channelpoints transfer config\" or for more info please use \"!channelpoints transfer usage.\""
+    }, 
+    "channelpointshandler.transfer.toggle.amount": {
+        "message": "unable to enable transfer as no amount has been set. Please use \"!channelpoints transfer [amount amount of points bot will award]\" to set."
+    }, 
+    "channelpointshandler.transfer.toggle.id": {
+        "message": "unable to enable transfer as no valid reward ID was found. Please use \"!channelpoints transfer config\" to set reward."
+    }, 
+    "channelpointshandler.transfer.usage": {
+        "message": "usage: !channelpoints transfer [usage / config / amount / toggle]"
+    }, 
+    "channelpointshandler.usage": {
+        "message": "usage: !channelpoints [info / usage / transfer / giveall / emoteonly / timeout]"
+    }
+}

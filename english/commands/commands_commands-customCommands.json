@@ -51,7 +51,7 @@
         "message": "Provide a number to find a page."
     }, 
     "customcommands.botcommands.total": {
-        "message": "Total Pages: $1 [See also: https://phantombot.tv/guides/#guide=content/commands/commands]"
+        "message": "Total Pages: $1 [See also: https://phantombot.github.io/PhantomBot/guides/#guide=content/commands/commands]"
     }, 
     "customcommands.cmds": {
         "message": "Current custom commands: $1"
@@ -61,6 +61,9 @@
     }, 
     "customcommands.customapijson.err": {
         "message": "!$1: An error occurred processing the API."
+    }, 
+    "customcommands.datetime.format.invalid": {
+        "message": "unrecognized date format \"$1\""
     }, 
     "customcommands.delete.success": {
         "message": "Command !$1 has been removed!"
@@ -103,6 +106,18 @@
     }, 
     "customcommands.enable.usage": {
         "message": "Usage: !enablecom (command)"
+    }, 
+    "customcommands.file.404": {
+        "message": "file not found: $1"
+    }, 
+    "customcommands.keyword.404": {
+        "message": "unknown keyword \"$1\""
+    }, 
+    "customcommands.lasttip.404": {
+        "message": "No donations found."
+    }, 
+    "customcommands.playsound.404": {
+        "message": "unknown audio hook \"$1\""
     }, 
     "customcommands.reset.change.fail": {
         "message": "Invalid counter value: $1"
@@ -154,6 +169,12 @@
     }, 
     "customcommands.set.price.usage": {
         "message": "Usage: !pricecom (command) [subcommand] [subaction] (price). Optional: subcommand and subaction"
+    }, 
+    "customcommands.teamapi.member.404": {
+        "message": "member \"$1\" is not in team \"$2\""
+    }, 
+    "customcommands.teamapi.team.404": {
+        "message": "you're not part of team \"$1\""
     }, 
     "customcommands.token.success": {
         "message": "Token set for command !$1! Make sure you put a (token) subtag in the customapi url for this command in the spot you want it to appear"

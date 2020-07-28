@@ -1,6 +1,6 @@
 {
     "keywordhandler.add.usage": {
-        "message": "Usage: !keyword add [keyword / regex:keyword] [response]"
+        "message": "Usage: !keyword add [flags] [keyword] [response]. Flags can by empty or any combination of \"--regex\", \"--case-sensitive\"."
     }, 
     "keywordhandler.cooldown.removed": {
         "message": "Cooldown for keyword $1 has been removed."
